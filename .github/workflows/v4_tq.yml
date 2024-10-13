@@ -29,7 +29,7 @@ jobs:
         wget https://raw.githubusercontent.com/360vip/v4/refs/heads/main/tv/ipv4.m3u -O CNTV1.m3u && sed -i -n '/电影频道/,+1p' CNTV1.m3u
         wget https://raw.githubusercontent.com/360vip/v4/refs/heads/main/tv/v4.m3u -O CNTV2.m3u && sed -i -n '/虎牙｜轮播/,+1p' CNTV2.m3u
         wget https://raw.githubusercontent.com/360vip/v4/refs/heads/main/tv/v4.m3u -O CNTV2.m3u -O CNTV3.m3u && sed -i -n '/斗鱼｜轮播/,+1p' CNTV3.m3u
-        cat CNTV1.m3u >> v4/LBm3u
+        cat CNTV1.m3u >> v4/LB.m3u
         cat CNTV2.m3u >> v4/LB.m3u
         cat CNTV3.m3u >> v4/LB.m3u
         rm -f CNTV1.m3u CNTV2.m3u CNTV3.m3u
