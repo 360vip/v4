@@ -39,8 +39,8 @@ jobs:
         # 电影源
         rm -f v4/DY.m3u && touch v4/DY.m3u
         wget https://raw.githubusercontent.com/360vip/v4/refs/heads/main/tv/v4.m3u -O DYTV1.m3u && sed -i -n '/港台｜电影/,+1p' DYTV1.m3u
-        wget https://raw.githubusercontent.com/360vip/v4/refs/heads/main/tv/v4.m3u -O DYTV2.m3u && sed -i -n '暮雨｜芒果/,+1p' DYTV2.m3u
-        wget https://raw.githubusercontent.com/360vip/v4/refs/heads/main/tv/v4.m3u -O DYTV3.m3u && sed -i -n '历年｜春晚/,+1p' DYTV3.m3u
+        wget https://raw.githubusercontent.com/360vip/v4/refs/heads/main/tv/v4.m3u -O DYTV2.m3u && sed -i -n '/暮雨｜芒果/,+1p' DYTV2.m3u
+        wget https://raw.githubusercontent.com/360vip/v4/refs/heads/main/tv/v4.m3u -O DYTV3.m3u && sed -i -n '/历年｜春晚/,+1p' DYTV3.m3u
         cat DYTV1.m3u >> v4/DY.m3u
         cat DYTV2.m3u >> v4/DY.m3u
         cat DYTV3.m3u >> v4/DY.m3u
