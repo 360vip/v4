@@ -155,15 +155,6 @@ CHC家庭影院,http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=86
 CETV1,http://1.69.74.111:9902/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CETV1,http://1.69.74.243:9902/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 高尔夫网球,http://112.234.23.81:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
-CETV2,http://1.69.74.111:9902/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-CETV2,http://1.69.74.243:9902/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV文化精品,http://124.230.56.55:55555/udp/239.76.254.56:9000
-CCTV文化精品,http://222.169.41.210:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV文化精品,http://xuys.top:8888/udp/225.1.2.177:5002
-CCTV文化精品,http://wouu.net:9977/udp/239.93.42.47:5140
-CCTV央视网球,http://120.234.49.38:7000/udp/239.21.0.72:3628
-CCTV发现之旅,http://xuys.top:8888/udp/225.1.1.183:5002
-CCTV老故事,http://xuys.top:8888/udp/225.1.1.188:5002
 CCTV中学生,http://121.24.98.127:8090/hls/24/index.m3u8
 CCTV中学生,http://xuys.top:8888/udp/225.1.1.193:5002
 CCTV央视精品,http://120.234.49.38:7000/udp/239.21.0.77:3648
