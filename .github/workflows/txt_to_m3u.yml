@@ -3,7 +3,7 @@ name: TXT to M3U
 on:  
   push:  
     paths:  
-      - 'LB.txt'  # 当txt文件发生变化时触发  
+      - 'v4/**/*.txt'  # 当txt文件发生变化时触发  
   workflow_dispatch:  # 手动触发  
 
 jobs:
