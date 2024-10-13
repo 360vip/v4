@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 group-title="💚更新时间10-13 17:29",仅供学习使用
+#EXTINF:-1 group-title="💚更新时间10-13 23:34",仅供学习使用
 http://ali.hlspull.yximgs.com/live/asdfg863678266.flv
 #EXTINF:-1 tvg-id="暮雨直播" tvg-name="暮雨直播" tvg-logo="https://live.fanmingming.com/tv/暮雨直播.png" group-title="🐯暮雨｜直播",暮雨直播
 https://v.cdnlz12.com/20240927/17158_ef65f743/index.m3u8
@@ -19,22 +19,50 @@ https://pay.haiqu.vip:2266/hls/spsj/2022/11/28/13071/playlist.m3u8
 https://pay.haiqu.vip:2266/hls/spsj/2018/01/20181011/10442/playlist.m3u8
 #EXTINF:-1 tvg-id="谢谢合作" tvg-name="谢谢合作" tvg-logo="https://live.fanmingming.com/tv/谢谢合作.png" group-title="🐯暮雨｜直播",谢谢合作
 https://pay.haiqu.vip:2266/hls/spsj/2022/11/28/13065/playlist.m3u8松视贰台,p3p://108.181.32.169:35905/650b8a51000ac6568f1c30530c503d72
-#EXTINF:-1 tvg-id="黑软小儿" tvg-name="黑软小儿" tvg-logo="https://live.fanmingming.com/tv/黑软小儿.png" group-title="🐯暮雨｜直播",黑软小儿
-https://bfikuncdn.com/20240927/cISIvsh7/index.m3u8
-#EXTINF:-1 tvg-id="给我听着" tvg-name="给我听着" tvg-logo="https://live.fanmingming.com/tv/给我听着.png" group-title="🐯暮雨｜直播",给我听着
-https://cdn.wlcdn99.com:777/60d73fe9/index.m3u8
-#EXTINF:-1 tvg-id="跟狮子打架" tvg-name="跟狮子打架" tvg-logo="https://live.fanmingming.com/tv/跟狮子打架.png" group-title="🐯暮雨｜直播",跟狮子打架
-https://cdn.wlcdn99.com:777/b8f7897c/index.m3u8
-#EXTINF:-1 tvg-id="最起码是藏獒" tvg-name="最起码是藏獒" tvg-logo="https://live.fanmingming.com/tv/最起码是藏獒.png" group-title="🐯暮雨｜直播",最起码是藏獒
-https://cdn.wlcdn99.com:777/a5145a56/index.m3u8
-#EXTINF:-1 tvg-id="你个金巴" tvg-name="你个金巴" tvg-logo="https://live.fanmingming.com/tv/你个金巴.png" group-title="🐯暮雨｜直播",你个金巴
-https://ali.hlspull.yximgs.com/live/lgtv93858.flv
-#EXTINF:-1 tvg-id="博美的串" tvg-name="博美的串" tvg-logo="https://live.fanmingming.com/tv/博美的串.png" group-title="🐯暮雨｜直播",博美的串
-http://huanqiuzhibo.cn/manifest/douyu.php?id=9548850
-#EXTINF:-1 tvg-id="你都不配" tvg-name="你都不配" tvg-logo="https://live.fanmingming.com/tv/你都不配.png" group-title="🐯暮雨｜直播",你都不配
-http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
-#EXTINF:-1 tvg-id="跟爷交手" tvg-name="跟爷交手" tvg-logo="https://live.fanmingming.com/tv/跟爷交手.png" group-title="🐯暮雨｜直播",跟爷交手
-http://ali.hlspull.yximgs.com/live/asdfg863678266.flv
+#EXTINF:-1 tvg-id="松视壹台" tvg-name="松视壹台" tvg-logo="https://live.fanmingming.com/tv/松视壹台.png" group-title="🐯暮雨｜直播",松视壹台
+p3p://108.181.32.169:25738/650b87f1000d765a8f12ea107fd81201
+#EXTINF:-1 tvg-id="松视贰台" tvg-name="松视贰台" tvg-logo="https://live.fanmingming.com/tv/松视贰台.png" group-title="🐯暮雨｜直播",松视贰台
+p3p://108.181.32.169:25738/650b8a51000ac6568f1c30530c503d72
+#EXTINF:-1 tvg-id="松视叁台" tvg-name="松视叁台" tvg-logo="https://live.fanmingming.com/tv/松视叁台.png" group-title="🐯暮雨｜直播",松视叁台
+p3p://108.181.32.169:25738/650b8a0e000007df8f1b27da75d42f65
+#EXTINF:-1 tvg-id="香蕉频道" tvg-name="香蕉频道" tvg-logo="https://live.fanmingming.com/tv/香蕉频道.png" group-title="🐯暮雨｜直播",香蕉频道
+p3p://108.181.32.169:25738/650b8ae60005f36b8f1e751f68bd1c14
+#EXTINF:-1 tvg-id="惊艳频道" tvg-name="惊艳频道" tvg-logo="https://live.fanmingming.com/tv/惊艳频道.png" group-title="🐯暮雨｜直播",惊艳频道
+p3p://108.181.32.169:25738/650b8b37000c4e8a8f1fb328756e4077
+#EXTINF:-1 tvg-id="粉紅频道" tvg-name="粉紅频道" tvg-logo="https://live.fanmingming.com/tv/粉紅频道.png" group-title="🐯暮雨｜直播",粉紅频道
+p3p://108.181.32.169:25738/641a800b00087defc0dde7672f891ee4
+#EXTINF:-1 tvg-id="玩美频道" tvg-name="玩美频道" tvg-logo="https://live.fanmingming.com/tv/玩美频道.png" group-title="🐯暮雨｜直播",玩美频道
+p3p://108.181.32.169:25738/650b8a9900047f038f1d47f730bd5b7c
+#EXTINF:-1 tvg-id="彩虹奇台" tvg-name="彩虹奇台" tvg-logo="https://live.fanmingming.com/tv/彩虹奇台.png" group-title="🐯暮雨｜直播",彩虹奇台
+p3p://108.181.32.169:25738/650b896a000407bf8f18a840011e789a
+#EXTINF:-1 tvg-id="彩虹依台" tvg-name="彩虹依台" tvg-logo="https://live.fanmingming.com/tv/彩虹依台.png" group-title="🐯暮雨｜直播",彩虹依台
+p3p://108.181.32.169:25738/641a802000061354c0de38d050782a5d
+#EXTINF:-1 tvg-id="彩虹频影" tvg-name="彩虹频影" tvg-logo="https://live.fanmingming.com/tv/彩虹频影.png" group-title="🐯暮雨｜直播",彩虹频影
+p3p://108.181.32.169:25738/650b89c6000280318f1a0f3c30b74958
+#EXTINF:-1 tvg-id="极限频影" tvg-name="极限频影" tvg-logo="https://live.fanmingming.com/tv/极限频影.png" group-title="🐯暮雨｜直播",极限频影
+p3p://108.181.32.169:25738/650b8b700004037d8f208fb144ea7e3f
+#EXTINF:-1 tvg-id="高兴频道" tvg-name="高兴频道" tvg-logo="https://live.fanmingming.com/tv/高兴频道.png" group-title="🐯暮雨｜直播",高兴频道
+p3p://108.181.32.169:25738/650b8915000b1a1b8f175e0765017f8a
+#EXTINF:-1 tvg-id="中字壹台" tvg-name="中字壹台" tvg-logo="https://live.fanmingming.com/tv/中字壹台.png" group-title="🐯暮雨｜直播",中字壹台
+p3p://108.181.32.169:25738/64fa7d1c000a26144c810f6c2a1b709b
+#EXTINF:-1 tvg-id="中字贰台" tvg-name="中字贰台" tvg-logo="https://live.fanmingming.com/tv/中字贰台.png" group-title="🐯暮雨｜直播",中字贰台
+p3p://108.181.32.169:25738/64fa7d0d000bf15a4c80d54a58b706d0
+#EXTINF:-1 tvg-id="中字叁台" tvg-name="中字叁台" tvg-logo="https://live.fanmingming.com/tv/中字叁台.png" group-title="🐯暮雨｜直播",中字叁台
+p3p://108.181.32.169:25738/64fa7cf60009a5b24c807adb63ff467e
+#EXTINF:-1 tvg-id="中字肆台" tvg-name="中字肆台" tvg-logo="https://live.fanmingming.com/tv/中字肆台.png" group-title="🐯暮雨｜直播",中字肆台
+p3p://108.181.32.169:25738/64fa7ce500041c634c80370861c068f7
+#EXTINF:-1 tvg-id="中字伍台" tvg-name="中字伍台" tvg-logo="https://live.fanmingming.com/tv/中字伍台.png" group-title="🐯暮雨｜直播",中字伍台
+p3p://108.181.32.169:25738/64fa7cd50001e1f74c7ff7f616ec1383
+#EXTINF:-1 tvg-id="中字陆台" tvg-name="中字陆台" tvg-logo="https://live.fanmingming.com/tv/中字陆台.png" group-title="🐯暮雨｜直播",中字陆台
+p3p://108.181.32.169:25738/64fa7cac00044f8f4c7f586d620130af
+#EXTINF:-1 tvg-id="中字柒台" tvg-name="中字柒台" tvg-logo="https://live.fanmingming.com/tv/中字柒台.png" group-title="🐯暮雨｜直播",中字柒台
+p3p://108.181.32.169:25738/64fa7c9c0008bf634c7f1b1060456297
+#EXTINF:-1 tvg-id="中字捌台" tvg-name="中字捌台" tvg-logo="https://live.fanmingming.com/tv/中字捌台.png" group-title="🐯暮雨｜直播",中字捌台
+p3p://108.181.32.169:25738/64fa7c83000e5b284c7ebad75f8e3361
+#EXTINF:-1 tvg-id="中字玖台" tvg-name="中字玖台" tvg-logo="https://live.fanmingming.com/tv/中字玖台.png" group-title="🐯暮雨｜直播",中字玖台
+p3p://108.181.32.169:25738/64fa7c7500015e0e4c7e80d46b241ea2
+#EXTINF:-1 tvg-id="中字拾台" tvg-name="中字拾台" tvg-logo="https://live.fanmingming.com/tv/中字拾台.png" group-title="🐯暮雨｜直播",中字拾台
+p3p://108.181.32.169:25738/64fa7c5c000d2a334c7e22315fb62b36
 #EXTINF:-1 tvg-id="CCTV-1综合" tvg-name="CCTV-1综合" tvg-logo="https://live.fanmingming.com/tv/CCTV-1综合.png" group-title="🐯暮雨｜龙央",CCTV-1综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 #EXTINF:-1 tvg-id="CCTV-2财经" tvg-name="CCTV-2财经" tvg-logo="https://live.fanmingming.com/tv/CCTV-2财经.png" group-title="🐯暮雨｜龙央",CCTV-2财经
@@ -443,6 +471,10 @@ https://masterpull.hljtv.com/live/rlVvbTZN.m3u8
 http://ygbh666.cn/aikmigu.php?id=chcdz
 #EXTINF:-1 tvg-id="大吉大利影院" tvg-name="大吉大利影院" tvg-logo="https://live.fanmingming.com/tv/大吉大利影院.png" group-title="🐯暮雨｜龙央",大吉大利影院
 https://pull.kktv8.com/livekktv/128600025.flv
+#EXTINF:-1 tvg-id="NBA TV2" tvg-name="NBA TV2" tvg-logo="https://live.fanmingming.com/tv/NBA TV2.png" group-title="🐯暮雨｜龙央",NBA TV2
+http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
+#EXTINF:-1 tvg-id="NBA TV1" tvg-name="NBA TV1" tvg-logo="https://live.fanmingming.com/tv/NBA TV1.png" group-title="🐯暮雨｜龙央",NBA TV1
+http://170.yfvodcdn.com:19980/live/nbaTV1/hls.m3u8
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="🐯暮雨｜吉卫",宁夏卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="🐯暮雨｜吉卫",西藏卫视
