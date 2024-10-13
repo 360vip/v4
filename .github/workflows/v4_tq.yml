@@ -1,4 +1,4 @@
-name: V4 获取
+name: 获取 IPV4
 
 on:
   watch:
