@@ -75,6 +75,9 @@
 	<programme channel="4K综艺" start="20241013112600 +0800" stop="20241013123700 +0800">
 		<title lang="zh">儿行千里20171029</title>
 	</programme>
+	<programme channel="4K综艺" start="20241013123700 +0800" stop="20241013132300 +0800">
+		<title lang="zh">小小的追球20200101</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -78919,6 +78922,9 @@
 	<programme channel="黑莓动画" start="20241013121000 +0800" stop="20241013124500 +0800">
 		<title lang="zh">嗨道奇第2季中文版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241013124500 +0800" stop="20241013131100 +0800">
+		<title lang="zh">熊出没之怪兽计划第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -78945,6 +78951,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20241013111500 +0800" stop="20241013124300 +0800">
 		<title lang="zh">李时，你是真顽皮</title>
+	</programme>
+	<programme channel="黑莓电影" start="20241013124300 +0800" stop="20241013143200 +0800">
+		<title lang="zh">沉默的15分钟</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -79459,6 +79468,9 @@
 	<programme channel="newtv超级体育" start="20241013120000 +0800" stop="20241013123500 +0800">
 		<title lang="zh">体坛快讯</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20241013123500 +0800" stop="20241013125500 +0800">
+		<title lang="zh">艺术里的奥林匹克</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -79648,6 +79660,9 @@
 	<programme channel="newtv精品纪录" start="20241013115500 +0800" stop="20241013124300 +0800">
 		<title lang="zh">AMOS钛多功能电饭煲惠选款-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20241013124300 +0800" stop="20241013134000 +0800">
+		<title lang="zh">06_酥</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -79743,6 +79758,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20241013115500 +0800" stop="20241013124100 +0800">
 		<title lang="zh">02_绝地枪王二松花江上的枪声（DVD版）</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20241013124100 +0800" stop="20241013133600 +0800">
+		<title lang="zh">03_绝地枪王二松花江上的枪声（DVD版）</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -79873,6 +79891,9 @@
 	<programme channel="newtv爱情喜剧" start="20241013114900 +0800" stop="20241013123600 +0800">
 		<title lang="zh">06_乡村爱情8：浪漫曲（上）</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20241013123600 +0800" stop="20241013132500 +0800">
+		<title lang="zh">KGTOUE体感语音操控大吸力烟机-渠道（右）</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -79960,6 +79981,9 @@
 	<programme channel="newtv怡伴健康" start="20241013121800 +0800" stop="20241013123200 +0800">
 		<title lang="zh">小品《占位子》 表演：沈腾 马丽</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20241013123200 +0800" stop="20241013125600 +0800">
+		<title lang="zh">小品《发红包》表演者：贾冰、沙溢、包贝尔等</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -80001,6 +80025,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20241013113100 +0800" stop="20241013123100 +0800">
 		<title lang="zh">风味人间 第2季</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20241013123100 +0800" stop="20241013131700 +0800">
+		<title lang="zh">32_暖暖的幸福</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -80058,6 +80085,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20241013105800 +0800" stop="20241013115000 +0800">
 		<title lang="zh">灯火背后的橄榄绿</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20241013124200 +0800" stop="20241013133400 +0800">
+		<title lang="zh">制胜空天保障人</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -80167,6 +80197,9 @@
 	<programme channel="newtv精品综合" start="20241013120000 +0800" stop="20241013123800 +0800">
 		<title lang="zh">Jata钛健康保温杯-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20241013123800 +0800" stop="20241013142300 +0800">
+		<title lang="zh">父女特工</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -80193,6 +80226,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20241013111900 +0800" stop="20241013124500 +0800">
 		<title lang="zh">神偷谍影</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20241013124500 +0800" stop="20241013133300 +0800">
+		<title lang="zh">Healthwow100%南极磷虾油高吸收尊贵组-渠道（右）</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
