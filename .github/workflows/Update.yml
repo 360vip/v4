@@ -24,9 +24,6 @@ jobs:
       run: |
         # 频道
         rm -f tv/ipv4.txt && wget https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt -O tv/ipv4.txt
-        rm -f tv/tv.txt && wget https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/merged_output_simple.txt -O tv/tv.txt
-        rm -f tv/V6.m3u && wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u -O tv/V6.m3u
-        rm -f tv/6v.txt && wget https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.txt -O tv/6v.txt
         rm -f tv/v4.txt && wget https://4key.cn/FP -O tv/v4.txt
 
         # 节目单
