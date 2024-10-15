@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 group-title="💚更新时间10-15 21:15",仅供学习使用
+#EXTINF:-1 group-title="💚更新时间10-16 02:44",仅供学习使用
 http://ali.hlspull.yximgs.com/live/asdfg863678266.flv
 #EXTINF:-1 tvg-id="暮雨直播" tvg-name="暮雨直播" tvg-logo="https://live.fanmingming.com/tv/暮雨直播.png" group-title="🐯暮雨｜直播",暮雨直播
 https://v.cdnlz12.com/20240927/17158_ef65f743/index.m3u8
@@ -19,10 +19,78 @@ https://pay.haiqu.vip:2266/hls/spsj/2022/11/28/13071/playlist.m3u8
 https://pay.haiqu.vip:2266/hls/spsj/2018/01/20181011/10442/playlist.m3u8
 #EXTINF:-1 tvg-id="谢谢合作" tvg-name="谢谢合作" tvg-logo="https://live.fanmingming.com/tv/谢谢合作.png" group-title="🐯暮雨｜直播",谢谢合作
 https://pay.haiqu.vip:2266/hls/spsj/2022/11/28/13065/playlist.m3u8松视贰台,p3p://108.181.32.169:35905/650b8a51000ac6568f1c30530c503d72
-#EXTINF:-1 tvg-id="国足比赛" tvg-name="国足比赛" tvg-logo="https://live.fanmingming.com/tv/国足比赛.png" group-title="🐯暮雨｜直播",国足比赛
-https://hls.yjjcfw.com/live/4146371.m3u8?hwSecret=60c6d6bbbef840f365529e7b7b60173612f8dd66712c34d887a860b1d1fc5045&hwTime=670E573E
-#EXTINF:-1 tvg-id="国足粤语" tvg-name="国足粤语" tvg-logo="https://live.fanmingming.com/tv/国足粤语.png" group-title="🐯暮雨｜直播",国足粤语
-https://play1nm.hnyongshun.cn/live/ballbar_9120.m3u8
+#EXTINF:-1 tvg-id="经典功夫台" tvg-name="经典功夫台" tvg-logo="https://live.fanmingming.com/tv/经典功夫台.png" group-title="🐯熊猫｜经典",经典功夫台
+http://ali.hlspull.yximgs.com/live/asdfg99338.flv
+#EXTINF:-1 tvg-id="经典频道" tvg-name="经典频道" tvg-logo="https://live.fanmingming.com/tv/经典频道.png" group-title="🐯熊猫｜经典",经典频道
+http://ali.hlspull.yximgs.com/live/asdfg6699388.flv
+#EXTINF:-1 tvg-id="经典都是" tvg-name="经典都是" tvg-logo="https://live.fanmingming.com/tv/经典都是.png" group-title="🐯熊猫｜经典",经典都是
+http://ali.hlspull.yximgs.com/live/asdfg32619.flv
+#EXTINF:-1 tvg-id="经典音乐" tvg-name="经典音乐" tvg-logo="https://live.fanmingming.com/tv/经典音乐.png" group-title="🐯熊猫｜经典",经典音乐
+http://ali.hlspull.yximgs.com/live/asdfg659911975.flv
+#EXTINF:-1 tvg-id="经典怀旧" tvg-name="经典怀旧" tvg-logo="https://live.fanmingming.com/tv/经典怀旧.png" group-title="🐯熊猫｜经典",经典怀旧
+http://ali.hlspull.yximgs.com/live/asdfg659901975.flv
+#EXTINF:-1 tvg-id="经典台" tvg-name="经典台" tvg-logo="https://live.fanmingming.com/tv/经典台.png" group-title="🐯熊猫｜经典",经典台
+http://ali.hlspull.yximgs.com/live/asdfg6899366.flv
+#EXTINF:-1 tvg-id="经典娱乐" tvg-name="经典娱乐" tvg-logo="https://live.fanmingming.com/tv/经典娱乐.png" group-title="🐯熊猫｜经典",经典娱乐
+http://ali.hlspull.yximgs.com/live/asdfg5899038.flv
+#EXTINF:-1 tvg-id="经典电影" tvg-name="经典电影" tvg-logo="https://live.fanmingming.com/tv/经典电影.png" group-title="🐯熊猫｜经典",经典电影
+http://ali.hlspull.yximgs.com/live/asdfg978707232.flv
+#EXTINF:-1 tvg-id="经典乡村" tvg-name="经典乡村" tvg-logo="https://live.fanmingming.com/tv/经典乡村.png" group-title="🐯熊猫｜经典",经典乡村
+http://ali.hlspull.yximgs.com/live/asdfg863678266.flv
+#EXTINF:-1 tvg-id="经典综艺" tvg-name="经典综艺" tvg-logo="https://live.fanmingming.com/tv/经典综艺.png" group-title="🐯熊猫｜经典",经典综艺
+http://ali.hlspull.yximgs.com/live/asdfg171759930.flv
+#EXTINF:-1 tvg-id="经典少儿" tvg-name="经典少儿" tvg-logo="https://live.fanmingming.com/tv/经典少儿.png" group-title="🐯熊猫｜经典",经典少儿
+http://ali.hlspull.yximgs.com/live/asdfg315962975.flv
+#EXTINF:-1 tvg-id="未来频道" tvg-name="未来频道" tvg-logo="https://live.fanmingming.com/tv/未来频道.png" group-title="🐯熊猫｜经典",未来频道
+http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
+#EXTINF:-1 tvg-id="星光经典台" tvg-name="星光经典台" tvg-logo="https://live.fanmingming.com/tv/星光经典台.png" group-title="🐯熊猫｜经典",星光经典台
+https://ali.hlspull.yximgs.com/live/1355046088.flv
+#EXTINF:-1 tvg-id="龙腾功夫" tvg-name="龙腾功夫" tvg-logo="https://live.fanmingming.com/tv/龙腾功夫.png" group-title="🐯熊猫｜经典",龙腾功夫
+https://ali.hlspull.yximgs.com/live/lgtv99838.flv
+#EXTINF:-1 tvg-id="熊猫功夫台" tvg-name="熊猫功夫台" tvg-logo="https://live.fanmingming.com/tv/熊猫功夫台.png" group-title="🐯熊猫｜经典",熊猫功夫台
+http://data.3g.yy.com/live/hls/1507716299/1507716299
+#EXTINF:-1 tvg-id="熊猫影视1台" tvg-name="熊猫影视1台" tvg-logo="https://live.fanmingming.com/tv/熊猫影视1台.png" group-title="🐯熊猫｜经典",熊猫影视1台
+https://www.goodiptv.club/huya/20588024
+#EXTINF:-1 tvg-id="檬檬功夫台" tvg-name="檬檬功夫台" tvg-logo="https://live.fanmingming.com/tv/檬檬功夫台.png" group-title="🐯熊猫｜经典",檬檬功夫台
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9838414
+#EXTINF:-1 tvg-id="星光影迷台" tvg-name="星光影迷台" tvg-logo="https://live.fanmingming.com/tv/星光影迷台.png" group-title="🐯熊猫｜经典",星光影迷台
+https://ali.hlspull.yximgs.com/live/11077536.flv
+#EXTINF:-1 tvg-id="无线Popc台" tvg-name="无线Popc台" tvg-logo="https://live.fanmingming.com/tv/无线Popc台.png" group-title="🐯熊猫｜经典",无线Popc台
+P2p://generationnexxxt.com:19806/3ae0f859370b4f17baec42495be6f043
+#EXTINF:-1 tvg-id="香港功夫台" tvg-name="香港功夫台" tvg-logo="https://live.fanmingming.com/tv/香港功夫台.png" group-title="🐯熊猫｜经典",香港功夫台
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9548850
+#EXTINF:-1 tvg-id="龙腾经典台" tvg-name="龙腾经典台" tvg-logo="https://live.fanmingming.com/tv/龙腾经典台.png" group-title="🐯熊猫｜经典",龙腾经典台
+https://ali.hlspull.yximgs.com/live/lgtv93858.flv
+#EXTINF:-1 tvg-id="邵氏影院" tvg-name="邵氏影院" tvg-logo="https://live.fanmingming.com/tv/邵氏影院.png" group-title="🐯熊猫｜经典",邵氏影院
+http://maomao.kandiantv.cn/douyu1.php?id=4246519
+#EXTINF:-1 tvg-id="1905电影(亚洲)" tvg-name="1905电影(亚洲)" tvg-logo="https://live.fanmingming.com/tv/1905电影(亚洲).png" group-title="🐯熊猫｜经典",1905电影(亚洲)
+http://xxw.me0.cn/1905dy.php?id=1905a#http://xxw.me0.cn/1905dy.php?id=1905a
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="🐯熊猫｜经典",云南卫视
+http://ynxsj.7766.org:9901/tsfile/live/0119_1.m3u8
+#EXTINF:-1 tvg-id="云南都市" tvg-name="云南都市" tvg-logo="https://live.fanmingming.com/tv/云南都市.png" group-title="🐯熊猫｜经典",云南都市
+http://ynxsj.7766.org:9901/tsfile/live/1000_1.m3u8
+#EXTINF:-1 tvg-id="云南生活" tvg-name="云南生活" tvg-logo="https://live.fanmingming.com/tv/云南生活.png" group-title="🐯熊猫｜经典",云南生活
+http://ynxsj.7766.org:9901/tsfile/live/1001_1.m3u8
+#EXTINF:-1 tvg-id="云南娱乐" tvg-name="云南娱乐" tvg-logo="https://live.fanmingming.com/tv/云南娱乐.png" group-title="🐯熊猫｜经典",云南娱乐
+http://ynxsj.7766.org:9901/tsfile/live/1002_1.m3u8
+#EXTINF:-1 tvg-id="云南影视" tvg-name="云南影视" tvg-logo="https://live.fanmingming.com/tv/云南影视.png" group-title="🐯熊猫｜经典",云南影视
+http://ynxsj.7766.org:9901/tsfile/live/1003_1.m3u8
+#EXTINF:-1 tvg-id="云南康旅" tvg-name="云南康旅" tvg-logo="https://live.fanmingming.com/tv/云南康旅.png" group-title="🐯熊猫｜经典",云南康旅
+http://ynxsj.7766.org:9901/tsfile/live/1004_1.m3u8
+#EXTINF:-1 tvg-id="云南少儿" tvg-name="云南少儿" tvg-logo="https://live.fanmingming.com/tv/云南少儿.png" group-title="🐯熊猫｜经典",云南少儿
+http://ynxsj.7766.org:9901/tsfile/live/1006_1.m3u8
+#EXTINF:-1 tvg-id="昆明影视" tvg-name="昆明影视" tvg-logo="https://live.fanmingming.com/tv/昆明影视.png" group-title="🐯熊猫｜经典",昆明影视
+http://ynxsj.7766.org:9901/tsfile/live/1016_1.m3u8
+#EXTINF:-1 tvg-id="昆明新闻" tvg-name="昆明新闻" tvg-logo="https://live.fanmingming.com/tv/昆明新闻.png" group-title="🐯熊猫｜经典",昆明新闻
+http://ynxsj.7766.org:9901/tsfile/live/1019_1.m3u8
+#EXTINF:-1 tvg-id="昆明科教" tvg-name="昆明科教" tvg-logo="https://live.fanmingming.com/tv/昆明科教.png" group-title="🐯熊猫｜经典",昆明科教
+http://ynxsj.7766.org:9901/tsfile/live/1010_1.m3u8
+#EXTINF:-1 tvg-id="昆明教育" tvg-name="昆明教育" tvg-logo="https://live.fanmingming.com/tv/昆明教育.png" group-title="🐯熊猫｜经典",昆明教育
+http://ynxsj.7766.org:9901/tsfile/live/1012_1.m3u8
+#EXTINF:-1 tvg-id="邵氏影院" tvg-name="邵氏影院" tvg-logo="https://live.fanmingming.com/tv/邵氏影院.png" group-title="🐯熊猫｜经典",邵氏影院
+http://maomao.kandiantv.cn/douyu1.php?id=4246519
+#EXTINF:-1 tvg-id="邵氏影院" tvg-name="邵氏影院" tvg-logo="https://live.fanmingming.com/tv/邵氏影院.png" group-title="🐯熊猫｜经典",邵氏影院
+http://maomao.kandiantv.cn/douyu1.php?id=4246519
 #EXTINF:-1 tvg-id="CCTV-1综合" tvg-name="CCTV-1综合" tvg-logo="https://live.fanmingming.com/tv/CCTV-1综合.png" group-title="🐯暮雨｜龙央",CCTV-1综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 #EXTINF:-1 tvg-id="CCTV-2财经" tvg-name="CCTV-2财经" tvg-logo="https://live.fanmingming.com/tv/CCTV-2财经.png" group-title="🐯暮雨｜龙央",CCTV-2财经
@@ -3409,428 +3477,364 @@ mitv://135.148.104.228:19806/d2fc333d45044f419b16748a28ac19c5
 mitv://135.148.104.228:19806/08cc25f383fd45e8b063efb2b2708dbc
 #EXTINF:-1 tvg-id="东森戏剧台" tvg-name="东森戏剧台" tvg-logo="https://live.fanmingming.com/tv/东森戏剧台.png" group-title="🐯暮雨｜三地",东森戏剧台
 mitv://135.148.104.228:19806/4c925da5e039498a85b4d3fa0bfb5910
-#EXTINF:-1 tvg-id="中天新闻频道" tvg-name="中天新闻频道" tvg-logo="https://live.fanmingming.com/tv/中天新闻频道.png" group-title="🐯暮雨｜极速",中天新闻频道
-http://litv.zapi.us.kg/?id=4gtv-4gtv009
-#EXTINF:-1 tvg-id="寰宇新闻限秒" tvg-name="寰宇新闻限秒" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻限秒.png" group-title="🐯暮雨｜极速",寰宇新闻限秒
-http://ali.hlspull.yximgs.com/live/tboxprophxehmffquxcxqveqeqyhmnqqxqqhqdhnqbnxfdqfhyxw.flv
-#EXTINF:-1 tvg-id="三立新闻限秒" tvg-name="三立新闻限秒" tvg-logo="https://live.fanmingming.com/tv/三立新闻限秒.png" group-title="🐯暮雨｜极速",三立新闻限秒
-http://ali.hlspull.yximgs.com/live/tboxprohmcyoywqqubqdfqfvchtquqxcqxvcbsqfsdxcbmqsllivexw.flv
-#EXTINF:-1 tvg-id="年代新闻限秒" tvg-name="年代新闻限秒" tvg-logo="https://live.fanmingming.com/tv/年代新闻限秒.png" group-title="🐯暮雨｜极速",年代新闻限秒
-http://ali.hlspull.yximgs.com/live/tboxprooqevdyscvbudloqlnsfqewtqudvbbqxfqnqlvcqdqdnqxw.flv
-#EXTINF:-1 tvg-id="非凡新闻限秒" tvg-name="非凡新闻限秒" tvg-logo="https://live.fanmingming.com/tv/非凡新闻限秒.png" group-title="🐯暮雨｜极速",非凡新闻限秒
-http://ali.hlspull.yximgs.com/live/tboxprosqtnfqqoqdcbfcxvqfuuqqweqqqsqyuhhdqsqhqynffxw.flv
-#EXTINF:-1 tvg-id="闽壹新闻限秒" tvg-name="闽壹新闻限秒" tvg-logo="https://live.fanmingming.com/tv/闽壹新闻限秒.png" group-title="🐯暮雨｜极速",闽壹新闻限秒
-http://ali.hlspull.yximgs.com/live/tboxpromqfoyqvqsdvbnweqtquqqxqcvfqqsqfhfqddqqlhtbchyxw.flv
-#EXTINF:-1 tvg-id="民视新闻限秒" tvg-name="民视新闻限秒" tvg-logo="https://live.fanmingming.com/tv/民视新闻限秒.png" group-title="🐯暮雨｜极速",民视新闻限秒
-http://ali.hlspull.yximgs.com/live/tboxprocnbvqfhdquqqvcbnqftuqscxqfqeqyhqqvqfmsxw.flv
-#EXTINF:-1 tvg-id="台视新闻限秒" tvg-name="台视新闻限秒" tvg-logo="https://live.fanmingming.com/tv/台视新闻限秒.png" group-title="🐯暮雨｜极速",台视新闻限秒
-http://ali.hlspull.yximgs.com/live/tboxproncqqtqqudtqlqcvbcvntqqqsfwetqfvcbcxvdqbqfflvcqtsxw.flv
-#EXTINF:-1 tvg-id="无线翡翠限秒" tvg-name="无线翡翠限秒" tvg-logo="https://live.fanmingming.com/tv/无线翡翠限秒.png" group-title="🐯暮雨｜极速",无线翡翠限秒
-http://ali.hlspull.yximgs.com/live/tboxprofhwwqpthqyqtqqqxcxbfhqqfqvhdtqdvbtvqsqxqfsqqcvbctvbfc.flv
-#EXTINF:-1 tvg-id="无线赛马限秒" tvg-name="无线赛马限秒" tvg-logo="https://live.fanmingming.com/tv/无线赛马限秒.png" group-title="🐯暮雨｜极速",无线赛马限秒
-http://ali.hlspull.yximgs.com/live/tboxprovhxqcvfhoeqfqhdoqqqyhcvxclqhqotqyq9qssqfdqcvhthofsqqhyx18.flv
-#EXTINF:-1 tvg-id="天映频道限秒" tvg-name="天映频道限秒" tvg-logo="https://live.fanmingming.com/tv/天映频道限秒.png" group-title="🐯暮雨｜极速",天映频道限秒
-http://ali.hlspull.yximgs.com/live/tboxproqeqcxlvofbqbvnqqsfqvbhfhcvxcvqsqbcvqfdvqsfcbqbnqtypq.flv
-#EXTINF:-1 tvg-id="天映经典限秒" tvg-name="天映经典限秒" tvg-logo="https://live.fanmingming.com/tv/天映经典限秒.png" group-title="🐯暮雨｜极速",天映经典限秒
-http://ali.hlspull.yximgs.com/live/tboxprovcnydsqfqsetqqfcvbcdtsqqfvxcvsqnmbnlqqhqqnmyhsqqftydq.flv
-#EXTINF:-1 tvg-id="thrill电影限秒" tvg-name="thrill电影限秒" tvg-logo="https://live.fanmingming.com/tv/thrill电影限秒.png" group-title="🐯暮雨｜极速",thrill电影限秒
-http://ali.hlspull.yximgs.com/live/tboxproecvqweqqosvoqqqsqqqdeqfqxqucqshvqcsqqfcqtchplqy.flv
-#EXTINF:-1 tvg-id="中天新闻频道" tvg-name="中天新闻频道" tvg-logo="https://live.fanmingming.com/tv/中天新闻频道.png" group-title="🐯暮雨｜极速",中天新闻频道
+#EXTINF:-1 tvg-id="中天新闻频道" tvg-name="中天新闻频道" tvg-logo="https://live.fanmingming.com/tv/中天新闻频道.png" group-title="🐯暮雨｜稳定",中天新闻频道
 http://cdn.iptv8k.top/dl/jspd.php?id=1
-#EXTINF:-1 tvg-id="中天新闻频加" tvg-name="中天新闻频加" tvg-logo="https://live.fanmingming.com/tv/中天新闻频加.png" group-title="🐯暮雨｜极速",中天新闻频加
+#EXTINF:-1 tvg-id="中天新闻频加" tvg-name="中天新闻频加" tvg-logo="https://live.fanmingming.com/tv/中天新闻频加.png" group-title="🐯暮雨｜稳定",中天新闻频加
 http://cdn.iptv8k.top/dl/jspd.php?id=23
-#EXTINF:-1 tvg-id="东森新闻频道" tvg-name="东森新闻频道" tvg-logo="https://live.fanmingming.com/tv/东森新闻频道.png" group-title="🐯暮雨｜极速",东森新闻频道
+#EXTINF:-1 tvg-id="东森新闻频道" tvg-name="东森新闻频道" tvg-logo="https://live.fanmingming.com/tv/东森新闻频道.png" group-title="🐯暮雨｜稳定",东森新闻频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv152
-#EXTINF:-1 tvg-id="tvbs新闻频道" tvg-name="tvbs新闻频道" tvg-logo="https://live.fanmingming.com/tv/tvbs新闻频道.png" group-title="🐯暮雨｜极速",tvbs新闻频道
+#EXTINF:-1 tvg-id="tvbs新闻频道" tvg-name="tvbs新闻频道" tvg-logo="https://live.fanmingming.com/tv/tvbs新闻频道.png" group-title="🐯暮雨｜稳定",tvbs新闻频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv072
-#EXTINF:-1 tvg-id="寰宇新闻频道" tvg-name="寰宇新闻频道" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻频道.png" group-title="🐯暮雨｜极速",寰宇新闻频道
+#EXTINF:-1 tvg-id="寰宇新闻频道" tvg-name="寰宇新闻频道" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻频道.png" group-title="🐯暮雨｜稳定",寰宇新闻频道
 http://litv.zapi.us.kg/?id=litv-longturn14
-#EXTINF:-1 tvg-id="非凡新闻频道" tvg-name="非凡新闻频道" tvg-logo="https://live.fanmingming.com/tv/非凡新闻频道.png" group-title="🐯暮雨｜极速",非凡新闻频道
+#EXTINF:-1 tvg-id="非凡新闻频道" tvg-name="非凡新闻频道" tvg-logo="https://live.fanmingming.com/tv/非凡新闻频道.png" group-title="🐯暮雨｜稳定",非凡新闻频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv010
-#EXTINF:-1 tvg-id="闽镜新闻频道" tvg-name="闽镜新闻频道" tvg-logo="https://live.fanmingming.com/tv/闽镜新闻频道.png" group-title="🐯暮雨｜极速",闽镜新闻频道
+#EXTINF:-1 tvg-id="闽镜新闻频道" tvg-name="闽镜新闻频道" tvg-logo="https://live.fanmingming.com/tv/闽镜新闻频道.png" group-title="🐯暮雨｜稳定",闽镜新闻频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv075
-#EXTINF:-1 tvg-id="民视新闻频道" tvg-name="民视新闻频道" tvg-logo="https://live.fanmingming.com/tv/民视新闻频道.png" group-title="🐯暮雨｜极速",民视新闻频道
+#EXTINF:-1 tvg-id="民视新闻频道" tvg-name="民视新闻频道" tvg-logo="https://live.fanmingming.com/tv/民视新闻频道.png" group-title="🐯暮雨｜稳定",民视新闻频道
 http://litv.zapi.us.kg/?id=litv-ftv13
-#EXTINF:-1 tvg-id="中视新闻频道" tvg-name="中视新闻频道" tvg-logo="https://live.fanmingming.com/tv/中视新闻频道.png" group-title="🐯暮雨｜极速",中视新闻频道
+#EXTINF:-1 tvg-id="中视新闻频道" tvg-name="中视新闻频道" tvg-logo="https://live.fanmingming.com/tv/中视新闻频道.png" group-title="🐯暮雨｜稳定",中视新闻频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv074
-#EXTINF:-1 tvg-id="华视新闻频道" tvg-name="华视新闻频道" tvg-logo="https://live.fanmingming.com/tv/华视新闻频道.png" group-title="🐯暮雨｜极速",华视新闻频道
+#EXTINF:-1 tvg-id="华视新闻频道" tvg-name="华视新闻频道" tvg-logo="https://live.fanmingming.com/tv/华视新闻频道.png" group-title="🐯暮雨｜稳定",华视新闻频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv052
-#EXTINF:-1 tvg-id="台视新闻频道" tvg-name="台视新闻频道" tvg-logo="https://live.fanmingming.com/tv/台视新闻频道.png" group-title="🐯暮雨｜极速",台视新闻频道
+#EXTINF:-1 tvg-id="台视新闻频道" tvg-name="台视新闻频道" tvg-logo="https://live.fanmingming.com/tv/台视新闻频道.png" group-title="🐯暮雨｜稳定",台视新闻频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv051
-#EXTINF:-1 tvg-id="民视闽南频道" tvg-name="民视闽南频道" tvg-logo="https://live.fanmingming.com/tv/民视闽南频道.png" group-title="🐯暮雨｜极速",民视闽南频道
+#EXTINF:-1 tvg-id="民视闽南频道" tvg-name="民视闽南频道" tvg-logo="https://live.fanmingming.com/tv/民视闽南频道.png" group-title="🐯暮雨｜稳定",民视闽南频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv002
-#EXTINF:-1 tvg-id="民视闽南频道" tvg-name="民视闽南频道" tvg-logo="https://live.fanmingming.com/tv/民视闽南频道.png" group-title="🐯暮雨｜极速",民视闽南频道
+#EXTINF:-1 tvg-id="民视闽南频道" tvg-name="民视闽南频道" tvg-logo="https://live.fanmingming.com/tv/民视闽南频道.png" group-title="🐯暮雨｜稳定",民视闽南频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv155
-#EXTINF:-1 tvg-id="中视闽南频道" tvg-name="中视闽南频道" tvg-logo="https://live.fanmingming.com/tv/中视闽南频道.png" group-title="🐯暮雨｜极速",中视闽南频道
+#EXTINF:-1 tvg-id="中视闽南频道" tvg-name="中视闽南频道" tvg-logo="https://live.fanmingming.com/tv/中视闽南频道.png" group-title="🐯暮雨｜稳定",中视闽南频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv040
-#EXTINF:-1 tvg-id="华视闽南频道" tvg-name="华视闽南频道" tvg-logo="https://live.fanmingming.com/tv/华视闽南频道.png" group-title="🐯暮雨｜极速",华视闽南频道
+#EXTINF:-1 tvg-id="华视闽南频道" tvg-name="华视闽南频道" tvg-logo="https://live.fanmingming.com/tv/华视闽南频道.png" group-title="🐯暮雨｜稳定",华视闽南频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv041
-#EXTINF:-1 tvg-id="台视闽南频道" tvg-name="台视闽南频道" tvg-logo="https://live.fanmingming.com/tv/台视闽南频道.png" group-title="🐯暮雨｜极速",台视闽南频道
+#EXTINF:-1 tvg-id="台视闽南频道" tvg-name="台视闽南频道" tvg-logo="https://live.fanmingming.com/tv/台视闽南频道.png" group-title="🐯暮雨｜稳定",台视闽南频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv066
-#EXTINF:-1 tvg-id="寰宇闽南频道" tvg-name="寰宇闽南频道" tvg-logo="https://live.fanmingming.com/tv/寰宇闽南频道.png" group-title="🐯暮雨｜极速",寰宇闽南频道
+#EXTINF:-1 tvg-id="寰宇闽南频道" tvg-name="寰宇闽南频道" tvg-logo="https://live.fanmingming.com/tv/寰宇闽南频道.png" group-title="🐯暮雨｜稳定",寰宇闽南频道
 http://litv.zapi.us.kg/?id=litv-longturn15
-#EXTINF:-1 tvg-id="tvbs闽南频道" tvg-name="tvbs闽南频道" tvg-logo="https://live.fanmingming.com/tv/tvbs闽南频道.png" group-title="🐯暮雨｜极速",tvbs闽南频道
+#EXTINF:-1 tvg-id="tvbs闽南频道" tvg-name="tvbs闽南频道" tvg-logo="https://live.fanmingming.com/tv/tvbs闽南频道.png" group-title="🐯暮雨｜稳定",tvbs闽南频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv073
-#EXTINF:-1 tvg-id="民视台湾频道" tvg-name="民视台湾频道" tvg-logo="https://live.fanmingming.com/tv/民视台湾频道.png" group-title="🐯暮雨｜极速",民视台湾频道
+#EXTINF:-1 tvg-id="民视台湾频道" tvg-name="民视台湾频道" tvg-logo="https://live.fanmingming.com/tv/民视台湾频道.png" group-title="🐯暮雨｜稳定",民视台湾频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv001
-#EXTINF:-1 tvg-id="民视台湾频道" tvg-name="民视台湾频道" tvg-logo="https://live.fanmingming.com/tv/民视台湾频道.png" group-title="🐯暮雨｜极速",民视台湾频道
+#EXTINF:-1 tvg-id="民视台湾频道" tvg-name="民视台湾频道" tvg-logo="https://live.fanmingming.com/tv/民视台湾频道.png" group-title="🐯暮雨｜稳定",民视台湾频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv156
-#EXTINF:-1 tvg-id="民视第一频道" tvg-name="民视第一频道" tvg-logo="https://live.fanmingming.com/tv/民视第一频道.png" group-title="🐯暮雨｜极速",民视第一频道
+#EXTINF:-1 tvg-id="民视第一频道" tvg-name="民视第一频道" tvg-logo="https://live.fanmingming.com/tv/民视第一频道.png" group-title="🐯暮雨｜稳定",民视第一频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv003
-#EXTINF:-1 tvg-id="民视旅游频道" tvg-name="民视旅游频道" tvg-logo="https://live.fanmingming.com/tv/民视旅游频道.png" group-title="🐯暮雨｜极速",民视旅游频道
+#EXTINF:-1 tvg-id="民视旅游频道" tvg-name="民视旅游频道" tvg-logo="https://live.fanmingming.com/tv/民视旅游频道.png" group-title="🐯暮雨｜稳定",民视旅游频道
 http://litv.zapi.us.kg/?id=litv-ftv07
-#EXTINF:-1 tvg-id="民视影剧频道" tvg-name="民视影剧频道" tvg-logo="https://live.fanmingming.com/tv/民视影剧频道.png" group-title="🐯暮雨｜极速",民视影剧频道
+#EXTINF:-1 tvg-id="民视影剧频道" tvg-name="民视影剧频道" tvg-logo="https://live.fanmingming.com/tv/民视影剧频道.png" group-title="🐯暮雨｜稳定",民视影剧频道
 http://litv.zapi.us.kg/?id=litv-ftv09
-#EXTINF:-1 tvg-id="民视综艺频道" tvg-name="民视综艺频道" tvg-logo="https://live.fanmingming.com/tv/民视综艺频道.png" group-title="🐯暮雨｜极速",民视综艺频道
+#EXTINF:-1 tvg-id="民视综艺频道" tvg-name="民视综艺频道" tvg-logo="https://live.fanmingming.com/tv/民视综艺频道.png" group-title="🐯暮雨｜稳定",民视综艺频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv004
-#EXTINF:-1 tvg-id="中视菁采频道" tvg-name="中视菁采频道" tvg-logo="https://live.fanmingming.com/tv/中视菁采频道.png" group-title="🐯暮雨｜极速",中视菁采频道
+#EXTINF:-1 tvg-id="中视菁采频道" tvg-name="中视菁采频道" tvg-logo="https://live.fanmingming.com/tv/中视菁采频道.png" group-title="🐯暮雨｜稳定",中视菁采频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv064
-#EXTINF:-1 tvg-id="中视经典频道" tvg-name="中视经典频道" tvg-logo="https://live.fanmingming.com/tv/中视经典频道.png" group-title="🐯暮雨｜极速",中视经典频道
+#EXTINF:-1 tvg-id="中视经典频道" tvg-name="中视经典频道" tvg-logo="https://live.fanmingming.com/tv/中视经典频道.png" group-title="🐯暮雨｜稳定",中视经典频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv080
-#EXTINF:-1 tvg-id="台视财经频道" tvg-name="台视财经频道" tvg-logo="https://live.fanmingming.com/tv/台视财经频道.png" group-title="🐯暮雨｜极速",台视财经频道
+#EXTINF:-1 tvg-id="台视财经频道" tvg-name="台视财经频道" tvg-logo="https://live.fanmingming.com/tv/台视财经频道.png" group-title="🐯暮雨｜稳定",台视财经频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv056
-#EXTINF:-1 tvg-id="公视戏剧频道" tvg-name="公视戏剧频道" tvg-logo="https://live.fanmingming.com/tv/公视戏剧频道.png" group-title="🐯暮雨｜极速",公视戏剧频道
+#EXTINF:-1 tvg-id="公视戏剧频道" tvg-name="公视戏剧频道" tvg-logo="https://live.fanmingming.com/tv/公视戏剧频道.png" group-title="🐯暮雨｜稳定",公视戏剧频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv042
-#EXTINF:-1 tvg-id="闽南戏剧频道" tvg-name="闽南戏剧频道" tvg-logo="https://live.fanmingming.com/tv/闽南戏剧频道.png" group-title="🐯暮雨｜极速",闽南戏剧频道
+#EXTINF:-1 tvg-id="闽南戏剧频道" tvg-name="闽南戏剧频道" tvg-logo="https://live.fanmingming.com/tv/闽南戏剧频道.png" group-title="🐯暮雨｜稳定",闽南戏剧频道
 http://litv.zapi.us.kg/?id=litv-longturn22
-#EXTINF:-1 tvg-id="国际财经频道" tvg-name="国际财经频道" tvg-logo="https://live.fanmingming.com/tv/国际财经频道.png" group-title="🐯暮雨｜极速",国际财经频道
+#EXTINF:-1 tvg-id="国际财经频道" tvg-name="国际财经频道" tvg-logo="https://live.fanmingming.com/tv/国际财经频道.png" group-title="🐯暮雨｜稳定",国际财经频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv104
-#EXTINF:-1 tvg-id="东森财经频道" tvg-name="东森财经频道" tvg-logo="https://live.fanmingming.com/tv/东森财经频道.png" group-title="🐯暮雨｜极速",东森财经频道
+#EXTINF:-1 tvg-id="东森财经频道" tvg-name="东森财经频道" tvg-logo="https://live.fanmingming.com/tv/东森财经频道.png" group-title="🐯暮雨｜稳定",东森财经频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv153
-#EXTINF:-1 tvg-id="tvbs精采频道" tvg-name="tvbs精采频道" tvg-logo="https://live.fanmingming.com/tv/tvbs精采频道.png" group-title="🐯暮雨｜极速",tvbs精采频道
+#EXTINF:-1 tvg-id="tvbs精采频道" tvg-name="tvbs精采频道" tvg-logo="https://live.fanmingming.com/tv/tvbs精采频道.png" group-title="🐯暮雨｜稳定",tvbs精采频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv067
-#EXTINF:-1 tvg-id="tvbs欢乐频道" tvg-name="tvbs欢乐频道" tvg-logo="https://live.fanmingming.com/tv/tvbs欢乐频道.png" group-title="🐯暮雨｜极速",tvbs欢乐频道
+#EXTINF:-1 tvg-id="tvbs欢乐频道" tvg-name="tvbs欢乐频道" tvg-logo="https://live.fanmingming.com/tv/tvbs欢乐频道.png" group-title="🐯暮雨｜稳定",tvbs欢乐频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv068
-#EXTINF:-1 tvg-id="八大精彩频道" tvg-name="八大精彩频道" tvg-logo="https://live.fanmingming.com/tv/八大精彩频道.png" group-title="🐯暮雨｜极速",八大精彩频道
+#EXTINF:-1 tvg-id="八大精彩频道" tvg-name="八大精彩频道" tvg-logo="https://live.fanmingming.com/tv/八大精彩频道.png" group-title="🐯暮雨｜稳定",八大精彩频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv034
-#EXTINF:-1 tvg-id="八大综艺频道" tvg-name="八大综艺频道" tvg-logo="https://live.fanmingming.com/tv/八大综艺频道.png" group-title="🐯暮雨｜极速",八大综艺频道
+#EXTINF:-1 tvg-id="八大综艺频道" tvg-name="八大综艺频道" tvg-logo="https://live.fanmingming.com/tv/八大综艺频道.png" group-title="🐯暮雨｜稳定",八大综艺频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv039
-#EXTINF:-1 tvg-id="爱尔达娱乐台" tvg-name="爱尔达娱乐台" tvg-logo="https://live.fanmingming.com/tv/爱尔达娱乐台.png" group-title="🐯暮雨｜极速",爱尔达娱乐台
+#EXTINF:-1 tvg-id="爱尔达娱乐台" tvg-name="爱尔达娱乐台" tvg-logo="https://live.fanmingming.com/tv/爱尔达娱乐台.png" group-title="🐯暮雨｜稳定",爱尔达娱乐台
 http://litv.zapi.us.kg/?id=4gtv-4gtv070
-#EXTINF:-1 tvg-id="靖洋戏剧频道" tvg-name="靖洋戏剧频道" tvg-logo="https://live.fanmingming.com/tv/靖洋戏剧频道.png" group-title="🐯暮雨｜极速",靖洋戏剧频道
+#EXTINF:-1 tvg-id="靖洋戏剧频道" tvg-name="靖洋戏剧频道" tvg-logo="https://live.fanmingming.com/tv/靖洋戏剧频道.png" group-title="🐯暮雨｜稳定",靖洋戏剧频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv045
-#EXTINF:-1 tvg-id="靖洋卡通频道" tvg-name="靖洋卡通频道" tvg-logo="https://live.fanmingming.com/tv/靖洋卡通频道.png" group-title="🐯暮雨｜极速",靖洋卡通频道
+#EXTINF:-1 tvg-id="靖洋卡通频道" tvg-name="靖洋卡通频道" tvg-logo="https://live.fanmingming.com/tv/靖洋卡通频道.png" group-title="🐯暮雨｜稳定",靖洋卡通频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv057
-#EXTINF:-1 tvg-id="靖天卡通频道" tvg-name="靖天卡通频道" tvg-logo="https://live.fanmingming.com/tv/靖天卡通频道.png" group-title="🐯暮雨｜极速",靖天卡通频道
+#EXTINF:-1 tvg-id="靖天卡通频道" tvg-name="靖天卡通频道" tvg-logo="https://live.fanmingming.com/tv/靖天卡通频道.png" group-title="🐯暮雨｜稳定",靖天卡通频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv044
-#EXTINF:-1 tvg-id="靖天综合频道" tvg-name="靖天综合频道" tvg-logo="https://live.fanmingming.com/tv/靖天综合频道.png" group-title="🐯暮雨｜极速",靖天综合频道
+#EXTINF:-1 tvg-id="靖天综合频道" tvg-name="靖天综合频道" tvg-logo="https://live.fanmingming.com/tv/靖天综合频道.png" group-title="🐯暮雨｜稳定",靖天综合频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv046
-#EXTINF:-1 tvg-id="靖天日本频道" tvg-name="靖天日本频道" tvg-logo="https://live.fanmingming.com/tv/靖天日本频道.png" group-title="🐯暮雨｜极速",靖天日本频道
+#EXTINF:-1 tvg-id="靖天日本频道" tvg-name="靖天日本频道" tvg-logo="https://live.fanmingming.com/tv/靖天日本频道.png" group-title="🐯暮雨｜稳定",靖天日本频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv047
-#EXTINF:-1 tvg-id="靖天欢乐频道" tvg-name="靖天欢乐频道" tvg-logo="https://live.fanmingming.com/tv/靖天欢乐频道.png" group-title="🐯暮雨｜极速",靖天欢乐频道
+#EXTINF:-1 tvg-id="靖天欢乐频道" tvg-name="靖天欢乐频道" tvg-logo="https://live.fanmingming.com/tv/靖天欢乐频道.png" group-title="🐯暮雨｜稳定",靖天欢乐频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv054
-#EXTINF:-1 tvg-id="靖天映画频道" tvg-name="靖天映画频道" tvg-logo="https://live.fanmingming.com/tv/靖天映画频道.png" group-title="🐯暮雨｜极速",靖天映画频道
+#EXTINF:-1 tvg-id="靖天映画频道" tvg-name="靖天映画频道" tvg-logo="https://live.fanmingming.com/tv/靖天映画频道.png" group-title="🐯暮雨｜稳定",靖天映画频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv055
-#EXTINF:-1 tvg-id="靖天戏剧频道" tvg-name="靖天戏剧频道" tvg-logo="https://live.fanmingming.com/tv/靖天戏剧频道.png" group-title="🐯暮雨｜极速",靖天戏剧频道
+#EXTINF:-1 tvg-id="靖天戏剧频道" tvg-name="靖天戏剧频道" tvg-logo="https://live.fanmingming.com/tv/靖天戏剧频道.png" group-title="🐯暮雨｜稳定",靖天戏剧频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv058
-#EXTINF:-1 tvg-id="靖天电影频道" tvg-name="靖天电影频道" tvg-logo="https://live.fanmingming.com/tv/靖天电影频道.png" group-title="🐯暮雨｜极速",靖天电影频道
+#EXTINF:-1 tvg-id="靖天电影频道" tvg-name="靖天电影频道" tvg-logo="https://live.fanmingming.com/tv/靖天电影频道.png" group-title="🐯暮雨｜稳定",靖天电影频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv061
-#EXTINF:-1 tvg-id="靖天育乐频道" tvg-name="靖天育乐频道" tvg-logo="https://live.fanmingming.com/tv/靖天育乐频道.png" group-title="🐯暮雨｜极速",靖天育乐频道
+#EXTINF:-1 tvg-id="靖天育乐频道" tvg-name="靖天育乐频道" tvg-logo="https://live.fanmingming.com/tv/靖天育乐频道.png" group-title="🐯暮雨｜稳定",靖天育乐频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv062
-#EXTINF:-1 tvg-id="靖天国际频道" tvg-name="靖天国际频道" tvg-logo="https://live.fanmingming.com/tv/靖天国际频道.png" group-title="🐯暮雨｜极速",靖天国际频道
+#EXTINF:-1 tvg-id="靖天国际频道" tvg-name="靖天国际频道" tvg-logo="https://live.fanmingming.com/tv/靖天国际频道.png" group-title="🐯暮雨｜稳定",靖天国际频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv063
-#EXTINF:-1 tvg-id="靖天资讯频道" tvg-name="靖天资讯频道" tvg-logo="https://live.fanmingming.com/tv/靖天资讯频道.png" group-title="🐯暮雨｜极速",靖天资讯频道
+#EXTINF:-1 tvg-id="靖天资讯频道" tvg-name="靖天资讯频道" tvg-logo="https://live.fanmingming.com/tv/靖天资讯频道.png" group-title="🐯暮雨｜稳定",靖天资讯频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv065
-#EXTINF:-1 tvg-id="龙华卡通频道" tvg-name="龙华卡通频道" tvg-logo="https://live.fanmingming.com/tv/龙华卡通频道.png" group-title="🐯暮雨｜极速",龙华卡通频道
+#EXTINF:-1 tvg-id="龙华卡通频道" tvg-name="龙华卡通频道" tvg-logo="https://live.fanmingming.com/tv/龙华卡通频道.png" group-title="🐯暮雨｜稳定",龙华卡通频道
 http://litv.zapi.us.kg/?id=litv-longturn01
-#EXTINF:-1 tvg-id="龙华日韩频道" tvg-name="龙华日韩频道" tvg-logo="https://live.fanmingming.com/tv/龙华日韩频道.png" group-title="🐯暮雨｜极速",龙华日韩频道
+#EXTINF:-1 tvg-id="龙华日韩频道" tvg-name="龙华日韩频道" tvg-logo="https://live.fanmingming.com/tv/龙华日韩频道.png" group-title="🐯暮雨｜稳定",龙华日韩频道
 http://litv.zapi.us.kg/?id=litv-longturn11
-#EXTINF:-1 tvg-id="龙华偶像频道" tvg-name="龙华偶像频道" tvg-logo="https://live.fanmingming.com/tv/龙华偶像频道.png" group-title="🐯暮雨｜极速",龙华偶像频道
+#EXTINF:-1 tvg-id="龙华偶像频道" tvg-name="龙华偶像频道" tvg-logo="https://live.fanmingming.com/tv/龙华偶像频道.png" group-title="🐯暮雨｜稳定",龙华偶像频道
 http://litv.zapi.us.kg/?id=litv-longturn12
-#EXTINF:-1 tvg-id="龙华电影频道" tvg-name="龙华电影频道" tvg-logo="https://live.fanmingming.com/tv/龙华电影频道.png" group-title="🐯暮雨｜极速",龙华电影频道
+#EXTINF:-1 tvg-id="龙华电影频道" tvg-name="龙华电影频道" tvg-logo="https://live.fanmingming.com/tv/龙华电影频道.png" group-title="🐯暮雨｜稳定",龙华电影频道
 http://litv.zapi.us.kg/?id=litv-longturn03
-#EXTINF:-1 tvg-id="龙华戏剧频道" tvg-name="龙华戏剧频道" tvg-logo="https://live.fanmingming.com/tv/龙华戏剧频道.png" group-title="🐯暮雨｜极速",龙华戏剧频道
+#EXTINF:-1 tvg-id="龙华戏剧频道" tvg-name="龙华戏剧频道" tvg-logo="https://live.fanmingming.com/tv/龙华戏剧频道.png" group-title="🐯暮雨｜稳定",龙华戏剧频道
 http://litv.zapi.us.kg/?id=litv-longturn18
-#EXTINF:-1 tvg-id="龙华经典频道" tvg-name="龙华经典频道" tvg-logo="https://live.fanmingming.com/tv/龙华经典频道.png" group-title="🐯暮雨｜极速",龙华经典频道
+#EXTINF:-1 tvg-id="龙华经典频道" tvg-name="龙华经典频道" tvg-logo="https://live.fanmingming.com/tv/龙华经典频道.png" group-title="🐯暮雨｜稳定",龙华经典频道
 http://litv.zapi.us.kg/?id=litv-longturn21
-#EXTINF:-1 tvg-id="国会频道壹台" tvg-name="国会频道壹台" tvg-logo="https://live.fanmingming.com/tv/国会频道壹台.png" group-title="🐯暮雨｜极速",国会频道壹台
+#EXTINF:-1 tvg-id="国会频道壹台" tvg-name="国会频道壹台" tvg-logo="https://live.fanmingming.com/tv/国会频道壹台.png" group-title="🐯暮雨｜稳定",国会频道壹台
 http://litv.zapi.us.kg/?id=4gtv-4gtv084
-#EXTINF:-1 tvg-id="国会频道贰台" tvg-name="国会频道贰台" tvg-logo="https://live.fanmingming.com/tv/国会频道贰台.png" group-title="🐯暮雨｜极速",国会频道贰台
+#EXTINF:-1 tvg-id="国会频道贰台" tvg-name="国会频道贰台" tvg-logo="https://live.fanmingming.com/tv/国会频道贰台.png" group-title="🐯暮雨｜稳定",国会频道贰台
 http://litv.zapi.us.kg/?id=4gtv-4gtv085
-#EXTINF:-1 tvg-id="好消息壹频道" tvg-name="好消息壹频道" tvg-logo="https://live.fanmingming.com/tv/好消息壹频道.png" group-title="🐯暮雨｜极速",好消息壹频道
+#EXTINF:-1 tvg-id="好消息壹频道" tvg-name="好消息壹频道" tvg-logo="https://live.fanmingming.com/tv/好消息壹频道.png" group-title="🐯暮雨｜稳定",好消息壹频道
 http://litv.zapi.us.kg/?id=litv-ftv16
-#EXTINF:-1 tvg-id="好消息贰频道" tvg-name="好消息贰频道" tvg-logo="https://live.fanmingming.com/tv/好消息贰频道.png" group-title="🐯暮雨｜极速",好消息贰频道
+#EXTINF:-1 tvg-id="好消息贰频道" tvg-name="好消息贰频道" tvg-logo="https://live.fanmingming.com/tv/好消息贰频道.png" group-title="🐯暮雨｜稳定",好消息贰频道
 http://litv.zapi.us.kg/?id=litv-ftv17
-#EXTINF:-1 tvg-id="智林体育频道" tvg-name="智林体育频道" tvg-logo="https://live.fanmingming.com/tv/智林体育频道.png" group-title="🐯暮雨｜极速",智林体育频道
+#EXTINF:-1 tvg-id="智林体育频道" tvg-name="智林体育频道" tvg-logo="https://live.fanmingming.com/tv/智林体育频道.png" group-title="🐯暮雨｜稳定",智林体育频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv101
-#EXTINF:-1 tvg-id="博斯魅力频道" tvg-name="博斯魅力频道" tvg-logo="https://live.fanmingming.com/tv/博斯魅力频道.png" group-title="🐯暮雨｜极速",博斯魅力频道
+#EXTINF:-1 tvg-id="博斯魅力频道" tvg-name="博斯魅力频道" tvg-logo="https://live.fanmingming.com/tv/博斯魅力频道.png" group-title="🐯暮雨｜稳定",博斯魅力频道
 http://litv.zapi.us.kg/?id=litv-longturn04
-#EXTINF:-1 tvg-id="博斯网球频道" tvg-name="博斯网球频道" tvg-logo="https://live.fanmingming.com/tv/博斯网球频道.png" group-title="🐯暮雨｜极速",博斯网球频道
+#EXTINF:-1 tvg-id="博斯网球频道" tvg-name="博斯网球频道" tvg-logo="https://live.fanmingming.com/tv/博斯网球频道.png" group-title="🐯暮雨｜稳定",博斯网球频道
 http://litv.zapi.us.kg/?id=litv-longturn09
-#EXTINF:-1 tvg-id="博斯高球壹台" tvg-name="博斯高球壹台" tvg-logo="https://live.fanmingming.com/tv/博斯高球壹台.png" group-title="🐯暮雨｜极速",博斯高球壹台
+#EXTINF:-1 tvg-id="博斯高球壹台" tvg-name="博斯高球壹台" tvg-logo="https://live.fanmingming.com/tv/博斯高球壹台.png" group-title="🐯暮雨｜稳定",博斯高球壹台
 http://litv.zapi.us.kg/?id=litv-longturn05
-#EXTINF:-1 tvg-id="博斯高球贰台" tvg-name="博斯高球贰台" tvg-logo="https://live.fanmingming.com/tv/博斯高球贰台.png" group-title="🐯暮雨｜极速",博斯高球贰台
+#EXTINF:-1 tvg-id="博斯高球贰台" tvg-name="博斯高球贰台" tvg-logo="https://live.fanmingming.com/tv/博斯高球贰台.png" group-title="🐯暮雨｜稳定",博斯高球贰台
 http://litv.zapi.us.kg/?id=litv-longturn06
-#EXTINF:-1 tvg-id="博斯运动壹台" tvg-name="博斯运动壹台" tvg-logo="https://live.fanmingming.com/tv/博斯运动壹台.png" group-title="🐯暮雨｜极速",博斯运动壹台
+#EXTINF:-1 tvg-id="博斯运动壹台" tvg-name="博斯运动壹台" tvg-logo="https://live.fanmingming.com/tv/博斯运动壹台.png" group-title="🐯暮雨｜稳定",博斯运动壹台
 http://litv.zapi.us.kg/?id=litv-longturn07
-#EXTINF:-1 tvg-id="博斯运动贰台" tvg-name="博斯运动贰台" tvg-logo="https://live.fanmingming.com/tv/博斯运动贰台.png" group-title="🐯暮雨｜极速",博斯运动贰台
+#EXTINF:-1 tvg-id="博斯运动贰台" tvg-name="博斯运动贰台" tvg-logo="https://live.fanmingming.com/tv/博斯运动贰台.png" group-title="🐯暮雨｜稳定",博斯运动贰台
 http://litv.zapi.us.kg/?id=litv-longturn08
-#EXTINF:-1 tvg-id="博斯无限壹台" tvg-name="博斯无限壹台" tvg-logo="https://live.fanmingming.com/tv/博斯无限壹台.png" group-title="🐯暮雨｜极速",博斯无限壹台
+#EXTINF:-1 tvg-id="博斯无限壹台" tvg-name="博斯无限壹台" tvg-logo="https://live.fanmingming.com/tv/博斯无限壹台.png" group-title="🐯暮雨｜稳定",博斯无限壹台
 http://litv.zapi.us.kg/?id=litv-longturn10
-#EXTINF:-1 tvg-id="博斯无限贰台" tvg-name="博斯无限贰台" tvg-logo="https://live.fanmingming.com/tv/博斯无限贰台.png" group-title="🐯暮雨｜极速",博斯无限贰台
+#EXTINF:-1 tvg-id="博斯无限贰台" tvg-name="博斯无限贰台" tvg-logo="https://live.fanmingming.com/tv/博斯无限贰台.png" group-title="🐯暮雨｜稳定",博斯无限贰台
 http://litv.zapi.us.kg/?id=litv-longturn13
-#EXTINF:-1 tvg-id="阿里郎频道台" tvg-name="阿里郎频道台" tvg-logo="https://live.fanmingming.com/tv/阿里郎频道台.png" group-title="🐯暮雨｜极速",阿里郎频道台
+#EXTINF:-1 tvg-id="阿里郎频道台" tvg-name="阿里郎频道台" tvg-logo="https://live.fanmingming.com/tv/阿里郎频道台.png" group-title="🐯暮雨｜稳定",阿里郎频道台
 http://litv.zapi.us.kg/?id=4gtv-4gtv079
-#EXTINF:-1 tvg-id="达文西频道台" tvg-name="达文西频道台" tvg-logo="https://live.fanmingming.com/tv/达文西频道台.png" group-title="🐯暮雨｜极速",达文西频道台
+#EXTINF:-1 tvg-id="达文西频道台" tvg-name="达文西频道台" tvg-logo="https://live.fanmingming.com/tv/达文西频道台.png" group-title="🐯暮雨｜稳定",达文西频道台
 http://litv.zapi.us.kg/?id=4gtv-4gtv018
-#EXTINF:-1 tvg-id="猪哥亮歌厅台" tvg-name="猪哥亮歌厅台" tvg-logo="https://live.fanmingming.com/tv/猪哥亮歌厅台.png" group-title="🐯暮雨｜极速",猪哥亮歌厅台
+#EXTINF:-1 tvg-id="猪哥亮歌厅台" tvg-name="猪哥亮歌厅台" tvg-logo="https://live.fanmingming.com/tv/猪哥亮歌厅台.png" group-title="🐯暮雨｜稳定",猪哥亮歌厅台
 http://litv.zapi.us.kg/?id=4gtv-4gtv006
-#EXTINF:-1 tvg-id="亚洲旅游频道" tvg-name="亚洲旅游频道" tvg-logo="https://live.fanmingming.com/tv/亚洲旅游频道.png" group-title="🐯暮雨｜极速",亚洲旅游频道
+#EXTINF:-1 tvg-id="亚洲旅游频道" tvg-name="亚洲旅游频道" tvg-logo="https://live.fanmingming.com/tv/亚洲旅游频道.png" group-title="🐯暮雨｜稳定",亚洲旅游频道
 http://litv.zapi.us.kg/?id=litv-longturn17
-#EXTINF:-1 tvg-id="美国之音频道" tvg-name="美国之音频道" tvg-logo="https://live.fanmingming.com/tv/美国之音频道.png" group-title="🐯暮雨｜极速",美国之音频道
+#EXTINF:-1 tvg-id="美国之音频道" tvg-name="美国之音频道" tvg-logo="https://live.fanmingming.com/tv/美国之音频道.png" group-title="🐯暮雨｜稳定",美国之音频道
 http://litv.zapi.us.kg/?id=litv-ftv03
-#EXTINF:-1 tvg-id="半岛新闻频道" tvg-name="半岛新闻频道" tvg-logo="https://live.fanmingming.com/tv/半岛新闻频道.png" group-title="🐯暮雨｜极速",半岛新闻频道
+#EXTINF:-1 tvg-id="半岛新闻频道" tvg-name="半岛新闻频道" tvg-logo="https://live.fanmingming.com/tv/半岛新闻频道.png" group-title="🐯暮雨｜稳定",半岛新闻频道
 http://litv.zapi.us.kg/?id=litv-ftv10
-#EXTINF:-1 tvg-id="非凡商业频道" tvg-name="非凡商业频道" tvg-logo="https://live.fanmingming.com/tv/非凡商业频道.png" group-title="🐯暮雨｜极速",非凡商业频道
+#EXTINF:-1 tvg-id="非凡商业频道" tvg-name="非凡商业频道" tvg-logo="https://live.fanmingming.com/tv/非凡商业频道.png" group-title="🐯暮雨｜稳定",非凡商业频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv048
-#EXTINF:-1 tvg-id="第壹商业频道" tvg-name="第壹商业频道" tvg-logo="https://live.fanmingming.com/tv/第壹商业频道.png" group-title="🐯暮雨｜极速",第壹商业频道
+#EXTINF:-1 tvg-id="第壹商业频道" tvg-name="第壹商业频道" tvg-logo="https://live.fanmingming.com/tv/第壹商业频道.png" group-title="🐯暮雨｜稳定",第壹商业频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv109
-#EXTINF:-1 tvg-id="爱放动漫频道" tvg-name="爱放动漫频道" tvg-logo="https://live.fanmingming.com/tv/爱放动漫频道.png" group-title="🐯暮雨｜极速",爱放动漫频道
+#EXTINF:-1 tvg-id="爱放动漫频道" tvg-name="爱放动漫频道" tvg-logo="https://live.fanmingming.com/tv/爱放动漫频道.png" group-title="🐯暮雨｜稳定",爱放动漫频道
 http://litv.zapi.us.kg/?id=litv-ftv15
-#EXTINF:-1 tvg-id="古典音乐频道" tvg-name="古典音乐频道" tvg-logo="https://live.fanmingming.com/tv/古典音乐频道.png" group-title="🐯暮雨｜极速",古典音乐频道
+#EXTINF:-1 tvg-id="古典音乐频道" tvg-name="古典音乐频道" tvg-logo="https://live.fanmingming.com/tv/古典音乐频道.png" group-title="🐯暮雨｜稳定",古典音乐频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv059
-#EXTINF:-1 tvg-id="客家电视频道" tvg-name="客家电视频道" tvg-logo="https://live.fanmingming.com/tv/客家电视频道.png" group-title="🐯暮雨｜极速",客家电视频道
+#EXTINF:-1 tvg-id="客家电视频道" tvg-name="客家电视频道" tvg-logo="https://live.fanmingming.com/tv/客家电视频道.png" group-title="🐯暮雨｜稳定",客家电视频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv043
-#EXTINF:-1 tvg-id="华仁纪实频道" tvg-name="华仁纪实频道" tvg-logo="https://live.fanmingming.com/tv/华仁纪实频道.png" group-title="🐯暮雨｜极速",华仁纪实频道
+#EXTINF:-1 tvg-id="华仁纪实频道" tvg-name="华仁纪实频道" tvg-logo="https://live.fanmingming.com/tv/华仁纪实频道.png" group-title="🐯暮雨｜稳定",华仁纪实频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv013
-#EXTINF:-1 tvg-id="时尚运动频道" tvg-name="时尚运动频道" tvg-logo="https://live.fanmingming.com/tv/时尚运动频道.png" group-title="🐯暮雨｜极速",时尚运动频道
+#EXTINF:-1 tvg-id="时尚运动频道" tvg-name="时尚运动频道" tvg-logo="https://live.fanmingming.com/tv/时尚运动频道.png" group-title="🐯暮雨｜稳定",时尚运动频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv014
-#EXTINF:-1 tvg-id="生活英语频道" tvg-name="生活英语频道" tvg-logo="https://live.fanmingming.com/tv/生活英语频道.png" group-title="🐯暮雨｜极速",生活英语频道
+#EXTINF:-1 tvg-id="生活英语频道" tvg-name="生活英语频道" tvg-logo="https://live.fanmingming.com/tv/生活英语频道.png" group-title="🐯暮雨｜稳定",生活英语频道
 http://litv.zapi.us.kg/?id=litv-longturn20
-#EXTINF:-1 tvg-id="采昌影剧频道" tvg-name="采昌影剧频道" tvg-logo="https://live.fanmingming.com/tv/采昌影剧频道.png" group-title="🐯暮雨｜极速",采昌影剧频道
+#EXTINF:-1 tvg-id="采昌影剧频道" tvg-name="采昌影剧频道" tvg-logo="https://live.fanmingming.com/tv/采昌影剧频道.png" group-title="🐯暮雨｜稳定",采昌影剧频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv049
-#EXTINF:-1 tvg-id="数位电影频道" tvg-name="数位电影频道" tvg-logo="https://live.fanmingming.com/tv/数位电影频道.png" group-title="🐯暮雨｜极速",数位电影频道
+#EXTINF:-1 tvg-id="数位电影频道" tvg-name="数位电影频道" tvg-logo="https://live.fanmingming.com/tv/数位电影频道.png" group-title="🐯暮雨｜稳定",数位电影频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv011
-#EXTINF:-1 tvg-id="Amc电影频道" tvg-name="Amc电影频道" tvg-logo="https://live.fanmingming.com/tv/Amc电影频道.png" group-title="🐯暮雨｜极速",Amc电影频道
+#EXTINF:-1 tvg-id="Amc电影频道" tvg-name="Amc电影频道" tvg-logo="https://live.fanmingming.com/tv/Amc电影频道.png" group-title="🐯暮雨｜稳定",Amc电影频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv017
-#EXTINF:-1 tvg-id="CAT电影频道" tvg-name="CAT电影频道" tvg-logo="https://live.fanmingming.com/tv/CAT电影频道.png" group-title="🐯暮雨｜极速",CAT电影频道
+#EXTINF:-1 tvg-id="CAT电影频道" tvg-name="CAT电影频道" tvg-logo="https://live.fanmingming.com/tv/CAT电影频道.png" group-title="🐯暮雨｜稳定",CAT电影频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv076
-#EXTINF:-1 tvg-id="TRA体育频道" tvg-name="TRA体育频道" tvg-logo="https://live.fanmingming.com/tv/TRA体育频道.png" group-title="🐯暮雨｜极速",TRA体育频道
+#EXTINF:-1 tvg-id="TRA体育频道" tvg-name="TRA体育频道" tvg-logo="https://live.fanmingming.com/tv/TRA体育频道.png" group-title="🐯暮雨｜稳定",TRA体育频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv077
-#EXTINF:-1 tvg-id="SMArt知识台" tvg-name="SMArt知识台" tvg-logo="https://live.fanmingming.com/tv/SMArt知识台.png" group-title="🐯暮雨｜极速",SMArt知识台
+#EXTINF:-1 tvg-id="SMArt知识台" tvg-name="SMArt知识台" tvg-logo="https://live.fanmingming.com/tv/SMArt知识台.png" group-title="🐯暮雨｜稳定",SMArt知识台
 http://litv.zapi.us.kg/?id=litv-longturn19
-#EXTINF:-1 tvg-id="GLO-Bet频道" tvg-name="GLO-Bet频道" tvg-logo="https://live.fanmingming.com/tv/GLO-Bet频道.png" group-title="🐯暮雨｜极速",GLO-Bet频道
+#EXTINF:-1 tvg-id="GLO-Bet频道" tvg-name="GLO-Bet频道" tvg-logo="https://live.fanmingming.com/tv/GLO-Bet频道.png" group-title="🐯暮雨｜稳定",GLO-Bet频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv016
-#EXTINF:-1 tvg-id="TRACEU频道" tvg-name="TRACEU频道" tvg-logo="https://live.fanmingming.com/tv/TRACEU频道.png" group-title="🐯暮雨｜极速",TRACEU频道
+#EXTINF:-1 tvg-id="TRACEU频道" tvg-name="TRACEU频道" tvg-logo="https://live.fanmingming.com/tv/TRACEU频道.png" group-title="🐯暮雨｜稳定",TRACEU频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv082
-#EXTINF:-1 tvg-id="MEZZOl频道" tvg-name="MEZZOl频道" tvg-logo="https://live.fanmingming.com/tv/MEZZOl频道.png" group-title="🐯暮雨｜极速",MEZZOl频道
+#EXTINF:-1 tvg-id="MEZZOl频道" tvg-name="MEZZOl频道" tvg-logo="https://live.fanmingming.com/tv/MEZZOl频道.png" group-title="🐯暮雨｜稳定",MEZZOl频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv083
-#EXTINF:-1 tvg-id="Ginx_TV频道" tvg-name="Ginx_TV频道" tvg-logo="https://live.fanmingming.com/tv/Ginx_TV频道.png" group-title="🐯暮雨｜极速",Ginx_TV频道
+#EXTINF:-1 tvg-id="Ginx_TV频道" tvg-name="Ginx_TV频道" tvg-logo="https://live.fanmingming.com/tv/Ginx_TV频道.png" group-title="🐯暮雨｜稳定",Ginx_TV频道
 http://litv.zapi.us.kg/?id=4gtv-4gtv053
-#EXTINF:-1 tvg-id="中天新闻频道" tvg-name="中天新闻频道" tvg-logo="https://live.fanmingming.com/tv/中天新闻频道.png" group-title="🐯暮雨｜极速",中天新闻频道
+#EXTINF:-1 tvg-id="中天新闻频道" tvg-name="中天新闻频道" tvg-logo="https://live.fanmingming.com/tv/中天新闻频道.png" group-title="🐯暮雨｜稳定",中天新闻频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv009
-#EXTINF:-1 tvg-id="东森新闻频道" tvg-name="东森新闻频道" tvg-logo="https://live.fanmingming.com/tv/东森新闻频道.png" group-title="🐯暮雨｜极速",东森新闻频道
+#EXTINF:-1 tvg-id="东森新闻频道" tvg-name="东森新闻频道" tvg-logo="https://live.fanmingming.com/tv/东森新闻频道.png" group-title="🐯暮雨｜稳定",东森新闻频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv152
-#EXTINF:-1 tvg-id="tvbs新闻频道" tvg-name="tvbs新闻频道" tvg-logo="https://live.fanmingming.com/tv/tvbs新闻频道.png" group-title="🐯暮雨｜极速",tvbs新闻频道
+#EXTINF:-1 tvg-id="tvbs新闻频道" tvg-name="tvbs新闻频道" tvg-logo="https://live.fanmingming.com/tv/tvbs新闻频道.png" group-title="🐯暮雨｜稳定",tvbs新闻频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv072
-#EXTINF:-1 tvg-id="寰宇新闻频道" tvg-name="寰宇新闻频道" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻频道.png" group-title="🐯暮雨｜极速",寰宇新闻频道
+#EXTINF:-1 tvg-id="寰宇新闻频道" tvg-name="寰宇新闻频道" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻频道.png" group-title="🐯暮雨｜稳定",寰宇新闻频道
 http://tw.ts138.top/4g/?id=litv-longturn14
-#EXTINF:-1 tvg-id="非凡新闻频道" tvg-name="非凡新闻频道" tvg-logo="https://live.fanmingming.com/tv/非凡新闻频道.png" group-title="🐯暮雨｜极速",非凡新闻频道
+#EXTINF:-1 tvg-id="非凡新闻频道" tvg-name="非凡新闻频道" tvg-logo="https://live.fanmingming.com/tv/非凡新闻频道.png" group-title="🐯暮雨｜稳定",非凡新闻频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv010
-#EXTINF:-1 tvg-id="闽镜新闻频道" tvg-name="闽镜新闻频道" tvg-logo="https://live.fanmingming.com/tv/闽镜新闻频道.png" group-title="🐯暮雨｜极速",闽镜新闻频道
+#EXTINF:-1 tvg-id="闽镜新闻频道" tvg-name="闽镜新闻频道" tvg-logo="https://live.fanmingming.com/tv/闽镜新闻频道.png" group-title="🐯暮雨｜稳定",闽镜新闻频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv075
-#EXTINF:-1 tvg-id="民视新闻频道" tvg-name="民视新闻频道" tvg-logo="https://live.fanmingming.com/tv/民视新闻频道.png" group-title="🐯暮雨｜极速",民视新闻频道
+#EXTINF:-1 tvg-id="民视新闻频道" tvg-name="民视新闻频道" tvg-logo="https://live.fanmingming.com/tv/民视新闻频道.png" group-title="🐯暮雨｜稳定",民视新闻频道
 http://tw.ts138.top/4g/?id=litv-ftv13
-#EXTINF:-1 tvg-id="中视新闻频道" tvg-name="中视新闻频道" tvg-logo="https://live.fanmingming.com/tv/中视新闻频道.png" group-title="🐯暮雨｜极速",中视新闻频道
+#EXTINF:-1 tvg-id="中视新闻频道" tvg-name="中视新闻频道" tvg-logo="https://live.fanmingming.com/tv/中视新闻频道.png" group-title="🐯暮雨｜稳定",中视新闻频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv074
-#EXTINF:-1 tvg-id="华视新闻频道" tvg-name="华视新闻频道" tvg-logo="https://live.fanmingming.com/tv/华视新闻频道.png" group-title="🐯暮雨｜极速",华视新闻频道
+#EXTINF:-1 tvg-id="华视新闻频道" tvg-name="华视新闻频道" tvg-logo="https://live.fanmingming.com/tv/华视新闻频道.png" group-title="🐯暮雨｜稳定",华视新闻频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv052
-#EXTINF:-1 tvg-id="台视新闻频道" tvg-name="台视新闻频道" tvg-logo="https://live.fanmingming.com/tv/台视新闻频道.png" group-title="🐯暮雨｜极速",台视新闻频道
+#EXTINF:-1 tvg-id="台视新闻频道" tvg-name="台视新闻频道" tvg-logo="https://live.fanmingming.com/tv/台视新闻频道.png" group-title="🐯暮雨｜稳定",台视新闻频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv051
-#EXTINF:-1 tvg-id="民视闽南频道" tvg-name="民视闽南频道" tvg-logo="https://live.fanmingming.com/tv/民视闽南频道.png" group-title="🐯暮雨｜极速",民视闽南频道
+#EXTINF:-1 tvg-id="民视闽南频道" tvg-name="民视闽南频道" tvg-logo="https://live.fanmingming.com/tv/民视闽南频道.png" group-title="🐯暮雨｜稳定",民视闽南频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv002
-#EXTINF:-1 tvg-id="民视闽南频道" tvg-name="民视闽南频道" tvg-logo="https://live.fanmingming.com/tv/民视闽南频道.png" group-title="🐯暮雨｜极速",民视闽南频道
+#EXTINF:-1 tvg-id="民视闽南频道" tvg-name="民视闽南频道" tvg-logo="https://live.fanmingming.com/tv/民视闽南频道.png" group-title="🐯暮雨｜稳定",民视闽南频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv155
-#EXTINF:-1 tvg-id="中视闽南频道" tvg-name="中视闽南频道" tvg-logo="https://live.fanmingming.com/tv/中视闽南频道.png" group-title="🐯暮雨｜极速",中视闽南频道
+#EXTINF:-1 tvg-id="中视闽南频道" tvg-name="中视闽南频道" tvg-logo="https://live.fanmingming.com/tv/中视闽南频道.png" group-title="🐯暮雨｜稳定",中视闽南频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv040
-#EXTINF:-1 tvg-id="华视闽南频道" tvg-name="华视闽南频道" tvg-logo="https://live.fanmingming.com/tv/华视闽南频道.png" group-title="🐯暮雨｜极速",华视闽南频道
+#EXTINF:-1 tvg-id="华视闽南频道" tvg-name="华视闽南频道" tvg-logo="https://live.fanmingming.com/tv/华视闽南频道.png" group-title="🐯暮雨｜稳定",华视闽南频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv041
-#EXTINF:-1 tvg-id="台视闽南频道" tvg-name="台视闽南频道" tvg-logo="https://live.fanmingming.com/tv/台视闽南频道.png" group-title="🐯暮雨｜极速",台视闽南频道
+#EXTINF:-1 tvg-id="台视闽南频道" tvg-name="台视闽南频道" tvg-logo="https://live.fanmingming.com/tv/台视闽南频道.png" group-title="🐯暮雨｜稳定",台视闽南频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv066
-#EXTINF:-1 tvg-id="寰宇闽南频道" tvg-name="寰宇闽南频道" tvg-logo="https://live.fanmingming.com/tv/寰宇闽南频道.png" group-title="🐯暮雨｜极速",寰宇闽南频道
+#EXTINF:-1 tvg-id="寰宇闽南频道" tvg-name="寰宇闽南频道" tvg-logo="https://live.fanmingming.com/tv/寰宇闽南频道.png" group-title="🐯暮雨｜稳定",寰宇闽南频道
 http://tw.ts138.top/4g/?id=litv-longturn15
-#EXTINF:-1 tvg-id="tvbs闽南频道" tvg-name="tvbs闽南频道" tvg-logo="https://live.fanmingming.com/tv/tvbs闽南频道.png" group-title="🐯暮雨｜极速",tvbs闽南频道
+#EXTINF:-1 tvg-id="tvbs闽南频道" tvg-name="tvbs闽南频道" tvg-logo="https://live.fanmingming.com/tv/tvbs闽南频道.png" group-title="🐯暮雨｜稳定",tvbs闽南频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv073
-#EXTINF:-1 tvg-id="民视台湾频道" tvg-name="民视台湾频道" tvg-logo="https://live.fanmingming.com/tv/民视台湾频道.png" group-title="🐯暮雨｜极速",民视台湾频道
+#EXTINF:-1 tvg-id="民视台湾频道" tvg-name="民视台湾频道" tvg-logo="https://live.fanmingming.com/tv/民视台湾频道.png" group-title="🐯暮雨｜稳定",民视台湾频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv001
-#EXTINF:-1 tvg-id="民视台湾频道" tvg-name="民视台湾频道" tvg-logo="https://live.fanmingming.com/tv/民视台湾频道.png" group-title="🐯暮雨｜极速",民视台湾频道
+#EXTINF:-1 tvg-id="民视台湾频道" tvg-name="民视台湾频道" tvg-logo="https://live.fanmingming.com/tv/民视台湾频道.png" group-title="🐯暮雨｜稳定",民视台湾频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv156
-#EXTINF:-1 tvg-id="民视第一频道" tvg-name="民视第一频道" tvg-logo="https://live.fanmingming.com/tv/民视第一频道.png" group-title="🐯暮雨｜极速",民视第一频道
+#EXTINF:-1 tvg-id="民视第一频道" tvg-name="民视第一频道" tvg-logo="https://live.fanmingming.com/tv/民视第一频道.png" group-title="🐯暮雨｜稳定",民视第一频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv003
-#EXTINF:-1 tvg-id="民视旅游频道" tvg-name="民视旅游频道" tvg-logo="https://live.fanmingming.com/tv/民视旅游频道.png" group-title="🐯暮雨｜极速",民视旅游频道
+#EXTINF:-1 tvg-id="民视旅游频道" tvg-name="民视旅游频道" tvg-logo="https://live.fanmingming.com/tv/民视旅游频道.png" group-title="🐯暮雨｜稳定",民视旅游频道
 http://tw.ts138.top/4g/?id=litv-ftv07
-#EXTINF:-1 tvg-id="民视影剧频道" tvg-name="民视影剧频道" tvg-logo="https://live.fanmingming.com/tv/民视影剧频道.png" group-title="🐯暮雨｜极速",民视影剧频道
+#EXTINF:-1 tvg-id="民视影剧频道" tvg-name="民视影剧频道" tvg-logo="https://live.fanmingming.com/tv/民视影剧频道.png" group-title="🐯暮雨｜稳定",民视影剧频道
 http://tw.ts138.top/4g/?id=litv-ftv09
-#EXTINF:-1 tvg-id="民视综艺频道" tvg-name="民视综艺频道" tvg-logo="https://live.fanmingming.com/tv/民视综艺频道.png" group-title="🐯暮雨｜极速",民视综艺频道
+#EXTINF:-1 tvg-id="民视综艺频道" tvg-name="民视综艺频道" tvg-logo="https://live.fanmingming.com/tv/民视综艺频道.png" group-title="🐯暮雨｜稳定",民视综艺频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv004
-#EXTINF:-1 tvg-id="中视菁采频道" tvg-name="中视菁采频道" tvg-logo="https://live.fanmingming.com/tv/中视菁采频道.png" group-title="🐯暮雨｜极速",中视菁采频道
+#EXTINF:-1 tvg-id="中视菁采频道" tvg-name="中视菁采频道" tvg-logo="https://live.fanmingming.com/tv/中视菁采频道.png" group-title="🐯暮雨｜稳定",中视菁采频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv064
-#EXTINF:-1 tvg-id="中视经典频道" tvg-name="中视经典频道" tvg-logo="https://live.fanmingming.com/tv/中视经典频道.png" group-title="🐯暮雨｜极速",中视经典频道
+#EXTINF:-1 tvg-id="中视经典频道" tvg-name="中视经典频道" tvg-logo="https://live.fanmingming.com/tv/中视经典频道.png" group-title="🐯暮雨｜稳定",中视经典频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv080
-#EXTINF:-1 tvg-id="台视财经频道" tvg-name="台视财经频道" tvg-logo="https://live.fanmingming.com/tv/台视财经频道.png" group-title="🐯暮雨｜极速",台视财经频道
+#EXTINF:-1 tvg-id="台视财经频道" tvg-name="台视财经频道" tvg-logo="https://live.fanmingming.com/tv/台视财经频道.png" group-title="🐯暮雨｜稳定",台视财经频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv056
-#EXTINF:-1 tvg-id="公视戏剧频道" tvg-name="公视戏剧频道" tvg-logo="https://live.fanmingming.com/tv/公视戏剧频道.png" group-title="🐯暮雨｜极速",公视戏剧频道
+#EXTINF:-1 tvg-id="公视戏剧频道" tvg-name="公视戏剧频道" tvg-logo="https://live.fanmingming.com/tv/公视戏剧频道.png" group-title="🐯暮雨｜稳定",公视戏剧频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv042
-#EXTINF:-1 tvg-id="闽南戏剧频道" tvg-name="闽南戏剧频道" tvg-logo="https://live.fanmingming.com/tv/闽南戏剧频道.png" group-title="🐯暮雨｜极速",闽南戏剧频道
+#EXTINF:-1 tvg-id="闽南戏剧频道" tvg-name="闽南戏剧频道" tvg-logo="https://live.fanmingming.com/tv/闽南戏剧频道.png" group-title="🐯暮雨｜稳定",闽南戏剧频道
 http://tw.ts138.top/4g/?id=litv-longturn22
-#EXTINF:-1 tvg-id="国际财经频道" tvg-name="国际财经频道" tvg-logo="https://live.fanmingming.com/tv/国际财经频道.png" group-title="🐯暮雨｜极速",国际财经频道
+#EXTINF:-1 tvg-id="国际财经频道" tvg-name="国际财经频道" tvg-logo="https://live.fanmingming.com/tv/国际财经频道.png" group-title="🐯暮雨｜稳定",国际财经频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv104
-#EXTINF:-1 tvg-id="东森财经频道" tvg-name="东森财经频道" tvg-logo="https://live.fanmingming.com/tv/东森财经频道.png" group-title="🐯暮雨｜极速",东森财经频道
+#EXTINF:-1 tvg-id="东森财经频道" tvg-name="东森财经频道" tvg-logo="https://live.fanmingming.com/tv/东森财经频道.png" group-title="🐯暮雨｜稳定",东森财经频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv153
-#EXTINF:-1 tvg-id="tvbs精采频道" tvg-name="tvbs精采频道" tvg-logo="https://live.fanmingming.com/tv/tvbs精采频道.png" group-title="🐯暮雨｜极速",tvbs精采频道
+#EXTINF:-1 tvg-id="tvbs精采频道" tvg-name="tvbs精采频道" tvg-logo="https://live.fanmingming.com/tv/tvbs精采频道.png" group-title="🐯暮雨｜稳定",tvbs精采频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv067
-#EXTINF:-1 tvg-id="tvbs欢乐频道" tvg-name="tvbs欢乐频道" tvg-logo="https://live.fanmingming.com/tv/tvbs欢乐频道.png" group-title="🐯暮雨｜极速",tvbs欢乐频道
+#EXTINF:-1 tvg-id="tvbs欢乐频道" tvg-name="tvbs欢乐频道" tvg-logo="https://live.fanmingming.com/tv/tvbs欢乐频道.png" group-title="🐯暮雨｜稳定",tvbs欢乐频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv068
-#EXTINF:-1 tvg-id="八大精彩频道" tvg-name="八大精彩频道" tvg-logo="https://live.fanmingming.com/tv/八大精彩频道.png" group-title="🐯暮雨｜极速",八大精彩频道
+#EXTINF:-1 tvg-id="八大精彩频道" tvg-name="八大精彩频道" tvg-logo="https://live.fanmingming.com/tv/八大精彩频道.png" group-title="🐯暮雨｜稳定",八大精彩频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv034
-#EXTINF:-1 tvg-id="八大综艺频道" tvg-name="八大综艺频道" tvg-logo="https://live.fanmingming.com/tv/八大综艺频道.png" group-title="🐯暮雨｜极速",八大综艺频道
+#EXTINF:-1 tvg-id="八大综艺频道" tvg-name="八大综艺频道" tvg-logo="https://live.fanmingming.com/tv/八大综艺频道.png" group-title="🐯暮雨｜稳定",八大综艺频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv039
-#EXTINF:-1 tvg-id="爱尔达娱乐台" tvg-name="爱尔达娱乐台" tvg-logo="https://live.fanmingming.com/tv/爱尔达娱乐台.png" group-title="🐯暮雨｜极速",爱尔达娱乐台
+#EXTINF:-1 tvg-id="爱尔达娱乐台" tvg-name="爱尔达娱乐台" tvg-logo="https://live.fanmingming.com/tv/爱尔达娱乐台.png" group-title="🐯暮雨｜稳定",爱尔达娱乐台
 http://tw.ts138.top/4g/?id=4gtv-4gtv070
-#EXTINF:-1 tvg-id="靖洋戏剧频道" tvg-name="靖洋戏剧频道" tvg-logo="https://live.fanmingming.com/tv/靖洋戏剧频道.png" group-title="🐯暮雨｜极速",靖洋戏剧频道
+#EXTINF:-1 tvg-id="靖洋戏剧频道" tvg-name="靖洋戏剧频道" tvg-logo="https://live.fanmingming.com/tv/靖洋戏剧频道.png" group-title="🐯暮雨｜稳定",靖洋戏剧频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv045
-#EXTINF:-1 tvg-id="靖洋卡通频道" tvg-name="靖洋卡通频道" tvg-logo="https://live.fanmingming.com/tv/靖洋卡通频道.png" group-title="🐯暮雨｜极速",靖洋卡通频道
+#EXTINF:-1 tvg-id="靖洋卡通频道" tvg-name="靖洋卡通频道" tvg-logo="https://live.fanmingming.com/tv/靖洋卡通频道.png" group-title="🐯暮雨｜稳定",靖洋卡通频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv057
-#EXTINF:-1 tvg-id="靖天卡通频道" tvg-name="靖天卡通频道" tvg-logo="https://live.fanmingming.com/tv/靖天卡通频道.png" group-title="🐯暮雨｜极速",靖天卡通频道
+#EXTINF:-1 tvg-id="靖天卡通频道" tvg-name="靖天卡通频道" tvg-logo="https://live.fanmingming.com/tv/靖天卡通频道.png" group-title="🐯暮雨｜稳定",靖天卡通频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv044
-#EXTINF:-1 tvg-id="靖天综合频道" tvg-name="靖天综合频道" tvg-logo="https://live.fanmingming.com/tv/靖天综合频道.png" group-title="🐯暮雨｜极速",靖天综合频道
+#EXTINF:-1 tvg-id="靖天综合频道" tvg-name="靖天综合频道" tvg-logo="https://live.fanmingming.com/tv/靖天综合频道.png" group-title="🐯暮雨｜稳定",靖天综合频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv046
-#EXTINF:-1 tvg-id="靖天日本频道" tvg-name="靖天日本频道" tvg-logo="https://live.fanmingming.com/tv/靖天日本频道.png" group-title="🐯暮雨｜极速",靖天日本频道
+#EXTINF:-1 tvg-id="靖天日本频道" tvg-name="靖天日本频道" tvg-logo="https://live.fanmingming.com/tv/靖天日本频道.png" group-title="🐯暮雨｜稳定",靖天日本频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv047
-#EXTINF:-1 tvg-id="靖天欢乐频道" tvg-name="靖天欢乐频道" tvg-logo="https://live.fanmingming.com/tv/靖天欢乐频道.png" group-title="🐯暮雨｜极速",靖天欢乐频道
+#EXTINF:-1 tvg-id="靖天欢乐频道" tvg-name="靖天欢乐频道" tvg-logo="https://live.fanmingming.com/tv/靖天欢乐频道.png" group-title="🐯暮雨｜稳定",靖天欢乐频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv054
-#EXTINF:-1 tvg-id="靖天映画频道" tvg-name="靖天映画频道" tvg-logo="https://live.fanmingming.com/tv/靖天映画频道.png" group-title="🐯暮雨｜极速",靖天映画频道
+#EXTINF:-1 tvg-id="靖天映画频道" tvg-name="靖天映画频道" tvg-logo="https://live.fanmingming.com/tv/靖天映画频道.png" group-title="🐯暮雨｜稳定",靖天映画频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv055
-#EXTINF:-1 tvg-id="靖天戏剧频道" tvg-name="靖天戏剧频道" tvg-logo="https://live.fanmingming.com/tv/靖天戏剧频道.png" group-title="🐯暮雨｜极速",靖天戏剧频道
+#EXTINF:-1 tvg-id="靖天戏剧频道" tvg-name="靖天戏剧频道" tvg-logo="https://live.fanmingming.com/tv/靖天戏剧频道.png" group-title="🐯暮雨｜稳定",靖天戏剧频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv058
-#EXTINF:-1 tvg-id="靖天电影频道" tvg-name="靖天电影频道" tvg-logo="https://live.fanmingming.com/tv/靖天电影频道.png" group-title="🐯暮雨｜极速",靖天电影频道
+#EXTINF:-1 tvg-id="靖天电影频道" tvg-name="靖天电影频道" tvg-logo="https://live.fanmingming.com/tv/靖天电影频道.png" group-title="🐯暮雨｜稳定",靖天电影频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv061
-#EXTINF:-1 tvg-id="靖天育乐频道" tvg-name="靖天育乐频道" tvg-logo="https://live.fanmingming.com/tv/靖天育乐频道.png" group-title="🐯暮雨｜极速",靖天育乐频道
+#EXTINF:-1 tvg-id="靖天育乐频道" tvg-name="靖天育乐频道" tvg-logo="https://live.fanmingming.com/tv/靖天育乐频道.png" group-title="🐯暮雨｜稳定",靖天育乐频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv062
-#EXTINF:-1 tvg-id="靖天国际频道" tvg-name="靖天国际频道" tvg-logo="https://live.fanmingming.com/tv/靖天国际频道.png" group-title="🐯暮雨｜极速",靖天国际频道
+#EXTINF:-1 tvg-id="靖天国际频道" tvg-name="靖天国际频道" tvg-logo="https://live.fanmingming.com/tv/靖天国际频道.png" group-title="🐯暮雨｜稳定",靖天国际频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv063
-#EXTINF:-1 tvg-id="靖天资讯频道" tvg-name="靖天资讯频道" tvg-logo="https://live.fanmingming.com/tv/靖天资讯频道.png" group-title="🐯暮雨｜极速",靖天资讯频道
+#EXTINF:-1 tvg-id="靖天资讯频道" tvg-name="靖天资讯频道" tvg-logo="https://live.fanmingming.com/tv/靖天资讯频道.png" group-title="🐯暮雨｜稳定",靖天资讯频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv065
-#EXTINF:-1 tvg-id="龙华卡通频道" tvg-name="龙华卡通频道" tvg-logo="https://live.fanmingming.com/tv/龙华卡通频道.png" group-title="🐯暮雨｜极速",龙华卡通频道
+#EXTINF:-1 tvg-id="龙华卡通频道" tvg-name="龙华卡通频道" tvg-logo="https://live.fanmingming.com/tv/龙华卡通频道.png" group-title="🐯暮雨｜稳定",龙华卡通频道
 http://tw.ts138.top/4g/?id=litv-longturn01
-#EXTINF:-1 tvg-id="龙华日韩频道" tvg-name="龙华日韩频道" tvg-logo="https://live.fanmingming.com/tv/龙华日韩频道.png" group-title="🐯暮雨｜极速",龙华日韩频道
+#EXTINF:-1 tvg-id="龙华日韩频道" tvg-name="龙华日韩频道" tvg-logo="https://live.fanmingming.com/tv/龙华日韩频道.png" group-title="🐯暮雨｜稳定",龙华日韩频道
 http://tw.ts138.top/4g/?id=litv-longturn11
-#EXTINF:-1 tvg-id="龙华偶像频道" tvg-name="龙华偶像频道" tvg-logo="https://live.fanmingming.com/tv/龙华偶像频道.png" group-title="🐯暮雨｜极速",龙华偶像频道
+#EXTINF:-1 tvg-id="龙华偶像频道" tvg-name="龙华偶像频道" tvg-logo="https://live.fanmingming.com/tv/龙华偶像频道.png" group-title="🐯暮雨｜稳定",龙华偶像频道
 http://tw.ts138.top/4g/?id=litv-longturn12
-#EXTINF:-1 tvg-id="龙华电影频道" tvg-name="龙华电影频道" tvg-logo="https://live.fanmingming.com/tv/龙华电影频道.png" group-title="🐯暮雨｜极速",龙华电影频道
+#EXTINF:-1 tvg-id="龙华电影频道" tvg-name="龙华电影频道" tvg-logo="https://live.fanmingming.com/tv/龙华电影频道.png" group-title="🐯暮雨｜稳定",龙华电影频道
 http://tw.ts138.top/4g/?id=litv-longturn03
-#EXTINF:-1 tvg-id="龙华戏剧频道" tvg-name="龙华戏剧频道" tvg-logo="https://live.fanmingming.com/tv/龙华戏剧频道.png" group-title="🐯暮雨｜极速",龙华戏剧频道
+#EXTINF:-1 tvg-id="龙华戏剧频道" tvg-name="龙华戏剧频道" tvg-logo="https://live.fanmingming.com/tv/龙华戏剧频道.png" group-title="🐯暮雨｜稳定",龙华戏剧频道
 http://tw.ts138.top/4g/?id=litv-longturn18
-#EXTINF:-1 tvg-id="龙华经典频道" tvg-name="龙华经典频道" tvg-logo="https://live.fanmingming.com/tv/龙华经典频道.png" group-title="🐯暮雨｜极速",龙华经典频道
+#EXTINF:-1 tvg-id="龙华经典频道" tvg-name="龙华经典频道" tvg-logo="https://live.fanmingming.com/tv/龙华经典频道.png" group-title="🐯暮雨｜稳定",龙华经典频道
 http://tw.ts138.top/4g/?id=litv-longturn21
-#EXTINF:-1 tvg-id="国会频道壹台" tvg-name="国会频道壹台" tvg-logo="https://live.fanmingming.com/tv/国会频道壹台.png" group-title="🐯暮雨｜极速",国会频道壹台
+#EXTINF:-1 tvg-id="国会频道壹台" tvg-name="国会频道壹台" tvg-logo="https://live.fanmingming.com/tv/国会频道壹台.png" group-title="🐯暮雨｜稳定",国会频道壹台
 http://tw.ts138.top/4g/?id=4gtv-4gtv084
-#EXTINF:-1 tvg-id="国会频道贰台" tvg-name="国会频道贰台" tvg-logo="https://live.fanmingming.com/tv/国会频道贰台.png" group-title="🐯暮雨｜极速",国会频道贰台
+#EXTINF:-1 tvg-id="国会频道贰台" tvg-name="国会频道贰台" tvg-logo="https://live.fanmingming.com/tv/国会频道贰台.png" group-title="🐯暮雨｜稳定",国会频道贰台
 http://tw.ts138.top/4g/?id=4gtv-4gtv085
-#EXTINF:-1 tvg-id="好消息壹频道" tvg-name="好消息壹频道" tvg-logo="https://live.fanmingming.com/tv/好消息壹频道.png" group-title="🐯暮雨｜极速",好消息壹频道
+#EXTINF:-1 tvg-id="好消息壹频道" tvg-name="好消息壹频道" tvg-logo="https://live.fanmingming.com/tv/好消息壹频道.png" group-title="🐯暮雨｜稳定",好消息壹频道
 http://tw.ts138.top/4g/?id=litv-ftv16
-#EXTINF:-1 tvg-id="好消息贰频道" tvg-name="好消息贰频道" tvg-logo="https://live.fanmingming.com/tv/好消息贰频道.png" group-title="🐯暮雨｜极速",好消息贰频道
+#EXTINF:-1 tvg-id="好消息贰频道" tvg-name="好消息贰频道" tvg-logo="https://live.fanmingming.com/tv/好消息贰频道.png" group-title="🐯暮雨｜稳定",好消息贰频道
 http://tw.ts138.top/4g/?id=litv-ftv17
-#EXTINF:-1 tvg-id="智林体育频道" tvg-name="智林体育频道" tvg-logo="https://live.fanmingming.com/tv/智林体育频道.png" group-title="🐯暮雨｜极速",智林体育频道
+#EXTINF:-1 tvg-id="智林体育频道" tvg-name="智林体育频道" tvg-logo="https://live.fanmingming.com/tv/智林体育频道.png" group-title="🐯暮雨｜稳定",智林体育频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv101
-#EXTINF:-1 tvg-id="博斯魅力频道" tvg-name="博斯魅力频道" tvg-logo="https://live.fanmingming.com/tv/博斯魅力频道.png" group-title="🐯暮雨｜极速",博斯魅力频道
+#EXTINF:-1 tvg-id="博斯魅力频道" tvg-name="博斯魅力频道" tvg-logo="https://live.fanmingming.com/tv/博斯魅力频道.png" group-title="🐯暮雨｜稳定",博斯魅力频道
 http://tw.ts138.top/4g/?id=litv-longturn04
-#EXTINF:-1 tvg-id="博斯网球频道" tvg-name="博斯网球频道" tvg-logo="https://live.fanmingming.com/tv/博斯网球频道.png" group-title="🐯暮雨｜极速",博斯网球频道
+#EXTINF:-1 tvg-id="博斯网球频道" tvg-name="博斯网球频道" tvg-logo="https://live.fanmingming.com/tv/博斯网球频道.png" group-title="🐯暮雨｜稳定",博斯网球频道
 http://tw.ts138.top/4g/?id=litv-longturn09
-#EXTINF:-1 tvg-id="博斯高球壹台" tvg-name="博斯高球壹台" tvg-logo="https://live.fanmingming.com/tv/博斯高球壹台.png" group-title="🐯暮雨｜极速",博斯高球壹台
+#EXTINF:-1 tvg-id="博斯高球壹台" tvg-name="博斯高球壹台" tvg-logo="https://live.fanmingming.com/tv/博斯高球壹台.png" group-title="🐯暮雨｜稳定",博斯高球壹台
 http://tw.ts138.top/4g/?id=litv-longturn05
-#EXTINF:-1 tvg-id="博斯高球贰台" tvg-name="博斯高球贰台" tvg-logo="https://live.fanmingming.com/tv/博斯高球贰台.png" group-title="🐯暮雨｜极速",博斯高球贰台
+#EXTINF:-1 tvg-id="博斯高球贰台" tvg-name="博斯高球贰台" tvg-logo="https://live.fanmingming.com/tv/博斯高球贰台.png" group-title="🐯暮雨｜稳定",博斯高球贰台
 http://tw.ts138.top/4g/?id=litv-longturn06
-#EXTINF:-1 tvg-id="博斯运动壹台" tvg-name="博斯运动壹台" tvg-logo="https://live.fanmingming.com/tv/博斯运动壹台.png" group-title="🐯暮雨｜极速",博斯运动壹台
+#EXTINF:-1 tvg-id="博斯运动壹台" tvg-name="博斯运动壹台" tvg-logo="https://live.fanmingming.com/tv/博斯运动壹台.png" group-title="🐯暮雨｜稳定",博斯运动壹台
 http://tw.ts138.top/4g/?id=litv-longturn07
-#EXTINF:-1 tvg-id="博斯运动贰台" tvg-name="博斯运动贰台" tvg-logo="https://live.fanmingming.com/tv/博斯运动贰台.png" group-title="🐯暮雨｜极速",博斯运动贰台
+#EXTINF:-1 tvg-id="博斯运动贰台" tvg-name="博斯运动贰台" tvg-logo="https://live.fanmingming.com/tv/博斯运动贰台.png" group-title="🐯暮雨｜稳定",博斯运动贰台
 http://tw.ts138.top/4g/?id=litv-longturn08
-#EXTINF:-1 tvg-id="博斯无限壹台" tvg-name="博斯无限壹台" tvg-logo="https://live.fanmingming.com/tv/博斯无限壹台.png" group-title="🐯暮雨｜极速",博斯无限壹台
+#EXTINF:-1 tvg-id="博斯无限壹台" tvg-name="博斯无限壹台" tvg-logo="https://live.fanmingming.com/tv/博斯无限壹台.png" group-title="🐯暮雨｜稳定",博斯无限壹台
 http://tw.ts138.top/4g/?id=litv-longturn10
-#EXTINF:-1 tvg-id="博斯无限贰台" tvg-name="博斯无限贰台" tvg-logo="https://live.fanmingming.com/tv/博斯无限贰台.png" group-title="🐯暮雨｜极速",博斯无限贰台
+#EXTINF:-1 tvg-id="博斯无限贰台" tvg-name="博斯无限贰台" tvg-logo="https://live.fanmingming.com/tv/博斯无限贰台.png" group-title="🐯暮雨｜稳定",博斯无限贰台
 http://tw.ts138.top/4g/?id=litv-longturn13
-#EXTINF:-1 tvg-id="阿里郎频道台" tvg-name="阿里郎频道台" tvg-logo="https://live.fanmingming.com/tv/阿里郎频道台.png" group-title="🐯暮雨｜极速",阿里郎频道台
+#EXTINF:-1 tvg-id="阿里郎频道台" tvg-name="阿里郎频道台" tvg-logo="https://live.fanmingming.com/tv/阿里郎频道台.png" group-title="🐯暮雨｜稳定",阿里郎频道台
 http://tw.ts138.top/4g/?id=4gtv-4gtv079
-#EXTINF:-1 tvg-id="达文西频道台" tvg-name="达文西频道台" tvg-logo="https://live.fanmingming.com/tv/达文西频道台.png" group-title="🐯暮雨｜极速",达文西频道台
+#EXTINF:-1 tvg-id="达文西频道台" tvg-name="达文西频道台" tvg-logo="https://live.fanmingming.com/tv/达文西频道台.png" group-title="🐯暮雨｜稳定",达文西频道台
 http://tw.ts138.top/4g/?id=4gtv-4gtv018
-#EXTINF:-1 tvg-id="猪哥亮歌厅台" tvg-name="猪哥亮歌厅台" tvg-logo="https://live.fanmingming.com/tv/猪哥亮歌厅台.png" group-title="🐯暮雨｜极速",猪哥亮歌厅台
+#EXTINF:-1 tvg-id="猪哥亮歌厅台" tvg-name="猪哥亮歌厅台" tvg-logo="https://live.fanmingming.com/tv/猪哥亮歌厅台.png" group-title="🐯暮雨｜稳定",猪哥亮歌厅台
 http://tw.ts138.top/4g/?id=4gtv-4gtv006
-#EXTINF:-1 tvg-id="亚洲旅游频道" tvg-name="亚洲旅游频道" tvg-logo="https://live.fanmingming.com/tv/亚洲旅游频道.png" group-title="🐯暮雨｜极速",亚洲旅游频道
+#EXTINF:-1 tvg-id="亚洲旅游频道" tvg-name="亚洲旅游频道" tvg-logo="https://live.fanmingming.com/tv/亚洲旅游频道.png" group-title="🐯暮雨｜稳定",亚洲旅游频道
 http://tw.ts138.top/4g/?id=litv-longturn17
-#EXTINF:-1 tvg-id="美国之音频道" tvg-name="美国之音频道" tvg-logo="https://live.fanmingming.com/tv/美国之音频道.png" group-title="🐯暮雨｜极速",美国之音频道
+#EXTINF:-1 tvg-id="美国之音频道" tvg-name="美国之音频道" tvg-logo="https://live.fanmingming.com/tv/美国之音频道.png" group-title="🐯暮雨｜稳定",美国之音频道
 http://tw.ts138.top/4g/?id=litv-ftv03
-#EXTINF:-1 tvg-id="半岛新闻频道" tvg-name="半岛新闻频道" tvg-logo="https://live.fanmingming.com/tv/半岛新闻频道.png" group-title="🐯暮雨｜极速",半岛新闻频道
+#EXTINF:-1 tvg-id="半岛新闻频道" tvg-name="半岛新闻频道" tvg-logo="https://live.fanmingming.com/tv/半岛新闻频道.png" group-title="🐯暮雨｜稳定",半岛新闻频道
 http://tw.ts138.top/4g/?id=litv-ftv10
-#EXTINF:-1 tvg-id="非凡商业频道" tvg-name="非凡商业频道" tvg-logo="https://live.fanmingming.com/tv/非凡商业频道.png" group-title="🐯暮雨｜极速",非凡商业频道
+#EXTINF:-1 tvg-id="非凡商业频道" tvg-name="非凡商业频道" tvg-logo="https://live.fanmingming.com/tv/非凡商业频道.png" group-title="🐯暮雨｜稳定",非凡商业频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv048
-#EXTINF:-1 tvg-id="第壹商业频道" tvg-name="第壹商业频道" tvg-logo="https://live.fanmingming.com/tv/第壹商业频道.png" group-title="🐯暮雨｜极速",第壹商业频道
+#EXTINF:-1 tvg-id="第壹商业频道" tvg-name="第壹商业频道" tvg-logo="https://live.fanmingming.com/tv/第壹商业频道.png" group-title="🐯暮雨｜稳定",第壹商业频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv109
-#EXTINF:-1 tvg-id="爱放动漫频道" tvg-name="爱放动漫频道" tvg-logo="https://live.fanmingming.com/tv/爱放动漫频道.png" group-title="🐯暮雨｜极速",爱放动漫频道
+#EXTINF:-1 tvg-id="爱放动漫频道" tvg-name="爱放动漫频道" tvg-logo="https://live.fanmingming.com/tv/爱放动漫频道.png" group-title="🐯暮雨｜稳定",爱放动漫频道
 http://tw.ts138.top/4g/?id=litv-ftv15
-#EXTINF:-1 tvg-id="古典音乐频道" tvg-name="古典音乐频道" tvg-logo="https://live.fanmingming.com/tv/古典音乐频道.png" group-title="🐯暮雨｜极速",古典音乐频道
+#EXTINF:-1 tvg-id="古典音乐频道" tvg-name="古典音乐频道" tvg-logo="https://live.fanmingming.com/tv/古典音乐频道.png" group-title="🐯暮雨｜稳定",古典音乐频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv059
-#EXTINF:-1 tvg-id="客家电视频道" tvg-name="客家电视频道" tvg-logo="https://live.fanmingming.com/tv/客家电视频道.png" group-title="🐯暮雨｜极速",客家电视频道
+#EXTINF:-1 tvg-id="客家电视频道" tvg-name="客家电视频道" tvg-logo="https://live.fanmingming.com/tv/客家电视频道.png" group-title="🐯暮雨｜稳定",客家电视频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv043
-#EXTINF:-1 tvg-id="华仁纪实频道" tvg-name="华仁纪实频道" tvg-logo="https://live.fanmingming.com/tv/华仁纪实频道.png" group-title="🐯暮雨｜极速",华仁纪实频道
+#EXTINF:-1 tvg-id="华仁纪实频道" tvg-name="华仁纪实频道" tvg-logo="https://live.fanmingming.com/tv/华仁纪实频道.png" group-title="🐯暮雨｜稳定",华仁纪实频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv013
-#EXTINF:-1 tvg-id="时尚运动频道" tvg-name="时尚运动频道" tvg-logo="https://live.fanmingming.com/tv/时尚运动频道.png" group-title="🐯暮雨｜极速",时尚运动频道
+#EXTINF:-1 tvg-id="时尚运动频道" tvg-name="时尚运动频道" tvg-logo="https://live.fanmingming.com/tv/时尚运动频道.png" group-title="🐯暮雨｜稳定",时尚运动频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv014
-#EXTINF:-1 tvg-id="生活英语频道" tvg-name="生活英语频道" tvg-logo="https://live.fanmingming.com/tv/生活英语频道.png" group-title="🐯暮雨｜极速",生活英语频道
+#EXTINF:-1 tvg-id="生活英语频道" tvg-name="生活英语频道" tvg-logo="https://live.fanmingming.com/tv/生活英语频道.png" group-title="🐯暮雨｜稳定",生活英语频道
 http://tw.ts138.top/4g/?id=litv-longturn20
-#EXTINF:-1 tvg-id="采昌影剧频道" tvg-name="采昌影剧频道" tvg-logo="https://live.fanmingming.com/tv/采昌影剧频道.png" group-title="🐯暮雨｜极速",采昌影剧频道
+#EXTINF:-1 tvg-id="采昌影剧频道" tvg-name="采昌影剧频道" tvg-logo="https://live.fanmingming.com/tv/采昌影剧频道.png" group-title="🐯暮雨｜稳定",采昌影剧频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv049
-#EXTINF:-1 tvg-id="数位电影频道" tvg-name="数位电影频道" tvg-logo="https://live.fanmingming.com/tv/数位电影频道.png" group-title="🐯暮雨｜极速",数位电影频道
+#EXTINF:-1 tvg-id="数位电影频道" tvg-name="数位电影频道" tvg-logo="https://live.fanmingming.com/tv/数位电影频道.png" group-title="🐯暮雨｜稳定",数位电影频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv011
-#EXTINF:-1 tvg-id="Amc电影频道" tvg-name="Amc电影频道" tvg-logo="https://live.fanmingming.com/tv/Amc电影频道.png" group-title="🐯暮雨｜极速",Amc电影频道
+#EXTINF:-1 tvg-id="Amc电影频道" tvg-name="Amc电影频道" tvg-logo="https://live.fanmingming.com/tv/Amc电影频道.png" group-title="🐯暮雨｜稳定",Amc电影频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv017
-#EXTINF:-1 tvg-id="CAT电影频道" tvg-name="CAT电影频道" tvg-logo="https://live.fanmingming.com/tv/CAT电影频道.png" group-title="🐯暮雨｜极速",CAT电影频道
+#EXTINF:-1 tvg-id="CAT电影频道" tvg-name="CAT电影频道" tvg-logo="https://live.fanmingming.com/tv/CAT电影频道.png" group-title="🐯暮雨｜稳定",CAT电影频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv076
-#EXTINF:-1 tvg-id="TRA体育频道" tvg-name="TRA体育频道" tvg-logo="https://live.fanmingming.com/tv/TRA体育频道.png" group-title="🐯暮雨｜极速",TRA体育频道
+#EXTINF:-1 tvg-id="TRA体育频道" tvg-name="TRA体育频道" tvg-logo="https://live.fanmingming.com/tv/TRA体育频道.png" group-title="🐯暮雨｜稳定",TRA体育频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv077
-#EXTINF:-1 tvg-id="SMArt知识台" tvg-name="SMArt知识台" tvg-logo="https://live.fanmingming.com/tv/SMArt知识台.png" group-title="🐯暮雨｜极速",SMArt知识台
+#EXTINF:-1 tvg-id="SMArt知识台" tvg-name="SMArt知识台" tvg-logo="https://live.fanmingming.com/tv/SMArt知识台.png" group-title="🐯暮雨｜稳定",SMArt知识台
 http://tw.ts138.top/4g/?id=litv-longturn19
-#EXTINF:-1 tvg-id="GLO-Bet频道" tvg-name="GLO-Bet频道" tvg-logo="https://live.fanmingming.com/tv/GLO-Bet频道.png" group-title="🐯暮雨｜极速",GLO-Bet频道
+#EXTINF:-1 tvg-id="GLO-Bet频道" tvg-name="GLO-Bet频道" tvg-logo="https://live.fanmingming.com/tv/GLO-Bet频道.png" group-title="🐯暮雨｜稳定",GLO-Bet频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv016
-#EXTINF:-1 tvg-id="TRACEU频道" tvg-name="TRACEU频道" tvg-logo="https://live.fanmingming.com/tv/TRACEU频道.png" group-title="🐯暮雨｜极速",TRACEU频道
+#EXTINF:-1 tvg-id="TRACEU频道" tvg-name="TRACEU频道" tvg-logo="https://live.fanmingming.com/tv/TRACEU频道.png" group-title="🐯暮雨｜稳定",TRACEU频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv082
-#EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://live.fanmingming.com/tv/中视新闻.png" group-title="🐯暮雨｜一五四",中视新闻
-http://ali.hlspull.yximgs.com/live/tboxpropnvqydstudqbsqcvbfqqqsqfqsqwetymqldhduqocnqsxw.flv
-#EXTINF:-1 tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://live.fanmingming.com/tv/民视新闻台.png" group-title="🐯暮雨｜一五四",民视新闻台
-http://ali.hlspull.yximgs.com/live/tboxprocnbvqfhdquqqvcbnqftuqscxqfqeqyhqqvqfmsxw.flv
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="🐯暮雨｜一五四",翡翠台
-http://ali.hlspull.yximgs.com/live/tboxprofhwwqpthqyqtqqqxcxbfhqqfqvhdtqdvbtvqsqxqfsqqcvbctvbfc.flv
-#EXTINF:-1 tvg-id="18台" tvg-name="18台" tvg-logo="https://live.fanmingming.com/tv/18台.png" group-title="🐯暮雨｜一五四",18台
-http://ali.hlspull.yximgs.com/live/tboxprovhxqcvfhoeqfqhdoqqqyhcvxclqhqotqyq9qssqfdqcvhthofsqqhyx18.flv
-#EXTINF:-1 tvg-id="天映频道" tvg-name="天映频道" tvg-logo="https://live.fanmingming.com/tv/天映频道.png" group-title="🐯暮雨｜一五四",天映频道
-http://ali.hlspull.yximgs.com/live/tboxproqeqcxlvofbqbvnqqsfqvbhfhcvxcvqsqbcvqfdvqsfcbqbnqtypq.flv
-#EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://live.fanmingming.com/tv/天映经典.png" group-title="🐯暮雨｜一五四",天映经典
-http://ali.hlspull.yximgs.com/live/tboxprovcnydsqfqsetqqfcvbcdtsqqfvxcvsqnmbnlqqhqqnmyhsqqftydq.flv
-#EXTINF:-1 tvg-id="Thrill恐怖电影" tvg-name="Thrill恐怖电影" tvg-logo="https://live.fanmingming.com/tv/Thrill恐怖电影.png" group-title="🐯暮雨｜一五四",Thrill恐怖电影
-http://ali.hlspull.yximgs.com/live/tboxproecvqweqqosvoqqqsqqqdeqfqxqucqshvqcsqqfcqtchplqy.flv
-#EXTINF:-1 tvg-id="中天新闻2" tvg-name="中天新闻2" tvg-logo="https://live.fanmingming.com/tv/中天新闻2.png" group-title="🐯暮雨｜一五四",中天新闻2
-http://ali.hlspull.yximgs.com/live/115d93066d6da7192f2c0a55f25918e0.flv
-#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/中天新闻.png" group-title="🐯暮雨｜一五四",中天新闻
-http://ali.hlspull.yximgs.com/live/0f782e3450d93c69da4c68a2de638d32.flv
-#EXTINF:-1 tvg-id="中天亚洲台" tvg-name="中天亚洲台" tvg-logo="https://live.fanmingming.com/tv/中天亚洲台.png" group-title="🐯暮雨｜一五四",中天亚洲台
-http://ali.hlspull.yximgs.com/live/3619df812a7d98a787054f16ad713f75.flv
-#EXTINF:-1 tvg-id="环宇新闻台" tvg-name="环宇新闻台" tvg-logo="https://live.fanmingming.com/tv/环宇新闻台.png" group-title="🐯暮雨｜一五四",环宇新闻台
-http://ali.hlspull.yximgs.com/live/46fdce10edd3c9c4433f47f3335e4bd0.flv
-#EXTINF:-1 tvg-id="壹新闻" tvg-name="壹新闻" tvg-logo="https://live.fanmingming.com/tv/壹新闻.png" group-title="🐯暮雨｜一五四",壹新闻
-http://ali.hlspull.yximgs.com/live/tboxpromqfoyqvqsdvbnweqtquqqxqcvfqqsqfhfqddqqlhtbchyxw.flv
-#EXTINF:-1 tvg-id="非凡新闻" tvg-name="非凡新闻" tvg-logo="https://live.fanmingming.com/tv/非凡新闻.png" group-title="🐯暮雨｜一五四",非凡新闻
-http://ali.hlspull.yximgs.com/live/tboxprosqtnfqqoqdcbfcxvqfuuqqweqqqsqyuhhdqsqhqynffxw.flv
-#EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://live.fanmingming.com/tv/三立新闻.png" group-title="🐯暮雨｜一五四",三立新闻
-http://ali.hlspull.yximgs.com/live/tboxprohmcyoywqqubqdfqfvchtquqxcqxvcbsqfsdxcbmqsllivexw.flv
-#EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://live.fanmingming.com/tv/东森新闻.png" group-title="🐯暮雨｜一五四",东森新闻
-http://ali.hlspull.yximgs.com/live/tboxpromhqttuqqcvbyquoqdqqeqywefqqfbxfbxxvbqqqlqqhqsxw.flv
-#EXTINF:-1 tvg-id="年代新闻" tvg-name="年代新闻" tvg-logo="https://live.fanmingming.com/tv/年代新闻.png" group-title="🐯暮雨｜一五四",年代新闻
-http://ali.hlspull.yximgs.com/live/tboxprooqevdyscvbudloqlnsfqewtqudvbbqxfqnqlvcqdqdnqxw.flv
-#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/中天新闻.png" group-title="🐯暮雨｜一五四",中天新闻
-http://ali.hlspull.yximgs.com/live/tboxpropqqtvvqqqyquuqqfvbscvqdqtwqfsqqsqqqcvuyqemqeqtxw.flv
-#EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻.png" group-title="🐯暮雨｜一五四",寰宇新闻
-http://ali.hlspull.yximgs.com/live/tboxprophxehmffquxcxqveqeqyhmnqqxqqhqdhnqbnxfdqfhyxw.flv
-#EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="🐯暮雨｜一五四",台视新闻
-http://ali.hlspull.yximgs.com/live/tboxproncqqtqqudtqlqcvbcvntqqqsfwetqfvcbcxvdqbqfflvcqtsxw.flv
 #EXTINF:-1 tvg-id="凤凰卫视频国" tvg-name="凤凰卫视频国" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视频国.png" group-title="🐯暮雨｜一五四",凤凰卫视频国
 http://154.9.232.236:80/mlTW22288.php?id=phoenixtv_hd
 #EXTINF:-1 tvg-id="凤凰资讯频国" tvg-name="凤凰资讯频国" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯频国.png" group-title="🐯暮雨｜一五四",凤凰资讯频国
@@ -7254,47 +7258,47 @@ https://vip.lz-cdn3.com/20221114/15887_b3b2f329/1200k/hls/mixed.m3u8
 #EXTINF:-1 tvg-id="特务迷城" tvg-name="特务迷城" tvg-logo="https://live.fanmingming.com/tv/特务迷城.png" group-title="🐯暮雨｜成龙",特务迷城
 https://vip.lz-cdn1.com/20220411/1661_39b86486/1200k/hls/mixed.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="🐯暮雨｜北京",北京卫视
-http://114.246.181.171:4022/rtp/239.3.1.241:8000
+http://1.203.110.68:8686/rtp/239.3.1.241:8000
 #EXTINF:-1 tvg-id="BRTV新闻" tvg-name="BRTV新闻" tvg-logo="https://live.fanmingming.com/tv/BRTV新闻.png" group-title="🐯暮雨｜北京",BRTV新闻
-http://114.246.181.171:4022/rtp/239.3.1.159:8000
+http://1.203.110.68:8686/rtp/239.3.1.159:8000
 #EXTINF:-1 tvg-id="BRTV影视" tvg-name="BRTV影视" tvg-logo="https://live.fanmingming.com/tv/BRTV影视.png" group-title="🐯暮雨｜北京",BRTV影视
-http://114.246.181.171:4022/rtp/239.3.1.158:8000
+http://1.203.110.68:8686/rtp/239.3.1.158:8000
 #EXTINF:-1 tvg-id="BRTV文艺" tvg-name="BRTV文艺" tvg-logo="https://live.fanmingming.com/tv/BRTV文艺.png" group-title="🐯暮雨｜北京",BRTV文艺
-http://114.246.181.171:4022/rtp/239.3.1.242:8000
+http://1.203.110.68:8686/rtp/239.3.1.242:8000
 #EXTINF:-1 tvg-id="BRTV财经" tvg-name="BRTV财经" tvg-logo="https://live.fanmingming.com/tv/BRTV财经.png" group-title="🐯暮雨｜北京",BRTV财经
-http://114.246.181.171:4022/rtp/239.3.1.116:8000
+http://1.203.110.68:8686/rtp/239.3.1.116:8000
 #EXTINF:-1 tvg-id="BRTV生活" tvg-name="BRTV生活" tvg-logo="https://live.fanmingming.com/tv/BRTV生活.png" group-title="🐯暮雨｜北京",BRTV生活
-http://114.246.181.171:4022/rtp/239.3.1.117:8000
+http://1.203.110.68:8686/rtp/239.3.1.117:8000
 #EXTINF:-1 tvg-id="BRTV纪实科教" tvg-name="BRTV纪实科教" tvg-logo="https://live.fanmingming.com/tv/BRTV纪实科教.png" group-title="🐯暮雨｜北京",BRTV纪实科教
-http://114.246.181.171:4022/rtp/239.3.1.115:8000
+http://1.203.110.68:8686/rtp/239.3.1.115:8000
 #EXTINF:-1 tvg-id="BRTV卡酷少儿" tvg-name="BRTV卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/BRTV卡酷少儿.png" group-title="🐯暮雨｜北京",BRTV卡酷少儿
-http://114.246.181.171:4022/rtp/239.3.1.189:8000
+http://1.203.110.68:8686/rtp/239.3.1.189:8000
 #EXTINF:-1 tvg-id="BRTV体育休闲" tvg-name="BRTV体育休闲" tvg-logo="https://live.fanmingming.com/tv/BRTV体育休闲.png" group-title="🐯暮雨｜北京",BRTV体育休闲
-http://114.246.181.171:4022/rtp/239.3.1.243:8000
+http://1.203.110.68:8686/rtp/239.3.1.243:8000
 #EXTINF:-1 tvg-id="淘电影" tvg-name="淘电影" tvg-logo="https://live.fanmingming.com/tv/淘电影.png" group-title="🐯暮雨｜北京",淘电影
-http://114.246.181.171:4022/rtp/239.3.1.250:8001
+http://1.203.110.68:8686/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-id="淘剧场" tvg-name="淘剧场" tvg-logo="https://live.fanmingming.com/tv/淘剧场.png" group-title="🐯暮雨｜北京",淘剧场
-http://114.246.181.171:4022/rtp/239.3.1.95:8001
+http://1.203.110.68:8686/rtp/239.3.1.95:8001
 #EXTINF:-1 tvg-id="淘娱乐" tvg-name="淘娱乐" tvg-logo="https://live.fanmingming.com/tv/淘娱乐.png" group-title="🐯暮雨｜北京",淘娱乐
-http://114.246.181.171:4022/rtp/239.3.1.100:8001
+http://1.203.110.68:8686/rtp/239.3.1.100:8001
 #EXTINF:-1 tvg-id="淘baby" tvg-name="淘baby" tvg-logo="https://live.fanmingming.com/tv/淘baby.png" group-title="🐯暮雨｜北京",淘baby
-http://114.246.181.171:4022/rtp/239.3.1.238:8001
+http://1.203.110.68:8686/rtp/239.3.1.238:8001
 #EXTINF:-1 tvg-id="萌宠TV" tvg-name="萌宠TV" tvg-logo="https://live.fanmingming.com/tv/萌宠TV.png" group-title="🐯暮雨｜北京",萌宠TV
-http://114.246.181.171:4022/rtp/239.3.1.102:8001
+http://1.203.110.68:8686/rtp/239.3.1.102:8001
 #EXTINF:-1 tvg-id="淘精彩" tvg-name="淘精彩" tvg-logo="https://live.fanmingming.com/tv/淘精彩.png" group-title="🐯暮雨｜北京",淘精彩
-http://114.246.181.171:4022/rtp/239.3.1.178:8001
+http://1.203.110.68:8686/rtp/239.3.1.178:8001
 #EXTINF:-1 tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://live.fanmingming.com/tv/中国交通.png" group-title="🐯暮雨｜北京",中国交通
-http://114.246.181.171:4022/rtp/239.3.1.188:8001
+http://1.203.110.68:8686/rtp/239.3.1.188:8001
 #EXTINF:-1 tvg-id="朝阳融媒" tvg-name="朝阳融媒" tvg-logo="https://live.fanmingming.com/tv/朝阳融媒.png" group-title="🐯暮雨｜北京",朝阳融媒
-http://114.246.181.171:4022/rtp/239.3.1.163:8001
+http://1.203.110.68:8686/rtp/239.3.1.163:8001
 #EXTINF:-1 tvg-id="通州融媒" tvg-name="通州融媒" tvg-logo="https://live.fanmingming.com/tv/通州融媒.png" group-title="🐯暮雨｜北京",通州融媒
-http://114.246.181.171:4022/rtp/239.3.1.221:8001
+http://1.203.110.68:8686/rtp/239.3.1.221:8001
 #EXTINF:-1 tvg-id="密云电视台" tvg-name="密云电视台" tvg-logo="https://live.fanmingming.com/tv/密云电视台.png" group-title="🐯暮雨｜北京",密云电视台
-http://114.246.181.171:4022/rtp/239.3.1.154:8001
+http://1.203.110.68:8686/rtp/239.3.1.154:8001
 #EXTINF:-1 tvg-id="延庆电视台" tvg-name="延庆电视台" tvg-logo="https://live.fanmingming.com/tv/延庆电视台.png" group-title="🐯暮雨｜北京",延庆电视台
-http://114.246.181.171:4022/rtp/239.3.1.187:8001
+http://1.203.110.68:8686/rtp/239.3.1.187:8001
 #EXTINF:-1 tvg-id="房山电视台" tvg-name="房山电视台" tvg-logo="https://live.fanmingming.com/tv/房山电视台.png" group-title="🐯暮雨｜北京",房山电视台
-http://114.246.181.171:4022/rtp/239.3.1.96:8001
+http://1.203.110.68:8686/rtp/239.3.1.96:8001
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="🐯暮雨｜珠江",广东卫视
 http://benhaha.top:8888/udp/239.20.0.99:3004
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="🐯暮雨｜珠江",广东卫视
@@ -8362,6 +8366,90 @@ http://118.254.157.41:8888/udp/239.76.247.50:1234
 #EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="🐯暮雨｜新闻",风云音乐
 http://222.223.118.222:2180/live/fyyy/index.m3u8
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="🐯暮雨｜新闻",中国天气
+http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="🐯辽视｜综合",辽宁卫视
+http://42.58.245.40:9009/rtp/232.0.0.126:1234
+#EXTINF:-1 tvg-id="辽宁都市" tvg-name="辽宁都市" tvg-logo="https://live.fanmingming.com/tv/辽宁都市.png" group-title="🐯辽视｜综合",辽宁都市
+http://42.58.245.40:9009/rtp/232.0.0.154:1234
+#EXTINF:-1 tvg-id="辽宁影视剧" tvg-name="辽宁影视剧" tvg-logo="https://live.fanmingming.com/tv/辽宁影视剧.png" group-title="🐯辽视｜综合",辽宁影视剧
+http://42.58.245.40:9009/rtp/232.0.0.25:1234
+#EXTINF:-1 tvg-id="辽宁体育" tvg-name="辽宁体育" tvg-logo="https://live.fanmingming.com/tv/辽宁体育.png" group-title="🐯辽视｜综合",辽宁体育
+http://42.58.245.40:9009/rtp/232.0.0.164:1234
+#EXTINF:-1 tvg-id="辽宁生活" tvg-name="辽宁生活" tvg-logo="https://live.fanmingming.com/tv/辽宁生活.png" group-title="🐯辽视｜综合",辽宁生活
+http://42.58.245.40:9009/rtp/232.0.0.150:1234
+#EXTINF:-1 tvg-id="辽宁教育青少" tvg-name="辽宁教育青少" tvg-logo="https://live.fanmingming.com/tv/辽宁教育青少.png" group-title="🐯辽视｜综合",辽宁教育青少
+http://42.58.245.40:9009/rtp/232.0.0.241:1234
+#EXTINF:-1 tvg-id="辽宁北方" tvg-name="辽宁北方" tvg-logo="https://live.fanmingming.com/tv/辽宁北方.png" group-title="🐯辽视｜综合",辽宁北方
+http://42.58.245.40:9009/rtp/232.0.0.151:1234
+#EXTINF:-1 tvg-id="辽宁宜佳购物" tvg-name="辽宁宜佳购物" tvg-logo="https://live.fanmingming.com/tv/辽宁宜佳购物.png" group-title="🐯辽视｜综合",辽宁宜佳购物
+http://42.58.245.40:9009/rtp/232.0.0.30:1234
+#EXTINF:-1 tvg-id="辽宁公共" tvg-name="辽宁公共" tvg-logo="https://live.fanmingming.com/tv/辽宁公共.png" group-title="🐯辽视｜综合",辽宁公共
+http://42.58.245.40:9009/rtp/232.0.0.168:1234
+#EXTINF:-1 tvg-id="辽宁经济" tvg-name="辽宁经济" tvg-logo="https://live.fanmingming.com/tv/辽宁经济.png" group-title="🐯辽视｜综合",辽宁经济
+http://42.58.245.40:9009/rtp/232.0.0.156:1234
+#EXTINF:-1 tvg-id="党员教育" tvg-name="党员教育" tvg-logo="https://live.fanmingming.com/tv/党员教育.png" group-title="🐯辽视｜综合",党员教育
+http://42.58.245.40:9009/rtp/232.0.0.129:1234
+#EXTINF:-1 tvg-id="抚顺综合" tvg-name="抚顺综合" tvg-logo="https://live.fanmingming.com/tv/抚顺综合.png" group-title="🐯辽视｜综合",抚顺综合
+http://42.58.245.40:9009/rtp/232.0.0.143:1234
+#EXTINF:-1 tvg-id="抚顺教育" tvg-name="抚顺教育" tvg-logo="https://live.fanmingming.com/tv/抚顺教育.png" group-title="🐯辽视｜综合",抚顺教育
+http://42.58.245.40:9009/rtp/232.0.0.145:1234
+#EXTINF:-1 tvg-id="大洼综合" tvg-name="大洼综合" tvg-logo="https://live.fanmingming.com/tv/大洼综合.png" group-title="🐯辽视｜综合",大洼综合
+http://42.58.245.40:9009/rtp/232.0.0.146:1234
+#EXTINF:-1 tvg-id="盘锦新闻" tvg-name="盘锦新闻" tvg-logo="https://live.fanmingming.com/tv/盘锦新闻.png" group-title="🐯辽视｜综合",盘锦新闻
+http://42.58.245.40:9009/rtp/232.0.0.148:1234
+#EXTINF:-1 tvg-id="辽河新闻综合" tvg-name="辽河新闻综合" tvg-logo="https://live.fanmingming.com/tv/辽河新闻综合.png" group-title="🐯辽视｜综合",辽河新闻综合
+http://42.58.245.40:9009/rtp/232.0.0.214:1234
+#EXTINF:-1 tvg-id="辽河文化生活" tvg-name="辽河文化生活" tvg-logo="https://live.fanmingming.com/tv/辽河文化生活.png" group-title="🐯辽视｜综合",辽河文化生活
+http://42.58.245.40:9009/rtp/232.0.0.215:1234
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="🐯辽视｜综合",CGTN
+http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3#https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="🐯辽视｜综合",CETV1
+http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
+#EXTINF:-1 tvg-id="CETV-2" tvg-name="CETV-2" tvg-logo="https://live.fanmingming.com/tv/CETV-2.png" group-title="🐯辽视｜综合",CETV-2
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
+#EXTINF:-1 tvg-id="CETV-4" tvg-name="CETV-4" tvg-logo="https://live.fanmingming.com/tv/CETV-4.png" group-title="🐯辽视｜综合",CETV-4
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
+#EXTINF:-1 tvg-id="衢江新闻综合" tvg-name="衢江新闻综合" tvg-logo="https://live.fanmingming.com/tv/衢江新闻综合.png" group-title="🐯辽视｜综合",衢江新闻综合
+http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed
+#EXTINF:-1 tvg-id="龙泉新闻综合" tvg-name="龙泉新闻综合" tvg-logo="https://live.fanmingming.com/tv/龙泉新闻综合.png" group-title="🐯辽视｜综合",龙泉新闻综合
+http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8?zzhed
+#EXTINF:-1 tvg-id="云和新闻综合" tvg-name="云和新闻综合" tvg-logo="https://live.fanmingming.com/tv/云和新闻综合.png" group-title="🐯辽视｜综合",云和新闻综合
+http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8?zzhed
+#EXTINF:-1 tvg-id="广安新闻综合" tvg-name="广安新闻综合" tvg-logo="https://live.fanmingming.com/tv/广安新闻综合.png" group-title="🐯辽视｜综合",广安新闻综合
+http://live1.gatv.com.cn:85/live/XWZH.m3u8
+#EXTINF:-1 tvg-id="达州新闻综合" tvg-name="达州新闻综合" tvg-logo="https://live.fanmingming.com/tv/达州新闻综合.png" group-title="🐯辽视｜综合",达州新闻综合
+http://tv.drs.dzxw.net/channellive/xwzhpd-dz1.flv
+#EXTINF:-1 tvg-id="凉山新闻综合" tvg-name="凉山新闻综合" tvg-logo="https://live.fanmingming.com/tv/凉山新闻综合.png" group-title="🐯辽视｜综合",凉山新闻综合
+http://file.yizu.tv/nmip-media/channellive/channel106606/playlist.m3u8?zsicd
+#EXTINF:-1 tvg-id="德阳新闻综合" tvg-name="德阳新闻综合" tvg-logo="https://live.fanmingming.com/tv/德阳新闻综合.png" group-title="🐯辽视｜综合",德阳新闻综合
+http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8
+#EXTINF:-1 tvg-id="万源新闻综合" tvg-name="万源新闻综合" tvg-logo="https://live.fanmingming.com/tv/万源新闻综合.png" group-title="🐯辽视｜综合",万源新闻综合
+http://live.wanyuannews.com/wytv/hd/live.m3u8
+#EXTINF:-1 tvg-id="黑水新闻综合" tvg-name="黑水新闻综合" tvg-logo="https://live.fanmingming.com/tv/黑水新闻综合.png" group-title="🐯辽视｜综合",黑水新闻综合
+http://live.schstv.com:90/live/xwzh.m3u8
+#EXTINF:-1 tvg-id="金川新闻综合" tvg-name="金川新闻综合" tvg-logo="https://live.fanmingming.com/tv/金川新闻综合.png" group-title="🐯辽视｜综合",金川新闻综合
+http://live.jinchuanrmt.com:90/live/zhxw.m3u8
+#EXTINF:-1 tvg-id="松潘新闻综合" tvg-name="松潘新闻综合" tvg-logo="https://live.fanmingming.com/tv/松潘新闻综合.png" group-title="🐯辽视｜综合",松潘新闻综合
+http://live.spccmc.com:90/live/spxwzh.m3u8
+#EXTINF:-1 tvg-id="汶川新闻综合" tvg-name="汶川新闻综合" tvg-logo="https://live.fanmingming.com/tv/汶川新闻综合.png" group-title="🐯辽视｜综合",汶川新闻综合
+http://live.iwcmt.cn:90/live/zhxw.m3u8
+#EXTINF:-1 tvg-id="康定新闻综合" tvg-name="康定新闻综合" tvg-logo="https://live.fanmingming.com/tv/康定新闻综合.png" group-title="🐯辽视｜综合",康定新闻综合
+http://m3u8-kd.channel.ganzitv.com/nmip-media-yajiang/channellive/channel100663/playlist.m3u8
+#EXTINF:-1 tvg-id="泸县新闻综合" tvg-name="泸县新闻综合" tvg-logo="https://live.fanmingming.com/tv/泸县新闻综合.png" group-title="🐯辽视｜综合",泸县新闻综合
+http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8
+#EXTINF:-1 tvg-id="泸州新闻综合" tvg-name="泸州新闻综合" tvg-logo="https://live.fanmingming.com/tv/泸州新闻综合.png" group-title="🐯辽视｜综合",泸州新闻综合
+http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8?zsicd
+#EXTINF:-1 tvg-id="自贡综合" tvg-name="自贡综合" tvg-logo="https://live.fanmingming.com/tv/自贡综合.png" group-title="🐯辽视｜综合",自贡综合
+http://110.189.153.160:1001/zhpd.flv?zsicd
+#EXTINF:-1 tvg-id="德阳新闻综合" tvg-name="德阳新闻综合" tvg-logo="https://live.fanmingming.com/tv/德阳新闻综合.png" group-title="🐯辽视｜综合",德阳新闻综合
+http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8?zsicd
+#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="🐯辽视｜综合",风云足球
+http://home.sylaigym.top:8887/rtp/239.69.1.81:10126
+#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="🐯辽视｜综合",风云音乐
+http://118.254.157.41:8888/udp/239.76.247.50:1234
+#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="🐯辽视｜综合",风云音乐
+http://222.223.118.222:2180/live/fyyy/index.m3u8
+#EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="🐯辽视｜综合",中国天气
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="🐯辽视｜综合",辽宁卫视
 http://42.58.245.40:9009/rtp/232.0.0.126:1234
