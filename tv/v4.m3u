@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 group-title="💚更新时间10-16 10:58",仅供学习使用
+#EXTINF:-1 group-title="💚更新时间10-16 17:33",仅供学习使用
 http://ali.hlspull.yximgs.com/live/asdfg863678266.flv
 #EXTINF:-1 tvg-id="暮雨直播" tvg-name="暮雨直播" tvg-logo="https://live.fanmingming.com/tv/暮雨直播.png" group-title="🐯暮雨｜直播",暮雨直播
 https://v.cdnlz12.com/20240927/17158_ef65f743/index.m3u8
@@ -17,7 +17,53 @@ https://pay.haiqu.vip:2266/hls/spsj/2019/12/05/10849/playlist.m3u8
 https://pay.haiqu.vip:2266/hls/spsj/2022/11/28/13071/playlist.m3u8
 #EXTINF:-1 tvg-id="不喜勿喷" tvg-name="不喜勿喷" tvg-logo="https://live.fanmingming.com/tv/不喜勿喷.png" group-title="🐯暮雨｜直播",不喜勿喷
 https://pay.haiqu.vip:2266/hls/spsj/2018/01/20181011/10442/playlist.m3u8
-#EXTINF:-1 tvg-id="谢谢合作" tvg-name="谢谢合作" tvg-logo="https://live.fanmingming.com/tv/谢谢合作.png" group-title="🐯暮雨｜直播",谢谢合作
+#EXTINF:-1 tvg-id="中華電信" tvg-name="中華電信" tvg-logo="https://live.fanmingming.com/tv/中華電信.png" group-title="🐯暮雨｜松视",中華電信
+http://118.170.45.200:2397/udp/224.1.4.81:11111
+#EXTINF:-1 tvg-id="MOD导视" tvg-name="MOD导视" tvg-logo="https://live.fanmingming.com/tv/MOD导视.png" group-title="🐯暮雨｜松视",MOD导视
+http://118.170.45.200:2397/udp/230.1.2.108:11111
+#EXTINF:-1 tvg-id="MOD导视" tvg-name="MOD导视" tvg-logo="https://live.fanmingming.com/tv/MOD导视.png" group-title="🐯暮雨｜松视",MOD导视
+http://118.170.45.200:2397/udp/230.1.2.107:11111
+#EXTINF:-1 tvg-id="JStar极限电影台" tvg-name="JStar极限电影台" tvg-logo="https://live.fanmingming.com/tv/JStar极限电影台.png" group-title="🐯暮雨｜松视",JStar极限电影台
+http://118.170.45.200:2397/udp/230.1.2.152:11111
+#EXTINF:-1 tvg-id="JStar极限电影台" tvg-name="JStar极限电影台" tvg-logo="https://live.fanmingming.com/tv/JStar极限电影台.png" group-title="🐯暮雨｜松视",JStar极限电影台
+http://118.170.45.200:2397/udp/230.1.2.32:11111
+#EXTINF:-1 tvg-id="K頻道" tvg-name="K頻道" tvg-logo="https://live.fanmingming.com/tv/K頻道.png" group-title="🐯暮雨｜松视",K頻道
+http://118.170.45.200:2397/udp/224.1.4.175:11111
+#EXTINF:-1 tvg-id="K頻道" tvg-name="K頻道" tvg-logo="https://live.fanmingming.com/tv/K頻道.png" group-title="🐯暮雨｜松视",K頻道
+http://118.170.45.200:2397/udp/224.1.4.65:11111
+#EXTINF:-1 tvg-id="松視1台" tvg-name="松視1台" tvg-logo="https://live.fanmingming.com/tv/松視1台.png" group-title="🐯暮雨｜松视",松視1台
+http://118.170.45.200:2397/udp/224.1.4.68:11111
+#EXTINF:-1 tvg-id="松視1台" tvg-name="松視1台" tvg-logo="https://live.fanmingming.com/tv/松視1台.png" group-title="🐯暮雨｜松视",松視1台
+http://118.170.45.200:2397/udp/230.1.2.142:11111
+#EXTINF:-1 tvg-id="松視2台" tvg-name="松視2台" tvg-logo="https://live.fanmingming.com/tv/松視2台.png" group-title="🐯暮雨｜松视",松視2台
+http://118.170.45.200:2397/udp/224.1.4.149:11111
+#EXTINF:-1 tvg-id="松視2台" tvg-name="松視2台" tvg-logo="https://live.fanmingming.com/tv/松視2台.png" group-title="🐯暮雨｜松视",松視2台
+http://118.170.45.200:2397/udp/224.1.4.69:11111
+#EXTINF:-1 tvg-id="松視3台" tvg-name="松視3台" tvg-logo="https://live.fanmingming.com/tv/松視3台.png" group-title="🐯暮雨｜松视",松視3台
+http://118.170.45.200:2397/udp/224.1.4.253:11111
+#EXTINF:-1 tvg-id="松視3台" tvg-name="松視3台" tvg-logo="https://live.fanmingming.com/tv/松視3台.png" group-title="🐯暮雨｜松视",松視3台
+http://118.170.45.200:2397/udp/224.1.4.70:11111
+#EXTINF:-1 tvg-id="香蕉台" tvg-name="香蕉台" tvg-logo="https://live.fanmingming.com/tv/香蕉台.png" group-title="🐯暮雨｜松视",香蕉台
+http://118.170.45.200:2397/udp/224.1.4.205:11111
+#EXTINF:-1 tvg-id="香蕉台" tvg-name="香蕉台" tvg-logo="https://live.fanmingming.com/tv/香蕉台.png" group-title="🐯暮雨｜松视",香蕉台
+http://118.170.45.200:2397/udp/230.1.2.94:11111
+#EXTINF:-1 tvg-id="彩虹电影" tvg-name="彩虹电影" tvg-logo="https://live.fanmingming.com/tv/彩虹电影.png" group-title="🐯暮雨｜松视",彩虹电影
+http://118.170.45.200:2397/udp/224.1.4.164:11111
+#EXTINF:-1 tvg-id="彩虹电影" tvg-name="彩虹电影" tvg-logo="https://live.fanmingming.com/tv/彩虹电影.png" group-title="🐯暮雨｜松视",彩虹电影
+http://118.170.45.200:2397/udp/224.1.4.64:11111
+#EXTINF:-1 tvg-id="彩虹e台" tvg-name="彩虹e台" tvg-logo="https://live.fanmingming.com/tv/彩虹e台.png" group-title="🐯暮雨｜松视",彩虹e台
+http://118.170.45.200:2397/udp/224.1.4.141:11111
+#EXTINF:-1 tvg-id="彩虹e台" tvg-name="彩虹e台" tvg-logo="https://live.fanmingming.com/tv/彩虹e台.png" group-title="🐯暮雨｜松视",彩虹e台
+http://118.170.45.200:2397/udp/224.1.4.63:11111
+#EXTINF:-1 tvg-id="潘朵拉玩美台" tvg-name="潘朵拉玩美台" tvg-logo="https://live.fanmingming.com/tv/潘朵拉玩美台.png" group-title="🐯暮雨｜松视",潘朵拉玩美台
+http://118.170.45.200:2397/udp/230.1.2.219:11111
+#EXTINF:-1 tvg-id="潘朵拉玩美台" tvg-name="潘朵拉玩美台" tvg-logo="https://live.fanmingming.com/tv/潘朵拉玩美台.png" group-title="🐯暮雨｜松视",潘朵拉玩美台
+http://118.170.45.200:2397/udp/230.1.2.39:11111
+#EXTINF:-1 tvg-id="惊艳成人台" tvg-name="惊艳成人台" tvg-logo="https://live.fanmingming.com/tv/惊艳成人台.png" group-title="🐯暮雨｜松视",惊艳成人台
+http://118.170.45.200:2397/udp/224.1.4.204:11111
+#EXTINF:-1 tvg-id="惊艳成人台" tvg-name="惊艳成人台" tvg-logo="https://live.fanmingming.com/tv/惊艳成人台.png" group-title="🐯暮雨｜松视",惊艳成人台
+http://118.170.45.200:2397/udp/230.1.2.27:11111
+#EXTINF:-1 tvg-id="谢谢合作" tvg-name="谢谢合作" tvg-logo="https://live.fanmingming.com/tv/谢谢合作.png" group-title="🐯暮雨｜松视",谢谢合作
 https://pay.haiqu.vip:2266/hls/spsj/2022/11/28/13065/playlist.m3u8松视贰台,p3p://108.181.32.169:35905/650b8a51000ac6568f1c30530c503d72
 #EXTINF:-1 tvg-id="经典功夫台" tvg-name="经典功夫台" tvg-logo="https://live.fanmingming.com/tv/经典功夫台.png" group-title="🐯熊猫｜经典",经典功夫台
 http://ali.hlspull.yximgs.com/live/asdfg99338.flv
