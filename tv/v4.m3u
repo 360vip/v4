@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 group-title="💚更新时间10-18 10:57",仅供学习使用
+#EXTINF:-1 group-title="💚更新时间10-18 14:45",仅供学习使用
 http://ali.hlspull.yximgs.com/live/asdfg863678266.flv
 #EXTINF:-1 tvg-id="暮雨直播" tvg-name="暮雨直播" tvg-logo="https://live.fanmingming.com/tv/暮雨直播.png" group-title="🐯暮雨｜直播",暮雨直播
 https://v.cdnlz12.com/20240927/17158_ef65f743/index.m3u8
@@ -45,6 +45,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 #EXTINF:-1 tvg-id="群660584852" tvg-name="群660584852" tvg-logo="https://live.fanmingming.com/tv/群660584852.png" group-title="🐯暮雨｜直播",群660584852
 http://maomao.kandiantv.cn/douyu1.php?id=4246519
+#EXTINF:-1 tvg-id="怎会有人知你的苦" tvg-name="怎会有人知你的苦" tvg-logo="https://live.fanmingming.com/tv/怎会有人知你的苦.png" group-title="🐯暮雨｜直播",怎会有人知你的苦
+https://pan.7so.top/f/66oWfy/%E5%B8%88%E5%B8%88-%E6%80%8E%E4%BC%9A%E6%9C%89%E4%BA%BA%E7%9F%A5%E4%BD%A0%E7%9A%84%E8%8B%A6%EF%BC%8F%E8%B0%88%E6%9F%92%E6%9F%92%EF%BC%88MV%EF%BC%89-art--%E5%B8%88%E5%B8%88--art-c94e8f2093688af16e61a358438088f1.mp4
 #EXTINF:-1 tvg-id="天命人" tvg-name="天命人" tvg-logo="https://live.fanmingming.com/tv/天命人.png" group-title="🐯热门｜一锅端",天命人
 https://t.doruo.cn/1nK5BSpDG
 #EXTINF:-1 tvg-id="全球TV" tvg-name="全球TV" tvg-logo="https://live.fanmingming.com/tv/全球TV.png" group-title="🐯热门｜一锅端",全球TV
@@ -147,6 +149,16 @@ https://6457.kstore.space/xkzb.txt
  https://pan.jl8.top/down.php/975d55be4d394c8942dd7d3e465aac25.txt
 #EXTINF:-1 tvg-id="自用直播" tvg-name="自用直播" tvg-logo="https://live.fanmingming.com/tv/自用直播.png" group-title="🐯热门｜一锅端",自用直播
 https://mi10s-my.sharepoint.com/personal/oldming1_mi10s_onmicrosoft_com/_layouts/15/download.aspx?UniqueId=3361def7-6a9d-49dd-bd3d-e1c0489c5840&Translate=false&tempauth=v1.eyJzaXRlaWQiOiJjYWM3MjI3Ni0zNmFhLTQzOWMtYjZkZC0wYzE1NWEyZTZiMTUiLCJhcHBfZGlzcGxheW5hbWUiOiJwYW4xIiwiYXBwaWQiOiJmZmIwMWU4MC03NTJjLTRlYTItYTA5MS01NzQ2ZmJjZDAwZDEiLCJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvbWkxMHMtbXkuc2hhcmVwb2ludC5jb21ANmM4NWU3ZWItYjEzYy00ODE0LWE5MTAtZDZjYmRkZjZkZTM0IiwiZXhwIjoiMTcyOTEwNzk1NiJ9.CgoKBHNuaWQSAjY0EgsIxr-L1JmHtz0QBRoOMjAuMTkwLjE0NC4xNzAqLGxrdC8wNFNLV2pmTktRbXdBdktScEZUY0lBV0RvODUwb0ZIcE5KQWozcm89MJ8BOAFCEKFajTesAAAw6eO5lTUpu7NKEGhhc2hlZHByb29mdG9rZW5SCFsia21zaSJdcikwaC5mfG1lbWJlcnNoaXB8MTAwMzIwMDJiNTBhZjE4ZkBsaXZlLmNvbXoBMoIBEgnr54VsPLEUSBGpENbL3fbeNJIBB29sZG1pbmeaAQdvbGRtaW5nogEeb2xkbWluZzFAbWkxMHMub25taWNyb3NvZnQuY29tqgEQMTAwMzIwMDJCNTBBRjE4RrIBDmFsbGZpbGVzLndyaXRlyAEB.LFNhqlAx17MCzbv4biNPjjmuOdZWbdZUwV2497v4Cg8&ApiVersion=2.0
+#EXTINF:-1 tvg-id="影视内置" tvg-name="影视内置" tvg-logo="https://live.fanmingming.com/tv/影视内置.png" group-title="🐯内置｜教学",影视内置
+https://pan.7so.top/f/8q8EHY/%E5%BD%B1%E8%A7%86%E5%86%85%E7%BD%AE%E5%A4%9A%E4%BB%93%E6%95%99%E7%A8%8B
+#EXTINF:-1 tvg-id="内置单线" tvg-name="内置单线" tvg-logo="https://live.fanmingming.com/tv/内置单线.png" group-title="🐯内置｜教学",内置单线
+https://pan.7so.top/f/9862h2/%E5%BD%B1%E8%A7%86%E5%86%85%E7%BD%AE%E5%8D%95%E7%BA%BF%E6%95%99%E7%A8%8B
+#EXTINF:-1 tvg-id="影视仓外置" tvg-name="影视仓外置" tvg-logo="https://live.fanmingming.com/tv/影视仓外置.png" group-title="🐯内置｜教学",影视仓外置
+https://pan.7so.top/f/0gq2cm/%E5%BD%B1%E8%A7%86%E4%BB%93%E5%86%85%E7%BD%AE%E5%A4%9A%E7%BA%BF
+#EXTINF:-1 tvg-id="影视仓去三防" tvg-name="影视仓去三防" tvg-logo="https://live.fanmingming.com/tv/影视仓去三防.png" group-title="🐯内置｜教学",影视仓去三防
+https://pan.7so.top/f/g5Y7UG/%E5%BD%B1%E8%A7%86%E4%BB%93%E5%86%85%E7%BD%AE%E5%A4%9A%E7%BA%BF%E7%A8%8B
+#EXTINF:-1 tvg-id="影视仓内置" tvg-name="影视仓内置" tvg-logo="https://live.fanmingming.com/tv/影视仓内置.png" group-title="🐯内置｜教学",影视仓内置
+https://pan.7so.top/f/j2QOtR/%E5%BD%B1%E8%A7%86%E4%BB%93%E5%86%85%E7%BD%AE
 #EXTINF:-1 tvg-id="经典功夫台" tvg-name="经典功夫台" tvg-logo="https://live.fanmingming.com/tv/经典功夫台.png" group-title="🐯熊猫｜经典",经典功夫台
 http://ali.hlspull.yximgs.com/live/asdfg99338.flv
 #EXTINF:-1 tvg-id="经典频道" tvg-name="经典频道" tvg-logo="https://live.fanmingming.com/tv/经典频道.png" group-title="🐯熊猫｜经典",经典频道
