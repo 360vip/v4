@@ -6,6 +6,13 @@
 永久免费,https://v.cdnlz12.com/20240823/16576_3a36184a/index.m3u8
 仅供学习,https://pay.haiqu.vip:2266/hls/spsj/2019/12/05/10849/playlist.m3u8
 免费观看,https://pay.haiqu.vip:2266/hls/spsj/2022/11/28/13071/playlist.m3u8
+河南酒店,https://taoiptv.com/subs/41024.txt?token=f85052b76635841c
+吉林订阅,https://taoiptv.com/subs/22023.txt?token=f85052b76635841c
+辽宁订阅,https://taoiptv.com/subs/21023.txt?token=f85052b76635841c
+4GTV订阅,http://pixman.digimon.us.kg/4gtv.m3u
+
+
+内蒙古订阅,https://taoiptv.com/subs/15023.txt?token=f85052b76635841c
 怎会有人知你的苦,https://pan.7so.top/f/66oWfy/%E5%B8%88%E5%B8%88-%E6%80%8E%E4%BC%9A%E6%9C%89%E4%BA%BA%E7%9F%A5%E4%BD%A0%E7%9A%84%E8%8B%A6%EF%BC%8F%E8%B0%88%E6%9F%92%E6%9F%92%EF%BC%88MV%EF%BC%89-art--%E5%B8%88%E5%B8%88--art-c94e8f2093688af16e61a358438088f1.mp4
 🐯内置｜教学,#genre#
 影视内置,https://pan.7so.top/f/8q8EHY/%E5%BD%B1%E8%A7%86%E5%86%85%E7%BD%AE%E5%A4%9A%E4%BB%93%E6%95%99%E7%A8%8B
@@ -57,193 +64,222 @@ catBOX内置,https://pan.7so.top/f/mwRNFW/catbox%E5%86%85%E7%BD%AE
 邵氏影院,http://maomao.kandiantv.cn/douyu1.php?id=4246519
 邵氏影院,http://maomao.kandiantv.cn/douyu1.php?id=4246519
 🐯北京｜组播,#genre#
-CCTV1HD,http://115.171.80.169:8888/udp/225.1.8.1:8008
-CCTV2HD,http://115.171.80.169:8888/udp/225.1.8.2:8084
-CCTV3HD,http://115.171.80.169:8888/udp/225.1.8.88:8000
-CCTV4HD,http://115.171.80.169:8888/udp/225.1.8.4:8092
-CCTV5HD,http://115.171.80.169:8888/udp/225.1.8.89:8000
-CCTV5+HD,http://115.171.80.169:8888/udp/225.1.8.20:8004
-CCTV6HD,http://115.171.80.169:8888/udp/225.1.8.84:8000
-CCTV7HD,http://115.171.80.169:8888/udp/225.1.8.7:8104
-CCTV8HD,http://115.171.80.169:8888/udp/225.1.8.85:8000
-CCTV9HD,http://115.171.80.169:8888/udp/225.1.8.9:8112
-CCTV10HD,http://115.171.80.169:8888/udp/225.1.8.10:8116
-CCTV11HD,http://115.171.80.169:8888/udp/225.1.8.73:8120
-CCTV12HD,http://115.171.80.169:8888/udp/225.1.8.12:8124
-CCTV13HD,http://115.171.80.169:8888/udp/225.1.8.168:8130
-CCTV14HD,http://115.171.80.169:8888/udp/225.1.8.14:8132
-CCTV15HD,http://115.171.80.169:8888/udp/225.1.8.74:8136
-CCTV17HD,http://115.171.80.169:8888/udp/225.1.8.17:8144
-CETV1,http://115.171.80.169:8888/udp/225.1.8.32:8152
-北京卫视,http://115.171.80.169:8888/udp/225.1.8.21:8002
-北京文艺,http://115.171.80.169:8888/udp/225.1.8.22:8002
-北京科教,http://115.171.80.169:8888/udp/225.1.8.105:8002
-北京影视,http://115.171.80.169:8888/udp/225.1.8.82:8000
-北京财经,http://115.171.80.169:8888/udp/225.1.8.106:8002
-北京冬奥纪实,http://115.171.80.169:8888/udp/225.1.8.23:8002
-北京生活,http://115.171.80.169:8888/udp/225.1.8.108:8002
-北京青年,http://115.171.80.169:8888/udp/225.1.8.118:8002
-北京新闻,http://115.171.80.169:8888/udp/225.1.8.83:8000
-北京卡酷少儿,http://115.171.80.169:8888/udp/225.1.8.35:8000
-北京冬奥纪实 4K,http://115.171.80.169:8888/udp/225.1.8.120:8002
-北京冬奥纪实 4K,http://115.171.80.169:8888/udp/225.1.8.164:8002
-房山,http://115.171.80.169:8888/udp/225.1.8.68:8002
-朝阳融媒,http://115.171.80.169:8888/udp/225.1.8.69:8002
-密云,http://115.171.80.169:8888/udp/225.1.8.75:8002
-湖南卫视,http://115.171.80.169:8888/udp/225.1.8.41:8012
-黑龙江卫视,http://115.171.80.169:8888/udp/225.1.8.42:8016
-深圳卫视,http://115.171.80.169:8888/udp/225.1.8.43:8020
-江苏卫视,http://115.171.80.169:8888/udp/225.1.8.44:8028
-东方卫视,http://115.171.80.169:8888/udp/225.1.8.45:8032
-浙江卫视,http://115.171.80.169:8888/udp/225.1.8.46:8036
-湖北卫视,http://115.171.80.169:8888/udp/225.1.8.47:8044
-天津卫视,http://115.171.80.169:8888/udp/225.1.8.48:8044
-广东卫视,http://115.171.80.169:8888/udp/225.1.8.49:8048
-山东卫视,http://115.171.80.169:8888/udp/225.1.8.50:8052
-辽宁卫视,http://115.171.80.169:8888/udp/225.1.8.51:8056
-安徽卫视,http://115.171.80.169:8888/udp/225.1.8.52:8064
-河北卫视,http://115.171.80.169:8888/udp/225.1.8.76:8002
-贵州卫视,http://115.171.80.169:8888/udp/225.1.8.77:8076
-东南卫视,http://115.171.80.169:8888/udp/225.1.8.79:8148
-江西卫视,http://115.171.80.169:8888/udp/225.1.8.171:8166
-重庆卫视,http://115.171.80.169:8888/udp/225.1.8.172:8162
-金鹰纪实,http://115.171.80.169:8888/udp/225.1.8.31:8156
-纪实人文,http://115.171.80.169:8888/udp/225.1.8.53:8060
-快乐垂钓,http://115.171.80.169:8888/udp/225.1.8.71:8002
-茶频道,http://115.171.80.169:8888/udp/225.1.8.72:8002
-每日影院,http://115.171.80.169:8888/udp/225.1.8.97:8002
-幸福剧场,http://115.171.80.169:8888/udp/225.1.8.98:8002
-幸福娱乐,http://115.171.80.169:8888/udp/225.1.8.99:8002
-风尚生活,http://115.171.80.169:8888/udp/225.1.8.103:8002
-中国足协杯,http://115.171.80.169:8888/udp/225.1.8.40:8184
-体育赛事,http://115.171.80.169:8888/udp/225.1.8.81:8176
-爱上4K,http://115.171.80.169:8888/udp/225.1.8.80:2000
-北京IPTV淘精彩,http://115.171.80.169:8888/udp/225.1.8.33:8002
-北京IPTV淘BABY,http://115.171.80.169:8888/udp/225.1.8.36:8002
-北京IPTV淘剧场,http://115.171.80.169:8888/udp/225.1.8.37:8002
-北京IPTV淘电影,http://115.171.80.169:8888/udp/225.1.8.38:8002
-北京IPTV淘娱乐,http://115.171.80.169:8888/udp/225.1.8.61:8002
-北京IPTV萌宠TV,http://115.171.80.169:8888/udp/225.1.8.63:8002
-北京IPTV4K,http://115.171.80.169:8888/udp/225.1.8.211:8002
-熊猫频道,http://115.171.80.169:8888/udp/225.1.8.210:8068
-大健康,http://115.171.80.169:8888/udp/225.1.8.39:8002
-聚鲨环球精选,http://115.171.80.169:8888/udp/225.1.8.58:8002
-聚鲨北京,http://115.171.80.169:8888/udp/225.1.8.59:8002
-聚鲨健康,http://115.171.80.169:8888/udp/225.1.8.60:8002
-聚鲨生活,http://115.171.80.169:8888/udp/225.1.8.62:8002
-聚鲨国际,http://115.171.80.169:8888/udp/225.1.8.66:8002
-CCTV1,http://115.171.80.169:8888/udp/225.1.8.101:8080
-CCTV2,http://115.171.80.169:8888/udp/225.1.8.102:8004
-CCTV3,http://115.171.80.169:8888/udp/225.1.8.92:8000
-CCTV4,http://115.171.80.169:8888/udp/225.1.8.104:8216
-CCTV5,http://115.171.80.169:8888/udp/225.1.8.93:8000
-CCTV6,http://115.171.80.169:8888/udp/225.1.8.90:8000
-CCTV7,http://115.171.80.169:8888/udp/225.1.8.107:8024
-CCTV8,http://115.171.80.169:8888/udp/225.1.8.91:8000
-CCTV9,http://115.171.80.169:8888/udp/225.1.8.109:8032
-CCTV10,http://115.171.80.169:8888/udp/225.1.8.110:8228
-CCTV11,http://115.171.80.169:8888/udp/225.1.8.111:8040
-CCTV12,http://115.171.80.169:8888/udp/225.1.8.112:8232
-CCTV13,http://115.171.80.169:8888/udp/225.1.8.113:8264
-CCTV14,http://115.171.80.169:8888/udp/225.1.8.114:8236
-CCTV15,http://115.171.80.169:8888/udp/225.1.8.115:8052
-CCTV17,http://115.171.80.169:8888/udp/225.1.8.117:8064
-CGTN,http://115.171.80.169:8888/udp/225.1.8.116:8056
-CETV1,http://115.171.80.169:8888/udp/225.1.8.169:4120
-CETV2,http://115.171.80.169:8888/udp/225.1.8.193:4120
-CETV3,http://115.171.80.169:8888/udp/225.1.8.194:4120
-CETV4,http://115.171.80.169:8888/udp/225.1.8.195:4120
-北京北京卫视,http://115.171.80.169:8888/udp/225.1.8.121:8002
-北京文艺,http://115.171.80.169:8888/udp/225.1.8.122:8002
-北京科教,http://115.171.80.169:8888/udp/225.1.8.123:8002
-北京影视,http://115.171.80.169:8888/udp/225.1.8.124:8002
-北京财经,http://115.171.80.169:8888/udp/225.1.8.125:8002
-北京冬奥纪实,http://115.171.80.169:8888/udp/225.1.8.126:8002
-北京生活,http://115.171.80.169:8888/udp/225.1.8.127:8002
-北京青年,http://115.171.80.169:8888/udp/225.1.8.128:8002
-北京新闻,http://115.171.80.169:8888/udp/225.1.8.129:8002
-北京卡酷少儿,http://115.171.80.169:8888/udp/225.1.8.130:8002
-北京国际,http://115.171.80.169:8888/udp/225.1.8.131:8002
-湖南卫视,http://115.171.80.169:8888/udp/225.1.8.132:8064
-浙江卫视,http://115.171.80.169:8888/udp/225.1.8.133:8284
-江苏卫视,http://115.171.80.169:8888/udp/225.1.8.134:8276
-安徽卫视,http://115.171.80.169:8888/udp/225.1.8.135:8272
-天津卫视,http://115.171.80.169:8888/udp/225.1.8.136:8144
-辽宁卫视,http://115.171.80.169:8888/udp/225.1.8.137:8116
-山东卫视,http://115.171.80.169:8888/udp/225.1.8.138:8148
-云南卫视,http://115.171.80.169:8888/udp/225.1.8.139:8108
-河南卫视,http://115.171.80.169:8888/udp/225.1.8.140:8128
-黑龙江卫视,http://115.171.80.169:8888/udp/225.1.8.141:8196
-四川卫视,http://115.171.80.169:8888/udp/225.1.8.142:8288
-江西卫视,http://115.171.80.169:8888/udp/225.1.8.143:8280
-贵州卫视,http://115.171.80.169:8888/udp/225.1.8.144:8120
-深圳卫视,http://115.171.80.169:8888/udp/225.1.8.145:9244
-湖北卫视,http://115.171.80.169:8888/udp/225.1.8.146:8136
-东方卫视,http://115.171.80.169:8888/udp/225.1.8.147:8192
-重庆卫视,http://115.171.80.169:8888/udp/225.1.8.148:8296
-东南卫视,http://115.171.80.169:8888/udp/225.1.8.149:8112
-河北卫视,http://115.171.80.169:8888/udp/225.1.8.150:8292
-广东卫视,http://115.171.80.169:8888/udp/225.1.8.151:8132
-南方卫视,http://115.171.80.169:8888/udp/225.1.8.225:5008
-广西卫视,http://115.171.80.169:8888/udp/225.1.8.152:8300
-吉林卫视,http://115.171.80.169:8888/udp/225.1.8.153:8200
-陕西卫视,http://115.171.80.169:8888/udp/225.1.8.154:8140
-山西卫视,http://115.171.80.169:8888/udp/225.1.8.155:8172
-内蒙古卫视,http://115.171.80.169:8888/udp/225.1.8.156:8176
-青海卫视,http://115.171.80.169:8888/udp/225.1.8.157:8184
-海南卫视,http://115.171.80.169:8888/udp/225.1.8.158:8304
-宁夏卫视,http://115.171.80.169:8888/udp/225.1.8.159:8124
-西藏卫视,http://115.171.80.169:8888/udp/225.1.8.160:8164
-新疆卫视,http://115.171.80.169:8888/udp/225.1.8.161:8160
-甘肃卫视,http://115.171.80.169:8888/udp/225.1.8.162:8188
-厦门卫视,http://115.171.80.169:8888/udp/225.1.8.166:4120
-兵团卫视,http://115.171.80.169:8888/udp/225.1.8.167:4120
-山东教育卫视,http://115.171.80.169:8888/udp/225.1.8.190:4120
-三沙卫视,http://115.171.80.169:8888/udp/225.1.8.78:4120
-金鹰卡通,http://115.171.80.169:8888/udp/225.1.8.163:9252
-财富天下,http://115.171.80.169:8888/udp/225.1.8.165:9136
-嘉佳卡通,http://115.171.80.169:8888/udp/225.1.8.170:9268
-IPTV收视指南,http://115.171.80.169:8888/udp/225.1.8.201:8012
-IPTV热播剧场,http://115.171.80.169:8888/udp/225.1.8.202:9020
-IPTV经典电影,http://115.171.80.169:8888/udp/225.1.8.203:9024
-IPTV魅力时尚,http://115.171.80.169:8888/udp/225.1.8.204:9012
-IPTV少儿动画,http://115.171.80.169:8888/udp/225.1.8.207:9000
-城市剧场,http://115.171.80.169:8888/udp/225.1.8.227:4120
-军旅剧场,http://115.171.80.169:8888/udp/225.1.8.228:4120
-古装剧场,http://115.171.80.169:8888/udp/225.1.8.229:4120
-音乐现场,http://115.171.80.169:8888/udp/225.1.8.230:4120
-地理,http://115.171.80.169:8888/udp/225.1.8.231:4120
-美妆,http://115.171.80.169:8888/udp/225.1.8.232:4120
-美人,http://115.171.80.169:8888/udp/225.1.8.233:4120
-精选,http://115.171.80.169:8888/udp/225.1.8.234:4120
-解密,http://115.171.80.169:8888/udp/225.1.8.235:4120
-军事,http://115.171.80.169:8888/udp/225.1.8.236:4120
-国学,http://115.171.80.169:8888/udp/225.1.8.237:4120
-戏曲,http://115.171.80.169:8888/udp/225.1.8.238:4120
-早教,http://115.171.80.169:8888/udp/225.1.8.239:4120
-动画,http://115.171.80.169:8888/udp/225.1.8.240:4120
-好学生,http://115.171.80.169:8888/udp/225.1.8.241:4120
-鉴赏,http://115.171.80.169:8888/udp/225.1.8.242:4120
-墨宝,http://115.171.80.169:8888/udp/225.1.8.243:4120
-光影,http://115.171.80.169:8888/udp/225.1.8.244:4120
-台球,http://115.171.80.169:8888/udp/225.1.8.245:4120
-爱生活,http://115.171.80.169:8888/udp/225.1.8.246:4120
-武术,http://115.171.80.169:8888/udp/225.1.8.247:4120
-高网,http://115.171.80.169:8888/udp/225.1.8.248:4120
-足球,http://115.171.80.169:8888/udp/225.1.8.249:4120
-武侠剧场,http://115.171.80.169:8888/udp/225.1.8.250:4120
-喜剧影院,http://115.171.80.169:8888/udp/225.1.8.251:4120
-动作影院,http://115.171.80.169:8888/udp/225.1.8.252:4120
-家庭影院,http://115.171.80.169:8888/udp/225.1.8.253:4120
-星影,http://115.171.80.169:8888/udp/225.1.8.254:4120
-聚鲨环球精选,http://115.171.80.169:8888/udp/225.1.8.67:8002
-聚鲨北京,http://115.171.80.169:8888/udp/225.1.8.70:8002
-聚鲨健康,http://115.171.80.169:8888/udp/225.1.8.94:8002
-聚鲨生活,http://115.171.80.169:8888/udp/225.1.8.95:8002
-聚鲨国际,http://115.171.80.169:8888/udp/225.1.8.96:8002
-江西卫视,http://115.171.80.169:8888/udp/225.1.1.9:8164
-CCTV13,http://115.171.80.169:8888/udp/225.1.1.10:8128
+CCTV1,http://unraid.jimin.codetech.top:8888/udp/239.3.1.129:8008
+CCTV1,http://unraid.jimin.codetech.top:8888/udp/239.3.1.1:8000
+CCTV2,http://unraid.jimin.codetech.top:8888/udp/239.3.1.60:8084
+CCTV2,http://unraid.jimin.codetech.top:8888/udp/239.3.1.2:8004
+CCTV3,http://unraid.jimin.codetech.top:8888/udp/239.3.1.172:8001
+CCTV3,http://unraid.jimin.codetech.top:8888/udp/239.3.1.107:8001
+CCTV4,http://unraid.jimin.codetech.top:8888/udp/239.3.1.105:8092
+CCTV4,http://unraid.jimin.codetech.top:8888/udp/239.3.1.213:4220
+CCTV4,http://unraid.jimin.codetech.top:8888/udp/239.3.1.214:4220
+CCTV4,http://unraid.jimin.codetech.top:8888/udp/239.3.1.245:2000
+CCTV4,http://unraid.jimin.codetech.top:8888/udp/239.3.1.4:8216
+CCTV5,http://unraid.jimin.codetech.top:8888/udp/239.3.1.173:8001
+CCTV5+,http://unraid.jimin.codetech.top:8888/udp/239.3.1.130:8004
+CCTV5,http://unraid.jimin.codetech.top:8888/udp/239.3.1.108:8001
+CCTV6,http://unraid.jimin.codetech.top:8888/udp/239.3.1.174:8001
+CCTV6,http://unraid.jimin.codetech.top:8888/udp/239.3.1.109:8001
+CCTV7,http://unraid.jimin.codetech.top:8888/udp/239.3.1.61:8104
+CCTV7,http://unraid.jimin.codetech.top:8888/udp/239.3.1.7:8024
+CCTV8,http://unraid.jimin.codetech.top:8888/udp/239.3.1.175:8001
+CCTV8,http://unraid.jimin.codetech.top:8888/udp/239.3.1.110:8001
+CCTV9,http://unraid.jimin.codetech.top:8888/udp/239.3.1.62:8112
+CCTV9,http://unraid.jimin.codetech.top:8888/udp/239.3.1.9:8032
+CCTV10,http://unraid.jimin.codetech.top:8888/udp/239.3.1.63:8116
+CCTV10,http://unraid.jimin.codetech.top:8888/udp/239.3.1.10:8228
+CCTV11,http://unraid.jimin.codetech.top:8888/udp/239.3.1.152:8120
+CCTV11,http://unraid.jimin.codetech.top:8888/udp/239.3.1.11:8040
+CCTV12,http://unraid.jimin.codetech.top:8888/udp/239.3.1.64:8124
+CCTV12,http://unraid.jimin.codetech.top:8888/udp/239.3.1.12:8232
+CCTV13,http://unraid.jimin.codetech.top:8888/udp/239.3.1.124:8128
+CCTV13,http://unraid.jimin.codetech.top:8888/udp/239.3.1.13:8048
+CCTV14,http://unraid.jimin.codetech.top:8888/udp/239.3.1.65:8132
+CCTV14,http://unraid.jimin.codetech.top:8888/udp/239.3.1.14:8236
+CCTV15,http://unraid.jimin.codetech.top:8888/udp/239.3.1.153:8136
+CCTV15,http://unraid.jimin.codetech.top:8888/udp/239.3.1.15:8052
+CCTV16,http://unraid.jimin.codetech.top:8888/udp/239.3.1.184:8001
+CCTV17,http://unraid.jimin.codetech.top:8888/udp/239.3.1.151:8144
+CCTV17,http://unraid.jimin.codetech.top:8888/udp/239.3.1.150:8064
+CGTN新闻,http://unraid.jimin.codetech.top:8888/udp/239.3.1.215:4220
+CGTN记录,http://unraid.jimin.codetech.top:8888/udp/239.3.1.216:4220
+CGTN西班牙语,http://unraid.jimin.codetech.top:8888/udp/239.3.1.217:4220
+CGTN法语,http://unraid.jimin.codetech.top:8888/udp/239.3.1.218:4220
+CGTN阿拉伯语,http://unraid.jimin.codetech.top:8888/udp/239.3.1.219:4220
+CGTN俄语,http://unraid.jimin.codetech.top:8888/udp/239.3.1.220:4220
+中国教育1台,http://unraid.jimin.codetech.top:8888/udp/239.3.1.146:4120
+中国教育2台,http://unraid.jimin.codetech.top:8888/udp/239.3.1.54:4120
+中国教育3台,http://unraid.jimin.codetech.top:8888/udp/239.3.1.55:4120
+中国教育4台,http://unraid.jimin.codetech.top:8888/udp/239.3.1.56:4120
+CGTN,http://unraid.jimin.codetech.top:8888/udp/239.3.1.16:8056
+北京卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.241:8000
+北京卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.225:8000
+湖南卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.132:8012
+浙江卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.137:8036
+江苏卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.135:8028
+东方卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.136:8032
+山东卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.209:8052
+安徽卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.211:8064
+湖北卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.138:8044
+东南卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.156:8148
+广东卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.142:8048
+辽宁卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.210:8056
+黑龙江卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.133:8016
+深圳卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.134:8020
+贵州卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.149:8076
+天津卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.141:1234
+河北卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.148:8072
+重庆卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.122:8160
+江西卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.123:8164
+吉林卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.240:8172
+东方卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.34:8192
+东南卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.36:8112
+南方卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.161:8001
+广西卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.39:8300
+海南卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.45:8304
+深圳卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.32:9244
+厦门卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.143:4120
+广东卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.38:8132
+江西卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.30:8280
+云南卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.26:8108
+西藏卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.47:8164
+贵州卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.31:8120
+重庆卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.35:8296
+湖北卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.33:8136
+湖南卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.18:8268
+安徽卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.21:8272
+山东卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.25:8148
+江苏卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.20:8276
+浙江卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.19:8284
+四川卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.29:8288
+河南卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.27:8128
+陕西卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.41:8140
+新疆卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.48:8160
+宁夏卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.46:8124
+青海卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.44:8184
+甘肃卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.49:8188
+山西卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.42:8172
+河北卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.37:8292
+天津卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.23:8144
+内蒙古卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.43:8176
+辽宁卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.24:8116
+黑龙江卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.28:8196
+吉林卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.40:8200
+三沙卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.155:4120
+兵团卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.144:4120
 
+北京卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.241:8000
+北京卫视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.225:8000
+北京新闻,http://unraid.jimin.codetech.top:8888/udp/239.3.1.159:8000
+北京文艺,http://unraid.jimin.codetech.top:8888/udp/239.3.1.242:8000
+北京影视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.158:8000
+北京体育休闲,http://unraid.jimin.codetech.top:8888/udp/239.3.1.243:8000
+北京纪实科教,http://unraid.jimin.codetech.top:8888/udp/239.3.1.115:8000
+北京财经,http://unraid.jimin.codetech.top:8888/udp/239.3.1.116:8000
+北京生活,http://unraid.jimin.codetech.top:8888/udp/239.3.1.117:8000
+北京卡酷动画,http://unraid.jimin.codetech.top:8888/udp/239.3.1.189:8000
+朝阳电视台,http://unraid.jimin.codetech.top:8888/udp/239.3.1.163:8001
+密云电视台,http://unraid.jimin.codetech.top:8888/udp/239.3.1.154:8001
+房山电视台,http://unraid.jimin.codetech.top:8888/udp/239.3.1.96:8001
+通州融媒,http://unraid.jimin.codetech.top:8888/udp/239.3.1.221:8001
+北京IPTV4K[4K],http://unraid.jimin.codetech.top:8888/udp/239.3.1.249:8001
+北京IPTV淘精彩,http://unraid.jimin.codetech.top:8888/udp/239.3.1.178:8001
+北京IPTV淘娱乐,http://unraid.jimin.codetech.top:8888/udp/239.3.1.100:8001
+北京IPTV淘剧场,http://unraid.jimin.codetech.top:8888/udp/239.3.1.95:8001
+北京IPTV淘BABY,http://unraid.jimin.codetech.top:8888/udp/239.3.1.238:8001
+北京IPTV淘电影,http://unraid.jimin.codetech.top:8888/udp/239.3.1.250:8001
+北京IPTV萌宠TV,http://unraid.jimin.codetech.top:8888/udp/239.3.1.102:8001
+北京文艺,http://unraid.jimin.codetech.top:8888/udp/239.3.1.226:8000
+北京纪实科教,http://unraid.jimin.codetech.top:8888/udp/239.3.1.227:8000
+北京影视,http://unraid.jimin.codetech.top:8888/udp/239.3.1.228:8000
+北京财经,http://unraid.jimin.codetech.top:8888/udp/239.3.1.229:8000
+北京冬奥纪实,http://unraid.jimin.codetech.top:8888/udp/239.3.1.230:8000
+北京生活,http://unraid.jimin.codetech.top:8888/udp/239.3.1.231:8000
+北京青年,http://unraid.jimin.codetech.top:8888/udp/239.3.1.232:8000
+北京新闻,http://unraid.jimin.codetech.top:8888/udp/239.3.1.233:8000
+北京卡酷少儿,http://unraid.jimin.codetech.top:8888/udp/239.3.1.234:8000
+北京国际频道,http://unraid.jimin.codetech.top:8888/udp/239.3.1.235:8000
+爱上4K[4K],http://unraid.jimin.codetech.top:8888/udp/239.3.1.236:2000
+大健康,http://unraid.jimin.codetech.top:8888/udp/239.3.1.251:8001
+体育赛事,http://unraid.jimin.codetech.top:8888/udp/239.3.1.157:8176
+电影台,http://unraid.jimin.codetech.top:8888/udp/239.3.1.97:8001
+每日影院,http://unraid.jimin.codetech.top:8888/udp/239.3.1.111:8001
+幸福剧场,http://unraid.jimin.codetech.top:8888/udp/239.3.1.112:8001
+幸福娱乐,http://unraid.jimin.codetech.top:8888/udp/239.3.1.113:8001
+风尚生活,http://unraid.jimin.codetech.top:8888/udp/239.3.1.114:8001
+聚鲨环球精选,http://unraid.jimin.codetech.top:8888/udp/239.3.1.179:8001
+聚鲨国际,http://unraid.jimin.codetech.top:8888/udp/239.3.1.183:8001
+央广购物1,http://unraid.jimin.codetech.top:8888/udp/239.3.1.222:8001
+央广购物2,http://unraid.jimin.codetech.top:8888/udp/239.3.1.223:8001
+优购物,http://unraid.jimin.codetech.top:8888/udp/239.3.1.180:8001
+时尚购物,http://unraid.jimin.codetech.top:8888/udp/239.3.1.181:8001
+东方购物,http://unraid.jimin.codetech.top:8888/udp/239.3.1.182:8001
+家有购物,http://unraid.jimin.codetech.top:8888/udp/239.3.1.185:8001
+北京体育休闲,http://unraid.jimin.codetech.top:8888/udp/239.3.1.97:8001
+金鹰纪实,http://unraid.jimin.codetech.top:8888/udp/239.3.1.58:8156
+快乐垂钓,http://unraid.jimin.codetech.top:8888/udp/239.3.1.164:8001
+茶频道,http://unraid.jimin.codetech.top:8888/udp/239.3.1.165:8001
+纪实人文,http://unraid.jimin.codetech.top:8888/udp/239.3.1.212:8060
+中国教育1台,http://unraid.jimin.codetech.top:8888/udp/239.3.1.57:8152
+山东教育,http://unraid.jimin.codetech.top:8888/udp/239.3.1.52:4120
+IPTV少儿动画,http://unraid.jimin.codetech.top:8888/udp/239.3.1.199:9000
+IPTV魅力时尚,http://unraid.jimin.codetech.top:8888/udp/239.3.1.196:9012
+IPTV热播剧场,http://unraid.jimin.codetech.top:8888/udp/239.3.1.194:9020
+IPTV收视指南,http://unraid.jimin.codetech.top:8888/udp/239.3.1.193:8012
+IPTV经典电影,http://unraid.jimin.codetech.top:8888/udp/239.3.1.195:9024
+金鹰卡通,http://unraid.jimin.codetech.top:8888/udp/239.3.1.51:9252
+嘉佳卡通,http://unraid.jimin.codetech.top:8888/udp/239.3.1.147:9268
+城市剧场,http://unraid.jimin.codetech.top:8888/udp/239.3.1.67:4120
+军旅剧场,http://unraid.jimin.codetech.top:8888/udp/239.3.1.68:4120
+古装剧场,http://unraid.jimin.codetech.top:8888/udp/239.3.1.69:4120
+武侠剧场,http://unraid.jimin.codetech.top:8888/udp/239.3.1.90:4120
+喜剧影院,http://unraid.jimin.codetech.top:8888/udp/239.3.1.91:4120
+动作影院,http://unraid.jimin.codetech.top:8888/udp/239.3.1.92:4120
+家庭影院,http://unraid.jimin.codetech.top:8888/udp/239.3.1.93:4120
+音乐现场,http://unraid.jimin.codetech.top:8888/udp/239.3.1.70:4120
+财富天下,http://unraid.jimin.codetech.top:8888/udp/239.3.1.53:9136
+地理,http://unraid.jimin.codetech.top:8888/udp/239.3.1.71:4120
+美妆,http://unraid.jimin.codetech.top:8888/udp/239.3.1.72:4120
+美人,http://unraid.jimin.codetech.top:8888/udp/239.3.1.73:4120
+精选,http://unraid.jimin.codetech.top:8888/udp/239.3.1.74:4120
+解密,http://unraid.jimin.codetech.top:8888/udp/239.3.1.75:4120
+军事,http://unraid.jimin.codetech.top:8888/udp/239.3.1.76:4120
+国学,http://unraid.jimin.codetech.top:8888/udp/239.3.1.77:4120
+戏曲,http://unraid.jimin.codetech.top:8888/udp/239.3.1.78:4120
+早教,http://unraid.jimin.codetech.top:8888/udp/239.3.1.79:4120
+动画,http://unraid.jimin.codetech.top:8888/udp/239.3.1.80:4120
+好学生,http://unraid.jimin.codetech.top:8888/udp/239.3.1.81:4120
+鉴赏,http://unraid.jimin.codetech.top:8888/udp/239.3.1.82:4120
+墨宝,http://unraid.jimin.codetech.top:8888/udp/239.3.1.83:4120
+光影,http://unraid.jimin.codetech.top:8888/udp/239.3.1.84:4120
+台球,http://unraid.jimin.codetech.top:8888/udp/239.3.1.85:4120
+武术,http://unraid.jimin.codetech.top:8888/udp/239.3.1.87:4120
+高网,http://unraid.jimin.codetech.top:8888/udp/239.3.1.88:4120
+足球,http://unraid.jimin.codetech.top:8888/udp/239.3.1.89:4120
+星影,http://unraid.jimin.codetech.top:8888/udp/239.3.1.94:4120
+爱生活,http://unraid.jimin.codetech.top:8888/udp/239.3.1.86:4120
+聚鲨健康,http://unraid.jimin.codetech.top:8888/udp/239.3.1.186:8001
+聚鲨生活,http://unraid.jimin.codetech.top:8888/udp/239.3.1.187:8001
+聚鲨国际,http://unraid.jimin.codetech.top:8888/udp/239.3.1.188:8001
+
+
+国学,http://unraid.jimin.codetech.top:8888/udp/239.3.1.77:4120
+戏曲,http://unraid.jimin.codetech.top:8888/udp/239.3.1.78:4120
+早教,http://unraid.jimin.codetech.top:8888/udp/239.3.1.79:4120
+动画,http://unraid.jimin.codetech.top:8888/udp/239.3.1.80:4120
+好学生,http://unraid.jimin.codetech.top:8888/udp/239.3.1.81:4120
+鉴赏,http://unraid.jimin.codetech.top:8888/udp/239.3.1.82:4120
+墨宝,http://unraid.jimin.codetech.top:8888/udp/239.3.1.83:4120
+光影,http://unraid.jimin.codetech.top:8888/udp/239.3.1.84:4120
+台球,http://unraid.jimin.codetech.top:8888/udp/239.3.1.85:4120
+武术,http://unraid.jimin.codetech.top:8888/udp/239.3.1.87:4120
+高网,http://unraid.jimin.codetech.top:8888/udp/239.3.1.88:4120
+足球,http://unraid.jimin.codetech.top:8888/udp/239.3.1.89:4120
+星影,http://unraid.jimin.codetech.top:8888/udp/239.3.1.94:4120
+爱生活,http://unraid.jimin.codetech.top:8888/udp/239.3.1.86:4120
+聚鲨健康,http://unraid.jimin.codetech.top:8888/udp/239.3.1.186:8001
+聚鲨生活,http://unraid.jimin.codetech.top:8888/udp/239.3.1.187:8001
+聚鲨国际,http://unraid.jimin.codetech.top:8888/udp/239.3.1.188:8001
 
 
 🐯暮雨｜央视,#genre#
@@ -1055,6 +1091,8 @@ tvbs闽南频代,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 
 
 🐯暮雨｜酒店,#genre#
+
+凤凰电影台http://home.js001.com:7777/stream/channelid/884059847?profile=pass
 Now 星影,http://223.244.26.190:8082/now星影.盗源者死全家/易發TV/hls.m3u8
 Now 星影备,http://47.108.227.19:9080/now星影.盗源者死全家/易發TV/hls.m3u8
 Now 爆谷,http://223.244.26.190:8082/now包谷.盗源者死全家/易發TV/hls.m3u8
@@ -1371,6 +1409,143 @@ Arirang TV,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 东森美洲2,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+🐯暮雨｜电影,#genre#
+AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8                                                                                                                                                                                   
+ 黃金華劇臺,http://158.247.232.58:29191/stream/mytv/tvbhjhj/master.m3u8                                                                                                                                                                                                
+  美亞電影臺,http://149.28.150.229:29191/stream/mytv/mydy/master.m3u8                                                                                                                                                                                                                                                              
+  AMC,http://107.152.36.54:1234/stream/USAMIX/AMC%20HD/stream.m3u8?uid=475409388                                                                                        
+
+亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0 
+
+全球大片,http://wouu.net:9977/udp/239.93.0.105:5140
+全球大片,http://www.pr666.site:4040/udp/239.255.30.196:8231$甘肃电信组播
+全球大片,http://www.pr666.site:4040/udp/239.255.30.196:8231
+凌儿影院,http://159.75.85.63:35455/douyu/1377142
+劲爆电影,http://rt4.orangevip.top:8999/rtp/232.0.0.155:1234
+华语影院,http://www.pr666.site:4040/udp/239.255.30.193:8231$甘肃电信组播
+华语影院,http://www.pr666.site:4040/udp/239.255.30.193:8231
+华语影院,http://wouu.net:9977/udp/239.93.0.138:5140
+可乐影院,http://159.75.85.63:35455/douyu/20415
+吃米滴虫,http://159.75.85.63:35455/douyu/263824#http://maomao.kandiantv.cn/douyu1.php?id=263824
+吃米滴虫,http://159.75.85.63:35455/douyu/263824
+吃米滴虫,http://159.75.85.63:35455/douyu/315457
+峨眉电影,http://wouu.net:9977/udp/239.93.0.252:5140
+峨眉电影,http://wouu.net:9977/udp/239.93.1.54:5140
+峨眉电影,http://218.89.240.144:59901/tsfile/live/1011_1.m3u8
+恐怖惊悚,http://159.75.85.63:35455/douyu/96577
+星光影院,http://www.pr666.site:4040/udp/239.255.30.194:8231
+星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+星爷影院,http://159.75.85.63:35455/douyu/508118
+百事通谍战剧场,http://php.jdshipin.com:8880/bst.php?id=dzjc
+神乐影院,http://159.75.85.63:35455/douyu/122402
+经典电影,http://43.138.170.29:35455/yy/1450556636
+经典电影,http://tc-tct.douyucdn2.cn/dyliveflv1a/85894rmovieChow_2000p.m3u8
+绝版电影,https://live.metshop.top/yy/1454587259
+萌小鬼片,http://159.75.85.63:35455/douyu/3928
+谍战剧场,http://wouu.net:9977/udp/239.93.0.95:5140
+谍战剧场,http://php.jdshipin.com:8880/bst.php?id=dzjc8m/8000000
+贝爷影厅,http://159.75.85.63:35455/douyu/252802#http://maomao.kandiantv.cn/douyu1.php?id=252802
+贝爷影厅,http://159.75.85.63:35455/douyu/252802
+邵氏影院,http://159.75.85.63:35455/douyu/4246519
+电影频道1,http://zby.xjqxz.top/zh01/live.m3u8
+电影频道2,http://zby.xjqxz.top/zh02/live.m3u8
+电影频道3,http://zby.xjqxz.top/zh03/live.m3u8
+电影频道4,http://zby.xjqxz.top/zh04/live.m3u8
+电影频道5,http://zby.xjqxz.top/zh05/live.m3u8
+电影频道6,http://zby.xjqxz.top/zh07/live.m3u8
+电影频道7,http://zby.xjqxz.top/zh08/live.m3u8
+电影频道8,http://zby.xjqxz.top/zh09/live.m3u8
+电影频道9,http://zby.xjqxz.top/zh10/live.m3u8
+国产1,http://zby.xjqxz.top/live18/live.m3u8
+国产2,http://zby.xjqxz.top/gcwx2/live.m3u8
+国产3,http://zby.xjqxz.top/gcwx3/live.m3u8
+国产4,http://zby.xjqxz.top/gcwx4/live.m3u8
+国产5,http://zby.xjqxz.top/gcwx5/live.m3u8
+轮播1,http://zby.xjqxz.top/hkdy1/live.m3u8
+轮播2,http://zby.xjqxz.top/hkdy2/live.m3u8
+好莱坞大片,http://zby.xjqxz.top/hlwdy1/live.m3u8
+中外喜剧轮播,http://zby.xjqxz.top/live13/live.m3u8
+007轮播,http://zby.xjqxz.top/live5/live.m3u8
+碟中谍轮播,http://zby.xjqxz.top/live6/live.m3u8
+武进生活频道,https://live.wjyanghu.com/live/CH2.m3u8
+武进新闻频道,https://live.wjyanghu.com/live/CH1.m3u8
+黑龙江影视,http://112.99.200.2:9901/tsfile/live/1000_1.m3u8?key=txiptv
+山西影视,http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true
+1905电影,http://xxw.me0.cn/1905dy.php?id=1905a
+大吉大利代,https://pull.kktv8.com/livekktv/128600025.flv
+恐怖惊悚?原,http://159.75.85.63:35455/douyu/96577
+星光视界频道,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+番薯电视,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8?blog.ntnas.top
+经典电影,http://tc-tct.douyucdn2.cn/dyliveflv1a/85894rmovieChow_2000p.m3u8
+经典电影台,http://ali.hlspull.yximgs.com/live/asdfg32522.flv
+重温经典,http://43.141.130.33/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
+重温经典,http://43.141.130.51/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
+重温经典,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000635
+1905国内电影,http://ygbh.live/1905.php?id=1905a
+1905国内电影,http://xxw.me0.cn/1905dy.php?id=1905a
+1905国外电影,http://ygbh.live/1905.php?id=1905b
+1905国外电影,http://xxw.me0.cn/1905dy.php?id=1905b                                                                                                                                                                      
+CHC动作电影,http://www.wpfhome.cn:5555/udp/235.254.199.247:7980
+CHC高清电影,http://www.wpfhome.cn:5555/udp/235.254.199.248:7980
+CHC家庭影院,http://www.wpfhome.cn:5555/udp/235.254.199.246:7980
+
+凌儿影院,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndicEt3bHRhSUZjemhCUFZMZlpoV3JsZWdnYUdFVjJUYkJjSHk4Zm9LMVp3PT0=/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
+可乐影院,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndicEt3bHRhSUZjemhCUFZMZlpoV3JsZWdnYUdFVjJUWWpvNW1VakpVSEF3PT0=/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
+吃米滴虫,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndicEt3bHRhSUZjemhCUFZMZlpoV3JsZWdnYUdFVjJUYTFGeHNwWUxFRlJBPT0=/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
+吃米滴虫,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndicEt3bHRhSUZjemhCUFZMZlpoV3JsZWdnYUdFVjJUWWVSaWd1emlVbkRRPT0=/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
+恐怖惊悚,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndicEt3bHRhSUZjemhCUFZMZlpoV3JsZWdnYUdFVjJUWmFGeGNhUEpuN1JBPT0=/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
+星爷影院,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndicEt3bHRhSUZjemhCUFZMZlpoV3JsZWdnYUdFVjJUWVQ3bm50ODgvZU9BPT0=/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
+经典电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/VEEvVEQxMU50SHgxVDQ4ckVMUktsemdrWDNXWjVtNXIyUThGWVYrdWcvZnlsN1NkUmRlMTBEV2lacWxSM2Zvbw==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
+绝版电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/TWw5YjFQWGx6NEc1MEhjNXN0bU5NdHp5VlJWZjlyQ3U1b2Q1OTFGeU1zZ25jQWVUTytubnV3PT0=/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
+萌小鬼片,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndicEt3bHRhSUZjemhCUFZMZlpoV3JsZWdnYUdFVjJUWlFKUDN6eW5WdFFnPT0=/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
+功夫,https://hnzy.bfvvs.com/play/lej5zYdj/index.m3u8
+功夫,https://ukzy.ukubf4.com/20220407/j3bjFWpb/index.m3u8
+国产凌凌漆,https://ukzy.ukubf4.com/20220330/CVILs5nr/index.m3u8
+少林足球,https://hnzy.bfvvs.com/play/5eVn19eE/index.m3u8
+大话西游之宝盒,https://hnzy.bfvvs.com/play/yb8qRLdv/index.m3u8
+大话西游之宝盒,https://hnzy.bfvvs.com/play/Pdyr3ReQ/index.m3u8
+大话西游之娶亲,https://vip.lz-cdn2.com/20220323/295_5da1424a/index.m3u8
+大话西游之娶亲,https://hnzy.bfvvs.com/play/DbDR3qel/index.m3u8
+大话西游之娶亲,https://hnzy.bfvvs.com/play/Rb48MnbB/index.m3u8
+百变星君,https://hnzy.bfvvs.com/play/Pdy7yEaQ/index.m3u8
+百变星君,https://hnzy.bfvvs.com/play/yb8WDgav/index.m3u8
+武状元苏乞儿,https://hnzy.bfvvs.com/play/5eVJ0MeE/index.m3u8
+武状元苏乞儿,https://v5.dious.cc/20220329/L61d2J07/index.m3u8
+长江七号,https://hnzy.bfvvs.com/play/1aKrOKGe/index.m3u8
+唐伯虎点秋香,https://ukzy.ukubf4.com/20220407/wnsgZzX9/index.m3u8
+逃学威龙,https://hnzy.bfvvs.com/play/YerYOWdO/index.m3u8
+逃学威龙2,https://hnzy.bfvvs.com/play/Rb49MkdB/index.m3u8
+逃学威龙2,https://hnzy.bfvvs.com/play/PdymLgdQ/index.m3u8
+食神,https://hnzy.bfvvs.com/play/5eVNkveE/index.m3u8
+鹿鼎记,https://v3.dious.cc/20220329/ELzhdaDW/index.m3u8
+鹿鼎记2之神龙教,https://ukzy.ukubf4.com/20220404/gfSdtuvX/index.m3u8
+咖喱辣椒,https://ukzy.ukubf4.com/20220407/2mftU655/index.m3u8
+千王之王,https://ukzy.ukubf4.com/20220331/8qlDdjip/index.m3u8
+97家有喜事,https://ukzy.ukubf4.com/20220407/Ue4rNnif/index.m3u8
+风雨同路,https://ukzy.ukubf4.com/20220408/cy7KQ4it/index.m3u8
+风雨同路,https://v3.dious.cc/20220402/GquysVv9/index.m3u8
+审死官,https://v3.dious.cc/20220329/j1ZuOAEs/index.m3u8
+    
+邵氏影院,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndicEt3bHRhSUZjemhCUFZMZlpoV3JsZWdnYUdFVjJUWTIyVjIzQWpHZkFRPT0=/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
+华语电视,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/clhJb3JRVE5WRHJMeHV6YW1MSTc2U0F6RkJHSGpGSzBqcTg2b0lGL3I0RW40WlRVdGZtMUppakpsWVI3eDVoRlJMVXN3Zm9lT3YvMmxZLzNkencxcFE9PQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
+华语电视,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/clhJb3JRVE5WRHJMeHV6YW1MSTc2U0F6RkJHSGpGSzBqcTg2b0lGL3I0RW40WlRVdGZtMUpseGNuTy8wN1RkUGt2QWdTMWtBUFVQbHEzcFlRTGFsVGc9PQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
+劲爆电影,http://rt4.orangevip.top:8999/rtp/232.0.0.155:1234
+华语影院,http://www.pr666.site:4040/udp/239.255.30.193:8231
+全球大片,http://www.pr666.site:4040/udp/239.255.30.196:8231$甘肃电信组播
+星光影院,http://www.pr666.site:4040/udp/239.255.30.194:8231
+华语影院,http://www.pr666.site:4040/udp/239.255.30.193:8231$甘肃电信组播
+全球大片,http://www.pr666.site:4040/udp/239.255.30.196:8231
+IPTV谍战剧场,http://www.dsmcloud.top:8888/udp/239.81.0.15:4056
+
+百事通华语影院,http://php.jdshipin.com:8880/bst.php?id=hyyy
+百事通星光影院,http://php.jdshipin.com:8880/bst.php?id=xgyy
+星光影院,http://php.jdshipin.com:8880/bst.php?id=xgyy8m/8000000
+华语影院,http://php.jdshipin.com:8880/bst.php?id=hyyy8m/8000000
+全球大片,http://php.jdshipin.com:8880/bst.php?id=qqdp8m/8000000
+影视大片1,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+
+
+
 🐯暮雨｜晴天,#genre#
 有线新闻频晴,P2p://generationnexxxt.com:19806/f40dc92cdc224868b83be4156ec315dc
 无线新闻频晴,P2p://generationnexxxt.com:19806/132be793de424970abd09ef9fe09db07
@@ -2476,6 +2651,189 @@ now新闻台(B),P2p://generationnexxxt.com:19806/b9ba3f0b06b14fe69ac2cbf51c77d81
 TVBS新闻台(B),P2p://generationnexxxt.com:19806/bb6082c57bae466b9e6c64ba43f2c1e1
 年代新闻(B),P2p://generationnexxxt.com:19806/cd32e0feca2244288f8a878d7aacf0fc
 
+🐯虎牙｜轮播,#genre#
+
+电影_星爷,https://www.goodiptv.club/huya/11342412
+电影_英叔,https://www.goodiptv.club/huya/11342421
+电影_发哥,https://www.goodiptv.club/huya/11342387
+电影_成龙,https://www.goodiptv.club/huya/11342386
+电影_王晶,https://www.goodiptv.club/huya/11602058
+电影_沈腾,https://www.goodiptv.club/huya/11601968
+电影_黄渤,https://www.goodiptv.club/huya/11352876
+电影_强森,https://www.goodiptv.club/huya/21059581
+电影_漫威,https://www.goodiptv.club/huya/11602034
+电影_宇宙,https://www.goodiptv.club/huya/11342428
+电影_怪兽,https://www.goodiptv.club/huya/21059577
+电影_武侠,https://www.goodiptv.club/huya/11342427
+电影_警匪,https://www.goodiptv.club/huya/11352886
+电影_罪犯,https://www.goodiptv.club/huya/11352962
+电影_枪战,https://www.goodiptv.club/huya/21059579
+电影_海盗,https://www.goodiptv.club/huya/21059595
+电影_赛车,https://www.goodiptv.club/huya/11279247
+电影_推荐,https://www.goodiptv.club/huya/11602041
+电影_救援,https://www.goodiptv.club/huya/21059594
+电影_热血,https://www.goodiptv.club/huya/11352934
+电影_盗墓,https://www.goodiptv.club/huya/21059552
+电影_贺岁,https://www.goodiptv.club/huya/11601971
+电影_玄幻,https://www.goodiptv.club/huya/11342414
+电影_谍战,https://www.goodiptv.club/huya/21059585
+电影_战争,https://www.goodiptv.club/huya/21059592
+电影_喜剧,https://www.goodiptv.club/huya/11352877
+电影_港片,https://www.goodiptv.club/huya/11602043
+电影_国产,https://www.goodiptv.club/huya/11352973
+电影_周星星,https://www.goodiptv.club/huya/11336587
+电影_李连杰,https://www.goodiptv.club/huya/11342390
+电影_洪金宝,https://www.goodiptv.club/huya/11279251
+电影_梁家辉,https://www.goodiptv.club/huya/11342429
+电影_刘德华,https://www.goodiptv.club/huya/11342424
+电影_斯坦森,https://www.goodiptv.club/huya/21059588
+电影_小鬼头,https://www.goodiptv.club/huya/11352963
+电影_八点档,https://www.goodiptv.club/huya/880261
+电影_蜘蛛侠,https://www.goodiptv.club/huya/21059599
+电影_贺岁片,https://www.goodiptv.club/huya/11601986
+电影_功夫片,https://www.goodiptv.club/huya/11352941
+电影_黑帮片,https://www.goodiptv.club/huya/11336719
+电影_丧尸片,https://www.goodiptv.club/huya/21059578
+电影_灾难片,https://www.goodiptv.club/huya/11602075
+电影_谍战片,https://www.goodiptv.club/huya/21059587
+电影_战争片,https://www.goodiptv.club/huya/21059574
+电影_犯罪片,https://www.goodiptv.club/huya/11352974
+电影_古装片,https://www.goodiptv.club/huya/11336590
+电影_高分动作,https://www.goodiptv.club/huya/11352884
+电影_动作电影,https://www.goodiptv.club/huya/11602077
+电影_搞笑喜剧,https://www.goodiptv.club/huya/11342423
+电影_喜剧专场,https://www.goodiptv.club/huya/11602044
+电影_欢笑影院,https://www.goodiptv.club/huya/11352894
+电影_不挤影院,https://www.goodiptv.club/huya/11352897
+电影_国产悬疑,https://www.goodiptv.club/huya/11342395
+电影_快意江湖,https://www.goodiptv.club/huya/11342435
+电影_黑帮斗争,https://www.goodiptv.club/huya/11342419
+电影_嫣然影厅,https://www.goodiptv.club/huya/11601977
+电影_许氏三杰,https://www.goodiptv.club/huya/11602033
+电影_经典港片,https://www.goodiptv.club/huya/11352965
+电影_镖行天下,https://www.goodiptv.club/huya/11352969
+电影_高能反转,https://www.goodiptv.club/huya/11352887
+电影_喜乐影院,https://www.goodiptv.club/huya/21059580
+电影_蘑菇影厅,https://www.goodiptv.club/huya/11601981
+电影_搞笑恐怖,https://www.goodiptv.club/huya/11601960
+电影_死神来了,https://www.goodiptv.club/huya/11352903
+电影_变形金刚,https://www.goodiptv.club/huya/21059596
+电影_怪兽系列,https://www.goodiptv.club/huya/21059554
+剧集_老三国,https://www.goodiptv.club/huya/11602081
+剧集_新三国,https://www.goodiptv.club/huya/11352944
+剧集_新水浒,https://www.goodiptv.club/huya/11342384
+剧集_纪晓岚,https://www.goodiptv.club/huya/11342396
+剧集_庆余年,https://www.goodiptv.club/huya/11352960
+剧集_雍正王朝,https://www.goodiptv.club/huya/11342439
+剧集_士兵突击,https://www.goodiptv.club/huya/11342430
+剧集_爱情公寓,https://www.goodiptv.club/huya/11336726
+剧集_武林外传,https://www.goodiptv.club/huya/21059598
+剧集_地下交通站,https://www.goodiptv.club/huya/11342433
+剧集_邻里一家亲,https://www.goodiptv.club/huya/11342426
+搞笑_陈翔六点半,https://www.goodiptv.club/huya/11274154
+解说_鹿哥电影,https://www.goodiptv.club/huya/24396360
+解说_斌哥漫说,https://www.goodiptv.club/huya/18632116
+解说_续哥说电影,https://www.goodiptv.club/huya/24396472
+解说_小川侃电影,https://www.goodiptv.club/huya/15870999
+解说_阿良说剧,https://www.goodiptv.club/huya/20488841
+解说_鱼丸电影,https://www.goodiptv.club/huya/16615910
+解说_阿斗说电影,https://www.goodiptv.club/huya/13303478
+解说_扁豆看电影,https://www.goodiptv.club/huya/16028551
+解说_乌贼说电影,https://www.goodiptv.club/huya/16604522
+解说_大象放映室,https://www.goodiptv.club/huya/21277391
+解说_科幻梦工场,https://www.goodiptv.club/huya/15152155
+解说_亮哥讲电影,https://www.goodiptv.club/huya/16144175
+解说_越哥说电影,https://www.goodiptv.club/huya/15894162
+解说_小冉看电影,https://www.goodiptv.club/huya/17341907
+解说_阿翔说电影,https://www.goodiptv.club/huya/16868935
+解说_虎妞说电影,https://www.goodiptv.club/huya/20343144
+解说_涵哥评电影,https://www.goodiptv.club/huya/16865726
+解说_老皮讲电影,https://www.goodiptv.club/huya/16968572
+解说_默爷侃电影,https://www.goodiptv.club/huya/17204307
+解说_冷君说电影,https://www.goodiptv.club/huya/16739452
+解说_恐怖电影解说,https://www.goodiptv.club/huya/16741179
+许氏三杰,https://www.goodiptv.club/huya/11602033
+许冠英,https://www.goodiptv.club/huya/11601972
+五福星,https://www.goodiptv.club/huya/11282233
+周星驰,https://www.goodiptv.club/huya/11342412
+成龙,https://www.goodiptv.club/huya/11342386
+成龙2,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1354888751
+周润发,https://www.goodiptv.club/huya/11342387
+李连杰,https://www.goodiptv.club/huya/11342390
+邱淑贞,https://www.goodiptv.club/huya/11352949
+刘德华,https://www.goodiptv.club/huya/11342424
+林正英,https://www.goodiptv.club/huya/11342421
+徐峥,https://www.goodiptv.club/huya/11602043
+沈腾,https://www.goodiptv.club/huya/11601968
+古天乐,https://www.goodiptv.club/huya/11602041
+洪金宝,https://www.goodiptv.club/huya/11279251
+徐克,https://www.goodiptv.club/huya/11352909
+黄渤,https://www.goodiptv.club/huya/11352876
+斗罗大陆,https://www.goodiptv.club/huya/11352906
+小马的直播间,https://www.goodiptv.club/huya/23749096
+孙悟空,https://www.goodiptv.club/huya/23735126
+张卫健版西游记,https://www.goodiptv.club/huya/23728660
+楚汉骄雄,https://www.goodiptv.club/huya/23740156
+鹿鼎记小春版,https://www.goodiptv.club/huya/23865080
+天龙八部97版,https://www.goodiptv.club/huya/23903123
+刑事侦缉档案,https://www.goodiptv.club/huya/23734169
+寻秦记,https://www.goodiptv.club/huya/23864973
+法证先锋,https://www.goodiptv.club/huya/23863804
+陀枪师姐,https://www.goodiptv.club/huya/23860039
+笑傲江湖,https://www.goodiptv.club/huya/23865142
+洗冤录,https://www.goodiptv.club/huya/23903130
+倚天屠龙记,https://www.goodiptv.club/huya/23734246
+神雕侠侣,https://www.goodiptv.club/huya/23865171
+鉴证实录,https://www.goodiptv.club/huya/23903183
+创世纪,https://www.goodiptv.club/huya/23749083
+使徒行者,https://www.goodiptv.club/huya/23734256
+金枝欲孽,https://www.goodiptv.club/huya/23865036
+大唐双龙传,https://www.goodiptv.club/huya/23728674
+妙手仁心,https://www.goodiptv.club/huya/23829543
+扫黄先锋,https://www.goodiptv.club/huya/23903196
+笑看风云,https://www.goodiptv.club/huya/23865058
+大时代,https://www.goodiptv.club/huya/23865161
+梁朝伟版鹿鼎记,https://www.goodiptv.club/huya/23734183
+野蛮亲家血腥对线,https://www.goodiptv.club/huya/23863796
+射雕之九阴真经,https://www.goodiptv.club/huya/23824164
+🐯暮雨｜堆堆,#genre#
+埋堆堆01,http://cfss.cc/cdn/hy/23749096.flv
+埋堆堆02,http://cfss.cc/cdn/hy/23735126.flv
+埋堆堆03,http://cfss.cc/cdn/hy/23740156.flv
+埋堆堆04,http://cfss.cc/cdn/hy/23728660.flv
+埋堆堆05,http://cfss.cc/cdn/hy/23865080.flv
+埋堆堆06,http://cfss.cc/cdn/hy/23863804.flv
+埋堆堆07,http://cfss.cc/cdn/hy/23864973.flv
+埋堆堆08,http://cfss.cc/cdn/hy/23734169.flv
+埋堆堆09,http://cfss.cc/cdn/hy/23865171.flv
+埋堆堆10,http://cfss.cc/cdn/hy/23903130.flv
+埋堆堆11,http://cfss.cc/cdn/hy/23860039.flv
+埋堆堆12,http://cfss.cc/cdn/hy/23865142.flv
+埋堆堆13,http://cfss.cc/cdn/hy/23903123.flv
+埋堆堆14,http://cfss.cc/cdn/hy/23734183.flv
+埋堆堆15,http://cfss.cc/cdn/hy/23734256.flv
+埋堆堆16,http://cfss.cc/cdn/hy/23903183.flv
+埋堆堆17,http://cfss.cc/cdn/hy/23903196.flv
+埋堆堆18,http://cfss.cc/cdn/hy/23829543.flv
+埋堆堆19,http://cfss.cc/cdn/hy/23728674.flv
+埋堆堆20,http://cfss.cc/cdn/hy/23865036.flv
+埋堆堆21,http://cfss.cc/cdn/hy/23749083.flv
+埋堆堆22,http://cfss.cc/cdn/hy/23865164.flv
+埋堆堆23,http://cfss.cc/cdn/hy/23863818.flv
+埋堆堆24,http://cfss.cc/cdn/hy/23865058.flv
+埋堆堆25,http://cfss.cc/cdn/hy/23860049.flv
+埋堆堆26,http://cfss.cc/cdn/hy/23734246.flv
+埋堆堆27,http://cfss.cc/cdn/hy/23865161.flv
+埋堆堆28,http://cfss.cc/cdn/hy/23746486.flv
+埋堆堆29,http://cfss.cc/cdn/hy/23829447.flv
+埋堆堆30,http://cfss.cc/cdn/hy/23863778.flv
+埋堆堆31,http://cfss.cc/cdn/hy/23734176.flv
+埋堆堆32,http://cfss.cc/cdn/hy/23863796.flv
+埋堆堆33,http://cfss.cc/cdn/hy/23734211.flv
+埋堆堆34,http://cfss.cc/cdn/hy/23865179.flv
+埋堆堆35,http://cfss.cc/cdn/hy/23749068.flv
+埋堆堆36,http://cfss.cc/cdn/hy/23863787.flv
+埋堆堆37,http://cfss.cc/cdn/hy/23824164.flv
 🐯斗鱼｜轮播,#genre#
 http://diyp.112114.xyz/douyu/218859
 
@@ -4006,6 +4364,22 @@ om/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 
 
 /QBNgom4j/2000kb/hls/index.m3u8
+
+
+
+
+
+
+
+
+/QBNgom4j/2000kb/hls/index.m3u8
+
+
+
+
+
+
+
 
 
 
