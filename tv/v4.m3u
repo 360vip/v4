@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 group-title="💚更新时间10-20 14:42",仅供学习使用
+#EXTINF:-1 group-title="💚更新时间10-20 17:29",仅供学习使用
 http://ali.hlspull.yximgs.com/live/asdfg863678266.flv
 #EXTINF:-1 tvg-id="暮雨直播" tvg-name="暮雨直播" tvg-logo="https://live.fanmingming.com/tv/暮雨直播.png" group-title="🐯暮雨｜直播",暮雨直播
 https://pan.7so.top/f/vgq3HA/%E5%BA%B7%E5%BC%9F%E5%84%BF-%E3%80%8A%E4%B8%8B%E8%BE%88%E5%AD%90%E4%B8%8D%E4%B8%80%E5%AE%9A%E9%81%87%E8%A7%81%E4%BD%A0%E3%80%8B%E8%BF%99%E8%BE%88%E5%AD%90%E5%8F%AA%E6%83%B3%E5%92%8C%E4%BD%A0%E5%9C%A8%E4%B8%80%E8%B5%B7-art--%E5%BA%B7%E5%BC%9F%E5%84%BF--art-61094392ef7a1dbbb3027921888ad30e.mp4
@@ -3203,6 +3203,144 @@ P2p://generationnexxxt.com:19806/3a4000096c084c79af219586be8ed979
 P2p://generationnexxxt.com:19806/4c925da5e039498a85b4d3fa0bfb5910
 #EXTINF:-1 tvg-id="历史频道频晴" tvg-name="历史频道频晴" tvg-logo="https://live.fanmingming.com/tv/历史频道频晴.png" group-title="🐯暮雨｜晴天",历史频道频晴
 P2p://generationnexxxt.com:19806/cf774dbea20b492db00ab609f1c43d47
+#EXTINF:-1 tvg-id="无线娱乐频晴" tvg-name="无线娱乐频晴" tvg-logo="https://live.fanmingming.com/tv/无线娱乐频晴.png" group-title="🐯暮雨｜港台",无线娱乐频晴
+P2p://generationnexxxt.com:19806/e77d39049c07479ab0ff57800c6e5b06
+#EXTINF:-1 tvg-id="TV1马亚频晴" tvg-name="TV1马亚频晴" tvg-logo="https://live.fanmingming.com/tv/TV1马亚频晴.png" group-title="🐯暮雨｜港台",TV1马亚频晴
+P2p://generationnexxxt.com:19806/d7229d76e8624e8d872d94d081e9524e
+#EXTINF:-1 tvg-id="TV2马亚频晴" tvg-name="TV2马亚频晴" tvg-logo="https://live.fanmingming.com/tv/TV2马亚频晴.png" group-title="🐯暮雨｜港台",TV2马亚频晴
+P2p://generationnexxxt.com:19806/265c61c5d7ad468e8e0e437d23797171
+#EXTINF:-1 tvg-id="TV3马亚频晴" tvg-name="TV3马亚频晴" tvg-logo="https://live.fanmingming.com/tv/TV3马亚频晴.png" group-title="🐯暮雨｜港台",TV3马亚频晴
+P2p://generationnexxxt.com:19806/5d3a3f2fec3c413d87d0b349ef79951e
+#EXTINF:-1 tvg-id="NTV柒台频晴" tvg-name="NTV柒台频晴" tvg-logo="https://live.fanmingming.com/tv/NTV柒台频晴.png" group-title="🐯暮雨｜港台",NTV柒台频晴
+P2p://generationnexxxt.com:19806/e0c76b1ee7b84e2ea6cbf2ce2ee0c6d3
+#EXTINF:-1 tvg-id="八度空间频晴" tvg-name="八度空间频晴" tvg-logo="https://live.fanmingming.com/tv/八度空间频晴.png" group-title="🐯暮雨｜港台",八度空间频晴
+P2p://generationnexxxt.com:19806/008ee1a8a1bf4ab7bd90628a94f82910
+#EXTINF:-1 tvg-id="TV9马亚频晴" tvg-name="TV9马亚频晴" tvg-logo="https://live.fanmingming.com/tv/TV9马亚频晴.png" group-title="🐯暮雨｜港台",TV9马亚频晴
+P2p://generationnexxxt.com:19806/ad929cc96e0e4461aa03d7a0a8e1e8c8
+#EXTINF:-1 tvg-id="天文OASiS晴" tvg-name="天文OASiS晴" tvg-logo="https://live.fanmingming.com/tv/天文OASiS晴.png" group-title="🐯暮雨｜港台",天文OASiS晴
+P2p://generationnexxxt.com:19806/96f0df891f684d58a8d92054dcddc076
+#EXTINF:-1 tvg-id="Al-Hijrah频晴" tvg-name="Al-Hijrah频晴" tvg-logo="https://live.fanmingming.com/tv/Al-Hijrah频晴.png" group-title="🐯暮雨｜港台",Al-Hijrah频晴
+P2p://generationnexxxt.com:19806/fa90aca55f9847fa942617c76ad4ee50
+#EXTINF:-1 tvg-id="SUNtv频道晴" tvg-name="SUNtv频道晴" tvg-logo="https://live.fanmingming.com/tv/SUNtv频道晴.png" group-title="🐯暮雨｜港台",SUNtv频道晴
+P2p://generationnexxxt.com:19806/e2f91d24ea26412292bd273186b41a0a
+#EXTINF:-1 tvg-id="爱奇艺频道晴" tvg-name="爱奇艺频道晴" tvg-logo="https://live.fanmingming.com/tv/爱奇艺频道晴.png" group-title="🐯暮雨｜港台",爱奇艺频道晴
+P2p://generationnexxxt.com:19806/57550dfdc5e44996894431f0f14fb42f
+#EXTINF:-1 tvg-id="天文小太阳晴" tvg-name="天文小太阳晴" tvg-logo="https://live.fanmingming.com/tv/天文小太阳晴.png" group-title="🐯暮雨｜港台",天文小太阳晴
+P2p://generationnexxxt.com:19806/3f9efc73e52f4cca99985de38ba0f28a
+#EXTINF:-1 tvg-id="天文AEC频晴" tvg-name="天文AEC频晴" tvg-logo="https://live.fanmingming.com/tv/天文AEC频晴.png" group-title="🐯暮雨｜港台",天文AEC频晴
+P2p://generationnexxxt.com:19806/affbd07abcc049638a0b5af3f2446ed8
+#EXTINF:-1 tvg-id="天映频道频晴" tvg-name="天映频道频晴" tvg-logo="https://live.fanmingming.com/tv/天映频道频晴.png" group-title="🐯暮雨｜港台",天映频道频晴
+P2p://generationnexxxt.com:19806/179f2b9026a9449198a6486cb1bc8481
+#EXTINF:-1 tvg-id="无线华丽频晴" tvg-name="无线华丽频晴" tvg-logo="https://live.fanmingming.com/tv/无线华丽频晴.png" group-title="🐯暮雨｜港台",无线华丽频晴
+P2p://generationnexxxt.com:19806/06940c129fd5442d9ecfa568fb42859f
+#EXTINF:-1 tvg-id="天文AOD频晴" tvg-name="天文AOD频晴" tvg-logo="https://live.fanmingming.com/tv/天文AOD频晴.png" group-title="🐯暮雨｜港台",天文AOD频晴
+P2p://generationnexxxt.com:19806/d0efbc512dd0465f9be6144fc53cc32a
+#EXTINF:-1 tvg-id="中天亚洲频晴" tvg-name="中天亚洲频晴" tvg-logo="https://live.fanmingming.com/tv/中天亚洲频晴.png" group-title="🐯暮雨｜港台",中天亚洲频晴
+P2p://generationnexxxt.com:19806/6f522fd08aed4ee19dfb8485917faa66
+#EXTINF:-1 tvg-id="无线星河频晴" tvg-name="无线星河频晴" tvg-logo="https://live.fanmingming.com/tv/无线星河频晴.png" group-title="🐯暮雨｜港台",无线星河频晴
+P2p://generationnexxxt.com:19806/e94f4c244af8464fb06eff4c9da250a6
+#EXTINF:-1 tvg-id="天映经典频晴" tvg-name="天映经典频晴" tvg-logo="https://live.fanmingming.com/tv/天映经典频晴.png" group-title="🐯暮雨｜港台",天映经典频晴
+P2p://generationnexxxt.com:19806/3496dc2c5dc1421c8c403eb9c475753e
+#EXTINF:-1 tvg-id="天文欢喜频晴" tvg-name="天文欢喜频晴" tvg-logo="https://live.fanmingming.com/tv/天文欢喜频晴.png" group-title="🐯暮雨｜港台",天文欢喜频晴
+P2p://generationnexxxt.com:19806/bb11e8d4e30b40cf836fd8617ab85e8d
+#EXTINF:-1 tvg-id="kbsworld频晴" tvg-name="kbsworld频晴" tvg-logo="https://live.fanmingming.com/tv/kbsworld频晴.png" group-title="🐯暮雨｜港台",kbsworld频晴
+P2p://generationnexxxt.com:19806/d84c7baef30f41cf81e16569afec7d2a
+#EXTINF:-1 tvg-id="TVS亚洲频晴" tvg-name="TVS亚洲频晴" tvg-logo="https://live.fanmingming.com/tv/TVS亚洲频晴.png" group-title="🐯暮雨｜港台",TVS亚洲频晴
+P2p://generationnexxxt.com:19806/4061655c06c8499680be50df7bbae42e
+#EXTINF:-1 tvg-id="TVN韩综频晴" tvg-name="TVN韩综频晴" tvg-logo="https://live.fanmingming.com/tv/TVN韩综频晴.png" group-title="🐯暮雨｜港台",TVN韩综频晴
+P2p://generationnexxxt.com:19806/2272a99a946d4f7fac4cbf0dc62fd58b
+#EXTINF:-1 tvg-id="天文AWANI晴" tvg-name="天文AWANI晴" tvg-logo="https://live.fanmingming.com/tv/天文AWANI晴.png" group-title="🐯暮雨｜港台",天文AWANI晴
+P2p://generationnexxxt.com:19806/79faaed4beb040d8afb6e555c929b66a
+#EXTINF:-1 tvg-id="CGTN_英频晴" tvg-name="CGTN_英频晴" tvg-logo="https://live.fanmingming.com/tv/CGTN_英频晴.png" group-title="🐯暮雨｜港台",CGTN_英频晴
+P2p://generationnexxxt.com:19806/1b5e656dd2604b7e9af1133db1f40955
+#EXTINF:-1 tvg-id="BBcworld频晴" tvg-name="BBcworld频晴" tvg-logo="https://live.fanmingming.com/tv/BBcworld频晴.png" group-title="🐯暮雨｜港台",BBcworld频晴
+P2p://generationnexxxt.com:19806/68b66fcb526a469c95968a8a62c27f01
+#EXTINF:-1 tvg-id="cnbc新闻频晴" tvg-name="cnbc新闻频晴" tvg-logo="https://live.fanmingming.com/tv/cnbc新闻频晴.png" group-title="🐯暮雨｜港台",cnbc新闻频晴
+P2p://generationnexxxt.com:19806/0c7b37b4c3254709945af2916fe4848b
+#EXTINF:-1 tvg-id="bloomber频晴" tvg-name="bloomber频晴" tvg-logo="https://live.fanmingming.com/tv/bloomber频晴.png" group-title="🐯暮雨｜港台",bloomber频晴
+P2p://generationnexxxt.com:19806/b7a11fd04a2f4a44acdab32693edee1e
+#EXTINF:-1 tvg-id="天文ceria频晴" tvg-name="天文ceria频晴" tvg-logo="https://live.fanmingming.com/tv/天文ceria频晴.png" group-title="🐯暮雨｜港台",天文ceria频晴
+P2p://generationnexxxt.com:19806/aeb0f86165f24fda89427db290065d21
+#EXTINF:-1 tvg-id="Boomerang晴" tvg-name="Boomerang晴" tvg-logo="https://live.fanmingming.com/tv/Boomerang晴.png" group-title="🐯暮雨｜港台",Boomerang晴
+P2p://generationnexxxt.com:19806/60a0b85c79af4aee89ca0d605cdfd7a3
+#EXTINF:-1 tvg-id="KIX_电影频晴" tvg-name="KIX_电影频晴" tvg-logo="https://live.fanmingming.com/tv/KIX_电影频晴.png" group-title="🐯暮雨｜港台",KIX_电影频晴
+P2p://generationnexxxt.com:19806/e0df18c976d2448cae5e6dfe8b748fe4
+#EXTINF:-1 tvg-id="HITS电影频晴" tvg-name="HITS电影频晴" tvg-logo="https://live.fanmingming.com/tv/HITS电影频晴.png" group-title="🐯暮雨｜港台",HITS电影频晴
+P2p://generationnexxxt.com:19806/512347b10e364e9bb4d436f495b1a8be
+#EXTINF:-1 tvg-id="天文ARENa晴" tvg-name="天文ARENa晴" tvg-logo="https://live.fanmingming.com/tv/天文ARENa晴.png" group-title="🐯暮雨｜港台",天文ARENa晴
+P2p://generationnexxxt.com:19806/8320c917bc6b48cea94601d851635400
+#EXTINF:-1 tvg-id="天文体育壹晴" tvg-name="天文体育壹晴" tvg-logo="https://live.fanmingming.com/tv/天文体育壹晴.png" group-title="🐯暮雨｜港台",天文体育壹晴
+P2p://generationnexxxt.com:19806/6b8163e5f6c24dd3b971c0d22add38dc
+#EXTINF:-1 tvg-id="天文体育贰晴" tvg-name="天文体育贰晴" tvg-logo="https://live.fanmingming.com/tv/天文体育贰晴.png" group-title="🐯暮雨｜港台",天文体育贰晴
+P2p://generationnexxxt.com:19806/e9358d09c276404f91d27dca79e42b73
+#EXTINF:-1 tvg-id="天文体育叁晴" tvg-name="天文体育叁晴" tvg-logo="https://live.fanmingming.com/tv/天文体育叁晴.png" group-title="🐯暮雨｜港台",天文体育叁晴
+P2p://generationnexxxt.com:19806/3dd6cd51d294486f85d3bfdfe787a431
+#EXTINF:-1 tvg-id="天文体育肆晴" tvg-name="天文体育肆晴" tvg-logo="https://live.fanmingming.com/tv/天文体育肆晴.png" group-title="🐯暮雨｜港台",天文体育肆晴
+P2p://generationnexxxt.com:19806/bbe6f81f82924b12b01218e84e081fd5
+#EXTINF:-1 tvg-id="beIN体育叁晴" tvg-name="beIN体育叁晴" tvg-logo="https://live.fanmingming.com/tv/beIN体育叁晴.png" group-title="🐯暮雨｜港台",beIN体育叁晴
+P2p://generationnexxxt.com:19806/377e62e57ccb4a128195cb09fe8b107f
+#EXTINF:-1 tvg-id="wwe综合频晴" tvg-name="wwe综合频晴" tvg-logo="https://live.fanmingming.com/tv/wwe综合频晴.png" group-title="🐯暮雨｜港台",wwe综合频晴
+P2p://generationnexxxt.com:19806/e3ac5937983b467197d0355d0bfaf53b
+#EXTINF:-1 tvg-id="Skynews频晴" tvg-name="Skynews频晴" tvg-logo="https://live.fanmingming.com/tv/Skynews频晴.png" group-title="🐯暮雨｜港台",Skynews频晴
+P2p://generationnexxxt.com:19806/82241dd85d9e4dad885f1c12b11e3d2e
+#EXTINF:-1 tvg-id="八度空间频晴" tvg-name="八度空间频晴" tvg-logo="https://live.fanmingming.com/tv/八度空间频晴.png" group-title="🐯暮雨｜港台",八度空间频晴
+P2p://generationnexxxt.com:19806/0f8c73716edd4446bc5ce8d9586c3fce
+#EXTINF:-1 tvg-id="SPOTVStadia" tvg-name="SPOTVStadia" tvg-logo="https://live.fanmingming.com/tv/SPOTVStadia.png" group-title="🐯暮雨｜港台",SPOTVStadia
+P2p://generationnexxxt.com:19806/26198a4efb174a2c951ac835ac54aa97
+#EXTINF:-1 tvg-id="TVN韩综频晴" tvg-name="TVN韩综频晴" tvg-logo="https://live.fanmingming.com/tv/TVN韩综频晴.png" group-title="🐯暮雨｜港台",TVN韩综频晴
+P2p://generationnexxxt.com:19806/45cb5d3ff4f842178bd262ac32891a0c
+#EXTINF:-1 tvg-id="France综频晴" tvg-name="France综频晴" tvg-logo="https://live.fanmingming.com/tv/France综频晴.png" group-title="🐯暮雨｜港台",France综频晴
+P2p://generationnexxxt.com:19806/cff5534d052046bf8a4d8b2047aaa7c0
+#EXTINF:-1 tvg-id="SPOTv综频晴" tvg-name="SPOTv综频晴" tvg-logo="https://live.fanmingming.com/tv/SPOTv综频晴.png" group-title="🐯暮雨｜港台",SPOTv综频晴
+P2p://generationnexxxt.com:19806/4644a6bafc344250b5feee6805553d42
+#EXTINF:-1 tvg-id="天文AEC频晴" tvg-name="天文AEC频晴" tvg-logo="https://live.fanmingming.com/tv/天文AEC频晴.png" group-title="🐯暮雨｜港台",天文AEC频晴
+P2p://generationnexxxt.com:19806/c1cd28c52536406f902f6cbab7cded05
+#EXTINF:-1 tvg-id="Awesome-TV" tvg-name="Awesome-TV" tvg-logo="https://live.fanmingming.com/tv/Awesome-TV.png" group-title="🐯暮雨｜港台",Awesome-TV
+P2p://generationnexxxt.com:19806/963a192209f6402e840b937485174c73
+#EXTINF:-1 tvg-id="BOO电影频晴" tvg-name="BOO电影频晴" tvg-logo="https://live.fanmingming.com/tv/BOO电影频晴.png" group-title="🐯暮雨｜港台",BOO电影频晴
+P2p://generationnexxxt.com:19806/b98310cd5c794352bca4cffc500b0cc6
+#EXTINF:-1 tvg-id="千禧经典频晴" tvg-name="千禧经典频晴" tvg-logo="https://live.fanmingming.com/tv/千禧经典频晴.png" group-title="🐯暮雨｜港台",千禧经典频晴
+P2p://generationnexxxt.com:19806/b3069418cdff4c69bb544e4b1ff04d56
+#EXTINF:-1 tvg-id="ABC-australia" tvg-name="ABC-australia" tvg-logo="https://live.fanmingming.com/tv/ABC-australia.png" group-title="🐯暮雨｜港台",ABC-australia
+P2p://generationnexxxt.com:19806/cab3e899c937431f812c75c84b5cdf5f
+#EXTINF:-1 tvg-id="Eurosport-HD" tvg-name="Eurosport-HD" tvg-logo="https://live.fanmingming.com/tv/Eurosport-HD.png" group-title="🐯暮雨｜港台",Eurosport-HD
+P2p://generationnexxxt.com:19806/54e02c4e806047c68c75ac2a325c17d2
+#EXTINF:-1 tvg-id="StarVijay频晴" tvg-name="StarVijay频晴" tvg-logo="https://live.fanmingming.com/tv/StarVijay频晴.png" group-title="🐯暮雨｜港台",StarVijay频晴
+P2p://generationnexxxt.com:19806/b2b5e74aad414e70934ac1a2f3e576ca
+#EXTINF:-1 tvg-id="Zeetamil频晴" tvg-name="Zeetamil频晴" tvg-logo="https://live.fanmingming.com/tv/Zeetamil频晴.png" group-title="🐯暮雨｜港台",Zeetamil频晴
+P2p://generationnexxxt.com:19806/7decd9aaaefe450697b03587dace9c9a
+#EXTINF:-1 tvg-id="tvbs亚洲频晴" tvg-name="tvbs亚洲频晴" tvg-logo="https://live.fanmingming.com/tv/tvbs亚洲频晴.png" group-title="🐯暮雨｜港台",tvbs亚洲频晴
+P2p://generationnexxxt.com:19806/7e8e3f90c0434b8d8c0e423e5cb9fbfb
+#EXTINF:-1 tvg-id="HITS Movies" tvg-name="HITS Movies" tvg-logo="https://live.fanmingming.com/tv/HITS Movies.png" group-title="🐯暮雨｜港台",HITS Movies
+P2p://generationnexxxt.com:19806/0ea3b9948f824611b4a575cc5a8b4c13
+#EXTINF:-1 tvg-id="beIN体育贰晴" tvg-name="beIN体育贰晴" tvg-logo="https://live.fanmingming.com/tv/beIN体育贰晴.png" group-title="🐯暮雨｜港台",beIN体育贰晴
+P2p://generationnexxxt.com:19806/23d14199213c426092f9e1002f0f143f
+#EXTINF:-1 tvg-id="Berita-RTM晴" tvg-name="Berita-RTM晴" tvg-logo="https://live.fanmingming.com/tv/Berita-RTM晴.png" group-title="🐯暮雨｜港台",Berita-RTM晴
+P2p://generationnexxxt.com:19806/f3fb94168f044bbc9689c7f42f94ac4d
+#EXTINF:-1 tvg-id="Golf Channel" tvg-name="Golf Channel" tvg-logo="https://live.fanmingming.com/tv/Golf Channel.png" group-title="🐯暮雨｜港台",Golf Channel
+P2p://generationnexxxt.com:19806/d6d3302276514a79a289a45ec22d88f0
+#EXTINF:-1 tvg-id="TV_Okey频晴" tvg-name="TV_Okey频晴" tvg-logo="https://live.fanmingming.com/tv/TV_Okey频晴.png" group-title="🐯暮雨｜港台",TV_Okey频晴
+P2p://generationnexxxt.com:19806/5640c9c6b85e458a813d2b44d8f65ece
+#EXTINF:-1 tvg-id="Boomerang晴" tvg-name="Boomerang晴" tvg-logo="https://live.fanmingming.com/tv/Boomerang晴.png" group-title="🐯暮雨｜港台",Boomerang晴
+P2p://generationnexxxt.com:19806/16af5143b3544fba92d3ea5e7539ee44
+#EXTINF:-1 tvg-id="Golf Channel" tvg-name="Golf Channel" tvg-logo="https://live.fanmingming.com/tv/Golf Channel.png" group-title="🐯暮雨｜港台",Golf Channel
+P2p://generationnexxxt.com:19806/1efa1c2e65614ce78d0c6a649fdee46a
+#EXTINF:-1 tvg-id="beIN体育贰晴" tvg-name="beIN体育贰晴" tvg-logo="https://live.fanmingming.com/tv/beIN体育贰晴.png" group-title="🐯暮雨｜港台",beIN体育贰晴
+P2p://generationnexxxt.com:19806/dbf33217b02d466ebaf2776c2b6ba300
+#EXTINF:-1 tvg-id="无线娱乐频晴" tvg-name="无线娱乐频晴" tvg-logo="https://live.fanmingming.com/tv/无线娱乐频晴.png" group-title="🐯暮雨｜港台",无线娱乐频晴
+P2p://generationnexxxt.com:19806/05e767dba8fa48e9ba386ed231c94318
+#EXTINF:-1 tvg-id="天文AOD频晴" tvg-name="天文AOD频晴" tvg-logo="https://live.fanmingming.com/tv/天文AOD频晴.png" group-title="🐯暮雨｜港台",天文AOD频晴
+P2p://generationnexxxt.com:19806/c453e6e3f2fe46c987b8f55587eb0ce7
+#EXTINF:-1 tvg-id="无线星河频晴" tvg-name="无线星河频晴" tvg-logo="https://live.fanmingming.com/tv/无线星河频晴.png" group-title="🐯暮雨｜港台",无线星河频晴
+P2p://generationnexxxt.com:19806/afcbb73766d64754bd8d35fc330aae1c
+#EXTINF:-1 tvg-id="BBcworld频晴" tvg-name="BBcworld频晴" tvg-logo="https://live.fanmingming.com/tv/BBcworld频晴.png" group-title="🐯暮雨｜港台",BBcworld频晴
+P2p://generationnexxxt.com:19806/7fa4771def7c4896b1b9ea7e022f278c
+#EXTINF:-1 tvg-id="TV9马亚频晴" tvg-name="TV9马亚频晴" tvg-logo="https://live.fanmingming.com/tv/TV9马亚频晴.png" group-title="🐯暮雨｜港台",TV9马亚频晴
+P2p://generationnexxxt.com:19806/2ded50bc29c04480aaad42823d1fc0f2
+#EXTINF:-1 tvg-id="TV3马亚频晴" tvg-name="TV3马亚频晴" tvg-logo="https://live.fanmingming.com/tv/TV3马亚频晴.png" group-title="🐯暮雨｜港台",TV3马亚频晴
+P2p://generationnexxxt.com:19806/b0236f1ba51f4a70814d5806671dc028
+#EXTINF:-1 tvg-id="TVN韩综频晴" tvg-name="TVN韩综频晴" tvg-logo="https://live.fanmingming.com/tv/TVN韩综频晴.png" group-title="🐯暮雨｜港台",TVN韩综频晴
+P2p://generationnexxxt.com:19806/4cc0c1c2f4204fe0b99ca3552f63894c
 #EXTINF:-1 tvg-id="beIN Sports" tvg-name="beIN Sports" tvg-logo="https://live.fanmingming.com/tv/beIN Sports.png" group-title="🐯暮雨｜港台",beIN Sports
 P2p://generationnexxxt.com:19806/9215bd8182d04b67a9285f24816321df
 #EXTINF:-1 tvg-id="HGTV居家乐活频道" tvg-name="HGTV居家乐活频道" tvg-logo="https://live.fanmingming.com/tv/HGTV居家乐活频道.png" group-title="🐯暮雨｜港台",HGTV居家乐活频道
@@ -7215,6 +7353,96 @@ http://112.226.139.185:9999/udp/239.253.254.139:8000
 http://112.226.139.185:9999/udp/239.253.254.92:8000
 #EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="🐯齐鲁｜大地",魅力足球
 http://112.226.139.185:9999/udp/239.253.254.100:8000
+#EXTINF:-1 tvg-id="威海一套新闻综合频道" tvg-name="威海一套新闻综合频道" tvg-logo="https://live.fanmingming.com/tv/威海一套新闻综合频道.png" group-title="🐯齐鲁｜大地",威海一套新闻综合频道
+http://l1.weihai.tv:8081/hls/969O76hb22.m3u8
+#EXTINF:-1 tvg-id="山东新闻" tvg-name="山东新闻" tvg-logo="https://live.fanmingming.com/tv/山东新闻.png" group-title="🐯齐鲁｜大地",山东新闻
+https://stream1.freetv.fun/shan-dong-xin-wen-1.m3u8
+#EXTINF:-1 tvg-id="山东新闻" tvg-name="山东新闻" tvg-logo="https://live.fanmingming.com/tv/山东新闻.png" group-title="🐯齐鲁｜大地",山东新闻
+https://stream1.freetv.fun/shan-dong-xin-wen-2.m3u8
+#EXTINF:-1 tvg-id="山东新闻" tvg-name="山东新闻" tvg-logo="https://live.fanmingming.com/tv/山东新闻.png" group-title="🐯齐鲁｜大地",山东新闻
+https://stream1.freetv.fun/shan-dong-xin-wen-3.m3u8
+#EXTINF:-1 tvg-id="山东新闻" tvg-name="山东新闻" tvg-logo="https://live.fanmingming.com/tv/山东新闻.png" group-title="🐯齐鲁｜大地",山东新闻
+http://123.129.70.178:9901/tsfile/live/1000_1.m3u8
+#EXTINF:-1 tvg-id="山东新闻" tvg-name="山东新闻" tvg-logo="https://live.fanmingming.com/tv/山东新闻.png" group-title="🐯齐鲁｜大地",山东新闻
+http://112.226.139.185:9999/udp/239.253.254.23:8000
+#EXTINF:-1 tvg-id="枣庄公共" tvg-name="枣庄公共" tvg-logo="https://live.fanmingming.com/tv/枣庄公共.png" group-title="🐯齐鲁｜大地",枣庄公共
+http://stream.zztvzd.com/3/sd/live.m3u8?shandd
+#EXTINF:-1 tvg-id="枣庄公共" tvg-name="枣庄公共" tvg-logo="https://live.fanmingming.com/tv/枣庄公共.png" group-title="🐯齐鲁｜大地",枣庄公共
+http://stream.zztvzd.com/3/sd/live.m3u8
+#EXTINF:-1 tvg-id="枣庄教育" tvg-name="枣庄教育" tvg-logo="https://live.fanmingming.com/tv/枣庄教育.png" group-title="🐯齐鲁｜大地",枣庄教育
+http://stream.zztvzd.com/2/sd/live.m3u8
+#EXTINF:-1 tvg-id="枣庄教育" tvg-name="枣庄教育" tvg-logo="https://live.fanmingming.com/tv/枣庄教育.png" group-title="🐯齐鲁｜大地",枣庄教育
+http://stream.zztvzd.com/2/sd/live.m3u8?shandd
+#EXTINF:-1 tvg-id="枣庄新闻综合" tvg-name="枣庄新闻综合" tvg-logo="https://live.fanmingming.com/tv/枣庄新闻综合.png" group-title="🐯齐鲁｜大地",枣庄新闻综合
+http://stream.zztvzd.com/1/sd/live.m3u8
+#EXTINF:-1 tvg-id="枣庄新闻综合" tvg-name="枣庄新闻综合" tvg-logo="https://live.fanmingming.com/tv/枣庄新闻综合.png" group-title="🐯齐鲁｜大地",枣庄新闻综合
+http://stream.zztvzd.com/1/sd/live.m3u8?shandd
+#EXTINF:-1 tvg-id="济宁公共" tvg-name="济宁公共" tvg-logo="https://live.fanmingming.com/tv/济宁公共.png" group-title="🐯齐鲁｜大地",济宁公共
+http://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8?shandd
+#EXTINF:-1 tvg-id="济宁公共频道" tvg-name="济宁公共频道" tvg-logo="https://live.fanmingming.com/tv/济宁公共频道.png" group-title="🐯齐鲁｜大地",济宁公共频道
+http://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8
+#EXTINF:-1 tvg-id="济宁图文" tvg-name="济宁图文" tvg-logo="https://live.fanmingming.com/tv/济宁图文.png" group-title="🐯齐鲁｜大地",济宁图文
+http://lives.jnnews.tv/video/s10001-JNTV4/index.m3u8?shandd
+#EXTINF:-1 tvg-id="济宁图文频道" tvg-name="济宁图文频道" tvg-logo="https://live.fanmingming.com/tv/济宁图文频道.png" group-title="🐯齐鲁｜大地",济宁图文频道
+http://lives.jnnews.tv/video/s10001-JNTV4/index.m3u8
+#EXTINF:-1 tvg-id="济宁教育" tvg-name="济宁教育" tvg-logo="https://live.fanmingming.com/tv/济宁教育.png" group-title="🐯齐鲁｜大地",济宁教育
+http://lives.jnnews.tv/video/s10001-JNTV-2/index.m3u8?shandd
+#EXTINF:-1 tvg-id="济宁新闻综合频道" tvg-name="济宁新闻综合频道" tvg-logo="https://live.fanmingming.com/tv/济宁新闻综合频道.png" group-title="🐯齐鲁｜大地",济宁新闻综合频道
+http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8
+#EXTINF:-1 tvg-id="济宁综合" tvg-name="济宁综合" tvg-logo="https://live.fanmingming.com/tv/济宁综合.png" group-title="🐯齐鲁｜大地",济宁综合
+http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8?shandd
+#EXTINF:-1 tvg-id="济宁教育频道" tvg-name="济宁教育频道" tvg-logo="https://live.fanmingming.com/tv/济宁教育频道.png" group-title="🐯齐鲁｜大地",济宁教育频道
+http://lives.jnnews.tv/video/s10001-JNTV-2/index.m3u8
+#EXTINF:-1 tvg-id="潍坊新闻综合" tvg-name="潍坊新闻综合" tvg-logo="https://live.fanmingming.com/tv/潍坊新闻综合.png" group-title="🐯齐鲁｜大地",潍坊新闻综合
+https://stream1.freetv.fun/wei-fang-xin-wen-zong-he-2.ctv
+#EXTINF:-1 tvg-id="烟台公共" tvg-name="烟台公共" tvg-logo="https://live.fanmingming.com/tv/烟台公共.png" group-title="🐯齐鲁｜大地",烟台公共
+http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8?shandd
+#EXTINF:-1 tvg-id="烟台公共" tvg-name="烟台公共" tvg-logo="https://live.fanmingming.com/tv/烟台公共.png" group-title="🐯齐鲁｜大地",烟台公共
+http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8
+#EXTINF:-1 tvg-id="烟台新闻综合" tvg-name="烟台新闻综合" tvg-logo="https://live.fanmingming.com/tv/烟台新闻综合.png" group-title="🐯齐鲁｜大地",烟台新闻综合
+http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8
+#EXTINF:-1 tvg-id="烟台新闻综合" tvg-name="烟台新闻综合" tvg-logo="https://live.fanmingming.com/tv/烟台新闻综合.png" group-title="🐯齐鲁｜大地",烟台新闻综合
+http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8?shandd
+#EXTINF:-1 tvg-id="烟台经济科技" tvg-name="烟台经济科技" tvg-logo="https://live.fanmingming.com/tv/烟台经济科技.png" group-title="🐯齐鲁｜大地",烟台经济科技
+http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261-1.m3u8
+#EXTINF:-1 tvg-id="烟台经济科技" tvg-name="烟台经济科技" tvg-logo="https://live.fanmingming.com/tv/烟台经济科技.png" group-title="🐯齐鲁｜大地",烟台经济科技
+http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261-1.m3u8?shandd
+#EXTINF:-1 tvg-id="菏泽一套新闻综合频道" tvg-name="菏泽一套新闻综合频道" tvg-logo="https://live.fanmingming.com/tv/菏泽一套新闻综合频道.png" group-title="🐯齐鲁｜大地",菏泽一套新闻综合频道
+http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="菏泽二套经济生活频道" tvg-name="菏泽二套经济生活频道" tvg-logo="https://live.fanmingming.com/tv/菏泽二套经济生活频道.png" group-title="🐯齐鲁｜大地",菏泽二套经济生活频道
+http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="菏泽影" tvg-name="菏泽影" tvg-logo="https://live.fanmingming.com/tv/菏泽影.png" group-title="🐯齐鲁｜大地",菏泽影
+http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8?shandd
+#EXTINF:-1 tvg-id="菏泽新闻综合" tvg-name="菏泽新闻综合" tvg-logo="https://live.fanmingming.com/tv/菏泽新闻综合.png" group-title="🐯齐鲁｜大地",菏泽新闻综合
+http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8?shandd
+#EXTINF:-1 tvg-id="菏泽新闻综合" tvg-name="菏泽新闻综合" tvg-logo="https://live.fanmingming.com/tv/菏泽新闻综合.png" group-title="🐯齐鲁｜大地",菏泽新闻综合
+http://live.hznet.tv:1935/live/live1/500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="菏泽经济生活" tvg-name="菏泽经济生活" tvg-logo="https://live.fanmingming.com/tv/菏泽经济生活.png" group-title="🐯齐鲁｜大地",菏泽经济生活
+http://live.hznet.tv:1935/live/live2/500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="菏泽经济生活" tvg-name="菏泽经济生活" tvg-logo="https://live.fanmingming.com/tv/菏泽经济生活.png" group-title="🐯齐鲁｜大地",菏泽经济生活
+http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8?shandd
+#EXTINF:-1 tvg-id="青岛城阳" tvg-name="青岛城阳" tvg-logo="https://live.fanmingming.com/tv/青岛城阳.png" group-title="🐯齐鲁｜大地",青岛城阳
+http://pili-live-rtmp.56.i2863.com/i2863-56/live_56_307317.m3u8?shandd
+#EXTINF:-1 tvg-id="青州电视台文化旅游频道" tvg-name="青州电视台文化旅游频道" tvg-logo="https://live.fanmingming.com/tv/青州电视台文化旅游频道.png" group-title="🐯齐鲁｜大地",青州电视台文化旅游频道
+http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="青州电视台新闻综合频道" tvg-name="青州电视台新闻综合频道" tvg-logo="https://live.fanmingming.com/tv/青州电视台新闻综合频道.png" group-title="🐯齐鲁｜大地",青州电视台新闻综合频道
+http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="青州电视台生活频道" tvg-name="青州电视台生活频道" tvg-logo="https://live.fanmingming.com/tv/青州电视台生活频道.png" group-title="🐯齐鲁｜大地",青州电视台生活频道
+http://sdqz.chinashadt.com:2036/live/stream:2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="青州综合" tvg-name="青州综合" tvg-logo="https://live.fanmingming.com/tv/青州综合.png" group-title="🐯齐鲁｜大地",青州综合
+http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8?shandd
+#EXTINF:-1 tvg-id="五台综合" tvg-name="五台综合" tvg-logo="https://live.fanmingming.com/tv/五台综合.png" group-title="🐯齐鲁｜大地",五台综合
+https://568slnjf.live.sxmty.com/live/hls/90c8b2efeb164cc0a6c2409eed668d6b/f77cbb89ec57435b9ba4c47589c16e4f-1.m3u8
+#EXTINF:-1 tvg-id="五台综合" tvg-name="五台综合" tvg-logo="https://live.fanmingming.com/tv/五台综合.png" group-title="🐯齐鲁｜大地",五台综合
+https://568slnjf.live.sxmty.com/live/hls/90c8b2efeb164cc0a6c2409eed668d6b/f77cbb89ec57435b9ba4c47589c16e4f-1.m3u8?zshanxd
+#EXTINF:-1 tvg-id="优购物电视购物" tvg-name="优购物电视购物" tvg-logo="https://live.fanmingming.com/tv/优购物电视购物.png" group-title="🐯齐鲁｜大地",优购物电视购物
+https://tvlive.ugoshop.com/ugotvlive/ugotv01.m3u8?auth_key=2312509421-0-0-f8f7e886fe98ee0a0c01458710bf26d3
+#EXTINF:-1 tvg-id="原平综合" tvg-name="原平综合" tvg-logo="https://live.fanmingming.com/tv/原平综合.png" group-title="🐯齐鲁｜大地",原平综合
+http://xkmspyxn.live.sxmty.com/live/hls/65072fcc05414062bf02088d2a2a77b2/9da977614b044ef59d11779e997a12f8-1.m3u8
+#EXTINF:-1 tvg-id="原平综合" tvg-name="原平综合" tvg-logo="https://live.fanmingming.com/tv/原平综合.png" group-title="🐯齐鲁｜大地",原平综合
+http://xkmspyxn.live.sxmty.com/live/hls/65072fcc05414062bf02088d2a2a77b2/9da977614b044ef59d11779e997a12f8-1.m3u8?zshanxd
+#EXTINF:-1 tvg-id="古县综合" tvg-name="古县综合" tvg-logo="https://live.fanmingming.com/tv/古县综合.png" group-title="🐯齐鲁｜大地",古县综合
+https://l2fpdktp.live.sxmty.com/live/hls/e4c3b363cc4549788e2d983f403e07db/d99ce1eb686e41b9afc888110bd95aa7.m3u8?zshanxd
 #EXTINF:-1 tvg-id="春晚1983年" tvg-name="春晚1983年" tvg-logo="https://live.fanmingming.com/tv/春晚1983年.png" group-title="🐯历年｜春晚",春晚1983年
 https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
 #EXTINF:-1 tvg-id="春晚1984年" tvg-name="春晚1984年" tvg-logo="https://live.fanmingming.com/tv/春晚1984年.png" group-title="🐯历年｜春晚",春晚1984年
