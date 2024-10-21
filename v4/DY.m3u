@@ -95,6 +95,26 @@ http://159.75.85.63:35455/yy/22089862
 http://159.75.85.63:35455/yy/1354931585
 #EXTINF:-1 tvg-id="电影5" tvg-name="电影5" tvg-logo="https://live.fanmingming.com/tv/电影5.png" group-title="🐯暮雨｜芒果",电影5
 http://zby.xjqxz.top/live18/live.m3u8
+#EXTINF:-1 tvg-id="2024巴黎奥运会开幕式" tvg-name="2024巴黎奥运会开幕式" tvg-logo="https://live.fanmingming.com/tv/2024巴黎奥运会开幕式.png" group-title="🐯历年｜春晚",2024巴黎奥运会开幕式
+https://res.cctvnews.cctv.com/video/3005/record/cctv/merge12/126662925810848154051013005/aa9f232ba4be4c49921baae0c27194dd-4.m3u8
+#EXTINF:-1 tvg-id="2024中央电视台中秋晚会HD" tvg-name="2024中央电视台中秋晚会HD" tvg-logo="https://live.fanmingming.com/tv/2024中央电视台中秋晚会HD.png" group-title="🐯历年｜春晚",2024中央电视台中秋晚会HD
+https://svip.high22-playback.com/20240918/11051_bc5c11c0/index.m3u8
+#EXTINF:-1 tvg-id="2024北京卫视“居庸山月”中秋晚会HD" tvg-name="2024北京卫视“居庸山月”中秋晚会HD" tvg-logo="https://live.fanmingming.com/tv/2024北京卫视“居庸山月”中秋晚会HD.png" group-title="🐯历年｜春晚",2024北京卫视“居庸山月”中秋晚会HD
+https://svip.high25-playback.com/20240916/6493_4d133c65/index.m3u8
+#EXTINF:-1 tvg-id="2024东方卫视·中秋奇妙夜HD" tvg-name="2024东方卫视·中秋奇妙夜HD" tvg-logo="https://live.fanmingming.com/tv/2024东方卫视·中秋奇妙夜HD.png" group-title="🐯历年｜春晚",2024东方卫视·中秋奇妙夜HD
+https://svip.high22-playback.com/20240917/11003_20b86a3b/index.m3u8
+#EXTINF:-1 tvg-id="2024湖南卫视中秋晚会HD" tvg-name="2024湖南卫视中秋晚会HD" tvg-logo="https://live.fanmingming.com/tv/2024湖南卫视中秋晚会HD.png" group-title="🐯历年｜春晚",2024湖南卫视中秋晚会HD
+https://svip.high22-playback.com/20240918/11052_45443612/index.m3u8
+#EXTINF:-1 tvg-id="2024山东中秋晚会HD" tvg-name="2024山东中秋晚会HD" tvg-logo="https://live.fanmingming.com/tv/2024山东中秋晚会HD.png" group-title="🐯历年｜春晚",2024山东中秋晚会HD
+https://svip.high25-playback.com/20240918/6585_04b4dec2/index.m3u8
+#EXTINF:-1 tvg-id="2024海峡两岸(漳州)中秋晚会HD" tvg-name="2024海峡两岸(漳州)中秋晚会HD" tvg-logo="https://live.fanmingming.com/tv/2024海峡两岸(漳州)中秋晚会HD.png" group-title="🐯历年｜春晚",2024海峡两岸(漳州)中秋晚会HD
+https://svip.high22-playback.com/20240918/11050_fc85a892/index.m3u8
+#EXTINF:-1 tvg-id="2024央视13频道喜满中秋夜HD" tvg-name="2024央视13频道喜满中秋夜HD" tvg-logo="https://live.fanmingming.com/tv/2024央视13频道喜满中秋夜HD.png" group-title="🐯历年｜春晚",2024央视13频道喜满中秋夜HD
+https://svip.high25-playback.com/20240917/6547_07b21e47/index.m3u8
+#EXTINF:-1 tvg-id="2024河南卫视中秋奇妙游HD" tvg-name="2024河南卫视中秋奇妙游HD" tvg-logo="https://live.fanmingming.com/tv/2024河南卫视中秋奇妙游HD.png" group-title="🐯历年｜春晚",2024河南卫视中秋奇妙游HD
+https://svip.high25-playback.com/20240916/6489_87a9e4b9/index.m3u8#https://svip.high22-playback.com/20240916/10948_9559e5b8/index.m3u8$纯享版
+#EXTINF:-1 tvg-id="花好月圆会·2024bilibili中秋漫游夜HD" tvg-name="花好月圆会·2024bilibili中秋漫游夜HD" tvg-logo="https://live.fanmingming.com/tv/花好月圆会·2024bilibili中秋漫游夜HD.png" group-title="🐯历年｜春晚",花好月圆会·2024bilibili中秋漫游夜HD
+https://svip.high25-playback.com/20240917/6546_739a0134/index.m3u8
 #EXTINF:-1 tvg-id="春晚1983年" tvg-name="春晚1983年" tvg-logo="https://live.fanmingming.com/tv/春晚1983年.png" group-title="🐯历年｜春晚",春晚1983年
 https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
 #EXTINF:-1 tvg-id="春晚1984年" tvg-name="春晚1984年" tvg-logo="https://live.fanmingming.com/tv/春晚1984年.png" group-title="🐯历年｜春晚",春晚1984年
