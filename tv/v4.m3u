@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 group-title="💚更新时间10-21 17:34",仅供学习使用
+#EXTINF:-1 group-title="💚更新时间10-21 21:16",仅供学习使用
 http://ali.hlspull.yximgs.com/live/asdfg863678266.flv
 #EXTINF:-1 tvg-id="暮雨直播" tvg-name="暮雨直播" tvg-logo="https://live.fanmingming.com/tv/暮雨直播.png" group-title="🐯暮雨｜直播",暮雨直播
 https://bfikuncdn.com/20241019/kXe5UlyH/index.m3u8
@@ -27,6 +27,12 @@ http://pixman.digimon.us.kg/4gtv.m3u
 https://taoiptv.com/subs/15023.txt?token=f85052b76635841c
 #EXTINF:-1 tvg-id="不接受评价" tvg-name="不接受评价" tvg-logo="https://live.fanmingming.com/tv/不接受评价.png" group-title="🐯暮雨｜直播",不接受评价
 https://taoiptv.com/subs/45013.txt?token=d836a2678dc5c4ef
+#EXTINF:-1 tvg-id="不接受意见" tvg-name="不接受意见" tvg-logo="https://live.fanmingming.com/tv/不接受意见.png" group-title="🐯暮雨｜直播",不接受意见
+https://taoiptv.com/subs/31023.txt?token=d836a2678dc5c4ef
+#EXTINF:-1 tvg-id="不接受反驳" tvg-name="不接受反驳" tvg-logo="https://live.fanmingming.com/tv/不接受反驳.png" group-title="🐯暮雨｜直播",不接受反驳
+https://taoiptv.com/subs/51023.txt?token=d836a2678dc5c4ef
+#EXTINF:-1 tvg-id="山东订阅" tvg-name="山东订阅" tvg-logo="https://live.fanmingming.com/tv/山东订阅.png" group-title="🐯暮雨｜直播",山东订阅
+https://taoiptv.com/subs/37014.txt?token=d836a2678dc5c4ef
 #EXTINF:-1 tvg-id="怎会有人知你的苦" tvg-name="怎会有人知你的苦" tvg-logo="https://live.fanmingming.com/tv/怎会有人知你的苦.png" group-title="🐯暮雨｜直播",怎会有人知你的苦
 https://pan.7so.top/f/66oWfy/%E5%B8%88%E5%B8%88-%E6%80%8E%E4%BC%9A%E6%9C%89%E4%BA%BA%E7%9F%A5%E4%BD%A0%E7%9A%84%E8%8B%A6%EF%BC%8F%E8%B0%88%E6%9F%92%E6%9F%92%EF%BC%88MV%EF%BC%89-art--%E5%B8%88%E5%B8%88--art-c94e8f2093688af16e61a358438088f1.mp4
 #EXTINF:-1 tvg-id="影视内置" tvg-name="影视内置" tvg-logo="https://live.fanmingming.com/tv/影视内置.png" group-title="🐯内置｜教学",影视内置
@@ -49,396 +55,6 @@ https://pan.7so.top/f/48xKSl/Video_1729355925523.mp4
 https://pan.7so.top/f/2Rk2t8/%E6%88%91%E7%9A%84%E7%94%B5%E8%A7%86%E5%8E%BB%E6%9B%B4%E6%96%B0
 #EXTINF:-1 tvg-id="虎牙轮播教学" tvg-name="虎牙轮播教学" tvg-logo="https://live.fanmingming.com/tv/虎牙轮播教学.png" group-title="🐯内置｜教学",虎牙轮播教学
 https://pan.7so.top/f/3l1Vc2/%E8%99%8E%E7%89%99%E6%96%97%E9%B1%BC%E8%BD%AE%E6%92%AD%E6%95%99%E5%AD%A6
-#EXTINF:-1 tvg-id="第一集" tvg-name="第一集" tvg-logo="https://live.fanmingming.com/tv/第一集.png" group-title="🐯暮雨｜上甘岭",第一集
-https://bfikuncdn.com/20241014/Mp2vYbhp/index.m3u8
-#EXTINF:-1 tvg-id="第二集" tvg-name="第二集" tvg-logo="https://live.fanmingming.com/tv/第二集.png" group-title="🐯暮雨｜上甘岭",第二集
-https://bfikuncdn.com/20241015/7tOPyPur/index.m3u8
-#EXTINF:-1 tvg-id="第三集" tvg-name="第三集" tvg-logo="https://live.fanmingming.com/tv/第三集.png" group-title="🐯暮雨｜上甘岭",第三集
-https://bfikuncdn.com/20241015/4a7AC6su/index.m3u8
-#EXTINF:-1 tvg-id="第四集" tvg-name="第四集" tvg-logo="https://live.fanmingming.com/tv/第四集.png" group-title="🐯暮雨｜上甘岭",第四集
-https://bfikuncdn.com/20241016/MupfX0BX/index.m3u8
-#EXTINF:-1 tvg-id="第五集" tvg-name="第五集" tvg-logo="https://live.fanmingming.com/tv/第五集.png" group-title="🐯暮雨｜上甘岭",第五集
-https://bfikuncdn.com/20241016/PrHwr9l7/index.m3u8
-#EXTINF:-1 tvg-id="第六集" tvg-name="第六集" tvg-logo="https://live.fanmingming.com/tv/第六集.png" group-title="🐯暮雨｜上甘岭",第六集
-https://bfikuncdn.com/20241017/ZaM8kYuv/index.m3u8
-#EXTINF:-1 tvg-id="第七集" tvg-name="第七集" tvg-logo="https://live.fanmingming.com/tv/第七集.png" group-title="🐯暮雨｜上甘岭",第七集
-https://bfikuncdn.com/20241017/heFkAlXU/index.m3u8
-#EXTINF:-1 tvg-id="第八集" tvg-name="第八集" tvg-logo="https://live.fanmingming.com/tv/第八集.png" group-title="🐯暮雨｜上甘岭",第八集
-https://bfikuncdn.com/20241018/r1gxxG4r/index.m3u8
-#EXTINF:-1 tvg-id="第九集" tvg-name="第九集" tvg-logo="https://live.fanmingming.com/tv/第九集.png" group-title="🐯暮雨｜上甘岭",第九集
-https://bfikuncdn.com/20241018/BDeq5S6S/index.m3u8
-#EXTINF:-1 tvg-id="第十集" tvg-name="第十集" tvg-logo="https://live.fanmingming.com/tv/第十集.png" group-title="🐯暮雨｜上甘岭",第十集
-https://bfikuncdn.com/20241019/1DkdmuwQ/index.m3u8
-#EXTINF:-1 tvg-id="第十一集" tvg-name="第十一集" tvg-logo="https://live.fanmingming.com/tv/第十一集.png" group-title="🐯暮雨｜上甘岭",第十一集
-https://bfikuncdn.com/20241019/n8Bg5r5m/index.m3u8
-#EXTINF:-1 tvg-id="第一集" tvg-name="第一集" tvg-logo="https://live.fanmingming.com/tv/第一集.png" group-title="🐯跨过｜鸭绿江",第一集
-https://vip.ffzy-play9.com/20221213/21156_8638ec1a/index.m3u8
-#EXTINF:-1 tvg-id="第二集" tvg-name="第二集" tvg-logo="https://live.fanmingming.com/tv/第二集.png" group-title="🐯跨过｜鸭绿江",第二集
-https://vip.ffzy-play9.com/20221213/21158_fbc7de00/index.m3u8
-#EXTINF:-1 tvg-id="第三集" tvg-name="第三集" tvg-logo="https://live.fanmingming.com/tv/第三集.png" group-title="🐯跨过｜鸭绿江",第三集
-https://vip.ffzy-play9.com/20221213/21157_0c1107b1/index.m3u8
-#EXTINF:-1 tvg-id="第四集" tvg-name="第四集" tvg-logo="https://live.fanmingming.com/tv/第四集.png" group-title="🐯跨过｜鸭绿江",第四集
-https://vip.ffzy-play9.com/20221213/21160_7be23c3b/index.m3u8
-#EXTINF:-1 tvg-id="第五集" tvg-name="第五集" tvg-logo="https://live.fanmingming.com/tv/第五集.png" group-title="🐯跨过｜鸭绿江",第五集
-https://vip.ffzy-play9.com/20221213/21159_570a4657/index.m3u8
-#EXTINF:-1 tvg-id="第六集" tvg-name="第六集" tvg-logo="https://live.fanmingming.com/tv/第六集.png" group-title="🐯跨过｜鸭绿江",第六集
-https://vip.ffzy-play9.com/20221213/21161_98740e77/index.m3u8
-#EXTINF:-1 tvg-id="第七集" tvg-name="第七集" tvg-logo="https://live.fanmingming.com/tv/第七集.png" group-title="🐯跨过｜鸭绿江",第七集
-https://vip.ffzy-play9.com/20221213/21162_c2abd315/index.m3u8
-#EXTINF:-1 tvg-id="第八集" tvg-name="第八集" tvg-logo="https://live.fanmingming.com/tv/第八集.png" group-title="🐯跨过｜鸭绿江",第八集
-https://vip.ffzy-play9.com/20221213/21164_9349dae2/index.m3u8
-#EXTINF:-1 tvg-id="第九集" tvg-name="第九集" tvg-logo="https://live.fanmingming.com/tv/第九集.png" group-title="🐯跨过｜鸭绿江",第九集
-https://vip.ffzy-play9.com/20221213/21163_67c48c4c/index.m3u8
-#EXTINF:-1 tvg-id="第十集" tvg-name="第十集" tvg-logo="https://live.fanmingming.com/tv/第十集.png" group-title="🐯跨过｜鸭绿江",第十集
-https://vip.ffzy-play9.com/20221213/21165_d8fd72bd/index.m3u8
-#EXTINF:-1 tvg-id="第十一集" tvg-name="第十一集" tvg-logo="https://live.fanmingming.com/tv/第十一集.png" group-title="🐯跨过｜鸭绿江",第十一集
-https://vip.ffzy-play9.com/20221213/21166_4f64a8c7/index.m3u8
-#EXTINF:-1 tvg-id="第十二集" tvg-name="第十二集" tvg-logo="https://live.fanmingming.com/tv/第十二集.png" group-title="🐯跨过｜鸭绿江",第十二集
-https://vip.ffzy-play9.com/20221213/21167_5d945741/index.m3u8
-#EXTINF:-1 tvg-id="第十三集" tvg-name="第十三集" tvg-logo="https://live.fanmingming.com/tv/第十三集.png" group-title="🐯跨过｜鸭绿江",第十三集
-https://vip.ffzy-play9.com/20221213/21168_8eab49ff/index.m3u8
-#EXTINF:-1 tvg-id="第十四集" tvg-name="第十四集" tvg-logo="https://live.fanmingming.com/tv/第十四集.png" group-title="🐯跨过｜鸭绿江",第十四集
-https://vip.ffzy-play9.com/20221213/21169_be3c94a6/index.m3u8
-#EXTINF:-1 tvg-id="第十五集" tvg-name="第十五集" tvg-logo="https://live.fanmingming.com/tv/第十五集.png" group-title="🐯跨过｜鸭绿江",第十五集
-https://vip.ffzy-play9.com/20221213/21170_d09a3c73/index.m3u8
-#EXTINF:-1 tvg-id="第十六集" tvg-name="第十六集" tvg-logo="https://live.fanmingming.com/tv/第十六集.png" group-title="🐯跨过｜鸭绿江",第十六集
-https://vip.ffzy-play9.com/20221213/21171_2e17b0d9/index.m3u8
-#EXTINF:-1 tvg-id="第十七集" tvg-name="第十七集" tvg-logo="https://live.fanmingming.com/tv/第十七集.png" group-title="🐯跨过｜鸭绿江",第十七集
-https://vip.ffzy-play9.com/20221213/21172_910b7a14/index.m3u8
-#EXTINF:-1 tvg-id="第十八集" tvg-name="第十八集" tvg-logo="https://live.fanmingming.com/tv/第十八集.png" group-title="🐯跨过｜鸭绿江",第十八集
-https://vip.ffzy-play9.com/20221213/21173_f539e912/index.m3u8
-#EXTINF:-1 tvg-id="第十九集" tvg-name="第十九集" tvg-logo="https://live.fanmingming.com/tv/第十九集.png" group-title="🐯跨过｜鸭绿江",第十九集
-https://vip.ffzy-play9.com/20221213/21174_2ad2598d/index.m3u8
-#EXTINF:-1 tvg-id="第二十集" tvg-name="第二十集" tvg-logo="https://live.fanmingming.com/tv/第二十集.png" group-title="🐯跨过｜鸭绿江",第二十集
-https://vip.ffzy-play9.com/20221213/21175_f3829982/index.m3u8
-#EXTINF:-1 tvg-id="第二十一集" tvg-name="第二十一集" tvg-logo="https://live.fanmingming.com/tv/第二十一集.png" group-title="🐯跨过｜鸭绿江",第二十一集
-https://vip.ffzy-play9.com/20221213/21177_68857335/index.m3u8
-#EXTINF:-1 tvg-id="第二十二集" tvg-name="第二十二集" tvg-logo="https://live.fanmingming.com/tv/第二十二集.png" group-title="🐯跨过｜鸭绿江",第二十二集
-https://vip.ffzy-play9.com/20221213/21176_cb636593/index.m3u8
-#EXTINF:-1 tvg-id="第二十三集" tvg-name="第二十三集" tvg-logo="https://live.fanmingming.com/tv/第二十三集.png" group-title="🐯跨过｜鸭绿江",第二十三集
-https://vip.ffzy-play9.com/20221213/21178_63ea9b50/index.m3u8
-#EXTINF:-1 tvg-id="第二十四集" tvg-name="第二十四集" tvg-logo="https://live.fanmingming.com/tv/第二十四集.png" group-title="🐯跨过｜鸭绿江",第二十四集
-https://vip.ffzy-play9.com/20221213/21180_fcdeb8e7/index.m3u8
-#EXTINF:-1 tvg-id="第二十五集" tvg-name="第二十五集" tvg-logo="https://live.fanmingming.com/tv/第二十五集.png" group-title="🐯跨过｜鸭绿江",第二十五集
-https://vip.ffzy-play9.com/20221213/21179_9b4be79f/index.m3u8
-#EXTINF:-1 tvg-id="第二十六集" tvg-name="第二十六集" tvg-logo="https://live.fanmingming.com/tv/第二十六集.png" group-title="🐯跨过｜鸭绿江",第二十六集
-https://vip.ffzy-play9.com/20221213/21181_00f5fa78/index.m3u8
-#EXTINF:-1 tvg-id="第二十七集" tvg-name="第二十七集" tvg-logo="https://live.fanmingming.com/tv/第二十七集.png" group-title="🐯跨过｜鸭绿江",第二十七集
-https://vip.ffzy-play9.com/20221213/21182_952ae6b2/index.m3u8
-#EXTINF:-1 tvg-id="第二十八集" tvg-name="第二十八集" tvg-logo="https://live.fanmingming.com/tv/第二十八集.png" group-title="🐯跨过｜鸭绿江",第二十八集
-https://vip.ffzy-play9.com/20221213/21183_c38e9d0d/index.m3u8
-#EXTINF:-1 tvg-id="第二十九集" tvg-name="第二十九集" tvg-logo="https://live.fanmingming.com/tv/第二十九集.png" group-title="🐯跨过｜鸭绿江",第二十九集
-https://vip.ffzy-play9.com/20221213/21184_26b24bff/index.m3u8
-#EXTINF:-1 tvg-id="第三十集" tvg-name="第三十集" tvg-logo="https://live.fanmingming.com/tv/第三十集.png" group-title="🐯跨过｜鸭绿江",第三十集
-https://vip.ffzy-play9.com/20221213/21185_6ebe612f/index.m3u8
-#EXTINF:-1 tvg-id="第三十一集" tvg-name="第三十一集" tvg-logo="https://live.fanmingming.com/tv/第三十一集.png" group-title="🐯跨过｜鸭绿江",第三十一集
-https://vip.ffzy-play9.com/20221213/21186_6e18dda0/index.m3u8
-#EXTINF:-1 tvg-id="第三十二集" tvg-name="第三十二集" tvg-logo="https://live.fanmingming.com/tv/第三十二集.png" group-title="🐯跨过｜鸭绿江",第三十二集
-https://vip.ffzy-play9.com/20221213/21187_46919d30/index.m3u8
-#EXTINF:-1 tvg-id="第三十三集" tvg-name="第三十三集" tvg-logo="https://live.fanmingming.com/tv/第三十三集.png" group-title="🐯跨过｜鸭绿江",第三十三集
-https://vip.ffzy-play9.com/20221213/21188_1c8dcd5d/index.m3u8
-#EXTINF:-1 tvg-id="第三十四集" tvg-name="第三十四集" tvg-logo="https://live.fanmingming.com/tv/第三十四集.png" group-title="🐯跨过｜鸭绿江",第三十四集
-https://vip.ffzy-play9.com/20221213/21189_5da1560f/index.m3u8
-#EXTINF:-1 tvg-id="第三十五集" tvg-name="第三十五集" tvg-logo="https://live.fanmingming.com/tv/第三十五集.png" group-title="🐯跨过｜鸭绿江",第三十五集
-https://vip.ffzy-play9.com/20221213/21190_c9b7a406/index.m3u8
-#EXTINF:-1 tvg-id="第三十六集" tvg-name="第三十六集" tvg-logo="https://live.fanmingming.com/tv/第三十六集.png" group-title="🐯跨过｜鸭绿江",第三十六集
-https://vip.ffzy-play9.com/20221213/21191_750b48dc/index.m3u8
-#EXTINF:-1 tvg-id="第三十七集" tvg-name="第三十七集" tvg-logo="https://live.fanmingming.com/tv/第三十七集.png" group-title="🐯跨过｜鸭绿江",第三十七集
-https://vip.ffzy-play9.com/20221213/21192_8ab761cd/index.m3u8
-#EXTINF:-1 tvg-id="第三十八集" tvg-name="第三十八集" tvg-logo="https://live.fanmingming.com/tv/第三十八集.png" group-title="🐯跨过｜鸭绿江",第三十八集
-https://vip.ffzy-play9.com/20221213/21193_41912b57/index.m3u8
-#EXTINF:-1 tvg-id="第三十九集" tvg-name="第三十九集" tvg-logo="https://live.fanmingming.com/tv/第三十九集.png" group-title="🐯跨过｜鸭绿江",第三十九集
-https://vip.ffzy-play9.com/20221213/21194_1de2ea69/index.m3u8
-#EXTINF:-1 tvg-id="第四十集" tvg-name="第四十集" tvg-logo="https://live.fanmingming.com/tv/第四十集.png" group-title="🐯跨过｜鸭绿江",第四十集
-https://vip.ffzy-play9.com/20221213/21195_15966a18/index.m3u8
-#EXTINF:-1 tvg-id="第一集" tvg-name="第一集" tvg-logo="https://live.fanmingming.com/tv/第一集.png" group-title="🐯暮雨｜少年派①",第一集
-https://bfikuncdn.com/20221120/QjgdHGv7/index.m3u8
-#EXTINF:-1 tvg-id="第二集" tvg-name="第二集" tvg-logo="https://live.fanmingming.com/tv/第二集.png" group-title="🐯暮雨｜少年派①",第二集
-https://bfikuncdn.com/20221120/YtWjAhAr/index.m3u8
-#EXTINF:-1 tvg-id="第三集" tvg-name="第三集" tvg-logo="https://live.fanmingming.com/tv/第三集.png" group-title="🐯暮雨｜少年派①",第三集
-https://bfikuncdn.com/20221120/BPWJHliD/index.m3u8
-#EXTINF:-1 tvg-id="第四集" tvg-name="第四集" tvg-logo="https://live.fanmingming.com/tv/第四集.png" group-title="🐯暮雨｜少年派①",第四集
-https://bfikuncdn.com/20221120/ImzYNv8r/index.m3u8
-#EXTINF:-1 tvg-id="第五集" tvg-name="第五集" tvg-logo="https://live.fanmingming.com/tv/第五集.png" group-title="🐯暮雨｜少年派①",第五集
-https://bfikuncdn.com/20221120/u1FdEoUU/index.m3u8
-#EXTINF:-1 tvg-id="第六集" tvg-name="第六集" tvg-logo="https://live.fanmingming.com/tv/第六集.png" group-title="🐯暮雨｜少年派①",第六集
-https://bfikuncdn.com/20221120/pgWwE4tt/index.m3u8
-#EXTINF:-1 tvg-id="第七集" tvg-name="第七集" tvg-logo="https://live.fanmingming.com/tv/第七集.png" group-title="🐯暮雨｜少年派①",第七集
-https://bfikuncdn.com/20221120/j21stafY/index.m3u8
-#EXTINF:-1 tvg-id="第八集" tvg-name="第八集" tvg-logo="https://live.fanmingming.com/tv/第八集.png" group-title="🐯暮雨｜少年派①",第八集
-https://bfikuncdn.com/20221120/E19hXEsX/index.m3u8
-#EXTINF:-1 tvg-id="第九集" tvg-name="第九集" tvg-logo="https://live.fanmingming.com/tv/第九集.png" group-title="🐯暮雨｜少年派①",第九集
-https://bfikuncdn.com/20221120/x267CTjh/index.m3u8
-#EXTINF:-1 tvg-id="第十集" tvg-name="第十集" tvg-logo="https://live.fanmingming.com/tv/第十集.png" group-title="🐯暮雨｜少年派①",第十集
-https://bfikuncdn.com/20221120/R2K953sS/index.m3u8
-#EXTINF:-1 tvg-id="第十一集" tvg-name="第十一集" tvg-logo="https://live.fanmingming.com/tv/第十一集.png" group-title="🐯暮雨｜少年派①",第十一集
-https://bfikuncdn.com/20221120/H2XREUes/index.m3u8
-#EXTINF:-1 tvg-id="第十二集" tvg-name="第十二集" tvg-logo="https://live.fanmingming.com/tv/第十二集.png" group-title="🐯暮雨｜少年派①",第十二集
-https://bfikuncdn.com/20221120/Ctl7Gi4K/index.m3u8
-#EXTINF:-1 tvg-id="第十三集" tvg-name="第十三集" tvg-logo="https://live.fanmingming.com/tv/第十三集.png" group-title="🐯暮雨｜少年派①",第十三集
-https://bfikuncdn.com/20221120/frvHPQNy/index.m3u8
-#EXTINF:-1 tvg-id="第十四集" tvg-name="第十四集" tvg-logo="https://live.fanmingming.com/tv/第十四集.png" group-title="🐯暮雨｜少年派①",第十四集
-https://bfikuncdn.com/20221120/3enkH0Uk/index.m3u8
-#EXTINF:-1 tvg-id="第十五集" tvg-name="第十五集" tvg-logo="https://live.fanmingming.com/tv/第十五集.png" group-title="🐯暮雨｜少年派①",第十五集
-https://bfikuncdn.com/20221120/cPfSl1dO/index.m3u8
-#EXTINF:-1 tvg-id="第十六集" tvg-name="第十六集" tvg-logo="https://live.fanmingming.com/tv/第十六集.png" group-title="🐯暮雨｜少年派①",第十六集
-https://bfikuncdn.com/20221120/iIg4Nxos/index.m3u8
-#EXTINF:-1 tvg-id="第十七集" tvg-name="第十七集" tvg-logo="https://live.fanmingming.com/tv/第十七集.png" group-title="🐯暮雨｜少年派①",第十七集
-https://bfikuncdn.com/20221120/ycVMBrwe/index.m3u8
-#EXTINF:-1 tvg-id="第十八集" tvg-name="第十八集" tvg-logo="https://live.fanmingming.com/tv/第十八集.png" group-title="🐯暮雨｜少年派①",第十八集
-https://bfikuncdn.com/20221120/CmlOT5NO/index.m3u8
-#EXTINF:-1 tvg-id="第十九集" tvg-name="第十九集" tvg-logo="https://live.fanmingming.com/tv/第十九集.png" group-title="🐯暮雨｜少年派①",第十九集
-https://bfikuncdn.com/20221120/SsuXOBbC/index.m3u8
-#EXTINF:-1 tvg-id="第二十集" tvg-name="第二十集" tvg-logo="https://live.fanmingming.com/tv/第二十集.png" group-title="🐯暮雨｜少年派①",第二十集
-https://bfikuncdn.com/20221120/4fnqndwf/index.m3u8
-#EXTINF:-1 tvg-id="第二十一集" tvg-name="第二十一集" tvg-logo="https://live.fanmingming.com/tv/第二十一集.png" group-title="🐯暮雨｜少年派①",第二十一集
-https://bfikuncdn.com/20221120/MpIXHNlF/index.m3u8
-#EXTINF:-1 tvg-id="第二十二集" tvg-name="第二十二集" tvg-logo="https://live.fanmingming.com/tv/第二十二集.png" group-title="🐯暮雨｜少年派①",第二十二集
-https://bfikuncdn.com/20221120/EeDoJSRp/index.m3u8
-#EXTINF:-1 tvg-id="第二十三集" tvg-name="第二十三集" tvg-logo="https://live.fanmingming.com/tv/第二十三集.png" group-title="🐯暮雨｜少年派①",第二十三集
-https://bfikuncdn.com/20221120/DdXIir6F/index.m3u8
-#EXTINF:-1 tvg-id="第二十四集" tvg-name="第二十四集" tvg-logo="https://live.fanmingming.com/tv/第二十四集.png" group-title="🐯暮雨｜少年派①",第二十四集
-https://bfikuncdn.com/20221120/ZflwJUy9/index.m3u8
-#EXTINF:-1 tvg-id="第二十五集" tvg-name="第二十五集" tvg-logo="https://live.fanmingming.com/tv/第二十五集.png" group-title="🐯暮雨｜少年派①",第二十五集
-https://bfikuncdn.com/20221120/hPL59kNu/index.m3u8
-#EXTINF:-1 tvg-id="第二十六集" tvg-name="第二十六集" tvg-logo="https://live.fanmingming.com/tv/第二十六集.png" group-title="🐯暮雨｜少年派①",第二十六集
-https://bfikuncdn.com/20221120/y9iUeZ94/index.m3u8
-#EXTINF:-1 tvg-id="第二十七集" tvg-name="第二十七集" tvg-logo="https://live.fanmingming.com/tv/第二十七集.png" group-title="🐯暮雨｜少年派①",第二十七集
-https://bfikuncdn.com/20221120/6l3xOZ8a/index.m3u8
-#EXTINF:-1 tvg-id="第二十八集" tvg-name="第二十八集" tvg-logo="https://live.fanmingming.com/tv/第二十八集.png" group-title="🐯暮雨｜少年派①",第二十八集
-https://bfikuncdn.com/20221120/qFo1kB1k/index.m3u8
-#EXTINF:-1 tvg-id="第二十九集" tvg-name="第二十九集" tvg-logo="https://live.fanmingming.com/tv/第二十九集.png" group-title="🐯暮雨｜少年派①",第二十九集
-https://bfikuncdn.com/20221120/aS6bUByG/index.m3u8
-#EXTINF:-1 tvg-id="第三十集" tvg-name="第三十集" tvg-logo="https://live.fanmingming.com/tv/第三十集.png" group-title="🐯暮雨｜少年派①",第三十集
-https://bfikuncdn.com/20221120/Z9nFgKzz/index.m3u8
-#EXTINF:-1 tvg-id="第三十一集" tvg-name="第三十一集" tvg-logo="https://live.fanmingming.com/tv/第三十一集.png" group-title="🐯暮雨｜少年派①",第三十一集
-https://bfikuncdn.com/20221120/x2sIsVSF/index.m3u8
-#EXTINF:-1 tvg-id="第三十二集" tvg-name="第三十二集" tvg-logo="https://live.fanmingming.com/tv/第三十二集.png" group-title="🐯暮雨｜少年派①",第三十二集
-https://bfikuncdn.com/20221120/qL4oes14/index.m3u8
-#EXTINF:-1 tvg-id="第三十三集" tvg-name="第三十三集" tvg-logo="https://live.fanmingming.com/tv/第三十三集.png" group-title="🐯暮雨｜少年派①",第三十三集
-https://bfikuncdn.com/20221120/FhpLyUPY/index.m3u8
-#EXTINF:-1 tvg-id="第三十四集" tvg-name="第三十四集" tvg-logo="https://live.fanmingming.com/tv/第三十四集.png" group-title="🐯暮雨｜少年派①",第三十四集
-https://bfikuncdn.com/20221120/3FzjVs99/index.m3u8
-#EXTINF:-1 tvg-id="第三十五集" tvg-name="第三十五集" tvg-logo="https://live.fanmingming.com/tv/第三十五集.png" group-title="🐯暮雨｜少年派①",第三十五集
-https://bfikuncdn.com/20221120/VeUdmEtp/index.m3u8
-#EXTINF:-1 tvg-id="第三十六集" tvg-name="第三十六集" tvg-logo="https://live.fanmingming.com/tv/第三十六集.png" group-title="🐯暮雨｜少年派①",第三十六集
-https://bfikuncdn.com/20221120/QYmG4ifs/index.m3u8
-#EXTINF:-1 tvg-id="第三十七集" tvg-name="第三十七集" tvg-logo="https://live.fanmingming.com/tv/第三十七集.png" group-title="🐯暮雨｜少年派①",第三十七集
-https://bfikuncdn.com/20221120/Zrqmv5r0/index.m3u8
-#EXTINF:-1 tvg-id="第三十八集" tvg-name="第三十八集" tvg-logo="https://live.fanmingming.com/tv/第三十八集.png" group-title="🐯暮雨｜少年派①",第三十八集
-https://bfikuncdn.com/20221120/FJxqmgVz/index.m3u8
-#EXTINF:-1 tvg-id="第三十九集" tvg-name="第三十九集" tvg-logo="https://live.fanmingming.com/tv/第三十九集.png" group-title="🐯暮雨｜少年派①",第三十九集
-https://bfikuncdn.com/20221120/75HFlL61/index.m3u8
-#EXTINF:-1 tvg-id="第四十集" tvg-name="第四十集" tvg-logo="https://live.fanmingming.com/tv/第四十集.png" group-title="🐯暮雨｜少年派①",第四十集
-https://bfikuncdn.com/20221120/FH2rbSZ8/index.m3u8
-#EXTINF:-1 tvg-id="第一集" tvg-name="第一集" tvg-logo="https://live.fanmingming.com/tv/第一集.png" group-title="🐯暮雨｜少年派②",第一集
-https://bfikuncdn.com/20221231/xI7cc4JG/index.m3u8
-#EXTINF:-1 tvg-id="第二集" tvg-name="第二集" tvg-logo="https://live.fanmingming.com/tv/第二集.png" group-title="🐯暮雨｜少年派②",第二集
-https://bfikuncdn.com/20221231/a7Ld66p3/index.m3u8
-#EXTINF:-1 tvg-id="第三集" tvg-name="第三集" tvg-logo="https://live.fanmingming.com/tv/第三集.png" group-title="🐯暮雨｜少年派②",第三集
-https://bfikuncdn.com/20221231/8ZEiUng9/index.m3u8
-#EXTINF:-1 tvg-id="第四集" tvg-name="第四集" tvg-logo="https://live.fanmingming.com/tv/第四集.png" group-title="🐯暮雨｜少年派②",第四集
-https://bfikuncdn.com/20221231/6N9mr8oq/index.m3u8
-#EXTINF:-1 tvg-id="第五集" tvg-name="第五集" tvg-logo="https://live.fanmingming.com/tv/第五集.png" group-title="🐯暮雨｜少年派②",第五集
-https://bfikuncdn.com/20221231/1jZg2UFC/index.m3u8
-#EXTINF:-1 tvg-id="第六集" tvg-name="第六集" tvg-logo="https://live.fanmingming.com/tv/第六集.png" group-title="🐯暮雨｜少年派②",第六集
-https://bfikuncdn.com/20230105/f3eYHVTi/index.m3u8
-#EXTINF:-1 tvg-id="第七集" tvg-name="第七集" tvg-logo="https://live.fanmingming.com/tv/第七集.png" group-title="🐯暮雨｜少年派②",第七集
-https://bfikuncdn.com/20230105/bbm8sUs6/index.m3u8
-#EXTINF:-1 tvg-id="第八集" tvg-name="第八集" tvg-logo="https://live.fanmingming.com/tv/第八集.png" group-title="🐯暮雨｜少年派②",第八集
-https://bfikuncdn.com/20221231/rDFXct4x/index.m3u8
-#EXTINF:-1 tvg-id="第九集" tvg-name="第九集" tvg-logo="https://live.fanmingming.com/tv/第九集.png" group-title="🐯暮雨｜少年派②",第九集
-https://bfikuncdn.com/20221231/jRk0dxpM/index.m3u8
-#EXTINF:-1 tvg-id="第十集" tvg-name="第十集" tvg-logo="https://live.fanmingming.com/tv/第十集.png" group-title="🐯暮雨｜少年派②",第十集
-https://bfikuncdn.com/20221231/sqZgaXxY/indexm3u8
-#EXTINF:-1 tvg-id="第十二集" tvg-name="第十二集" tvg-logo="https://live.fanmingming.com/tv/第十二集.png" group-title="🐯暮雨｜少年派②",第十二集
-https://bfikuncdn.com/20221231/3hCf4ShY/index.m3u8
-#EXTINF:-1 tvg-id="第十三集" tvg-name="第十三集" tvg-logo="https://live.fanmingming.com/tv/第十三集.png" group-title="🐯暮雨｜少年派②",第十三集
-https://bfikuncdn.com/20221231/m6lVLWW0/index.m3u8
-#EXTINF:-1 tvg-id="第十四集" tvg-name="第十四集" tvg-logo="https://live.fanmingming.com/tv/第十四集.png" group-title="🐯暮雨｜少年派②",第十四集
-https://bfikuncdn.com/20230105/tey5PJI6/index.m3u8
-#EXTINF:-1 tvg-id="第十五集" tvg-name="第十五集" tvg-logo="https://live.fanmingming.com/tv/第十五集.png" group-title="🐯暮雨｜少年派②",第十五集
-https://bfikuncdn.com/20230105/i6pot8bu/index.m3u8
-#EXTINF:-1 tvg-id="第十六集" tvg-name="第十六集" tvg-logo="https://live.fanmingming.com/tv/第十六集.png" group-title="🐯暮雨｜少年派②",第十六集
-https://bfikuncdn.com/20230105/o38YcqW8/index.m3u8
-#EXTINF:-1 tvg-id="第十七集" tvg-name="第十七集" tvg-logo="https://live.fanmingming.com/tv/第十七集.png" group-title="🐯暮雨｜少年派②",第十七集
-https://bfikuncdn.com/20230105/1yKb2rU6/index.m3u8
-#EXTINF:-1 tvg-id="第十八集" tvg-name="第十八集" tvg-logo="https://live.fanmingming.com/tv/第十八集.png" group-title="🐯暮雨｜少年派②",第十八集
-https://bfikuncdn.com/20230105/fZJAnuVo/index.m3u8
-#EXTINF:-1 tvg-id="第十九集" tvg-name="第十九集" tvg-logo="https://live.fanmingming.com/tv/第十九集.png" group-title="🐯暮雨｜少年派②",第十九集
-https://bfikuncdn.com/20230105/r5q9jsrp/index.m3u8
-#EXTINF:-1 tvg-id="第二十集" tvg-name="第二十集" tvg-logo="https://live.fanmingming.com/tv/第二十集.png" group-title="🐯暮雨｜少年派②",第二十集
-https://bfikuncdn.com/20230105/7ocimc7Z/index.m3u8
-#EXTINF:-1 tvg-id="第二十一集" tvg-name="第二十一集" tvg-logo="https://live.fanmingming.com/tv/第二十一集.png" group-title="🐯暮雨｜少年派②",第二十一集
-https://bfikuncdn.com/20221231/UuGYFQwO/index.m3u8
-#EXTINF:-1 tvg-id="第二十二集" tvg-name="第二十二集" tvg-logo="https://live.fanmingming.com/tv/第二十二集.png" group-title="🐯暮雨｜少年派②",第二十二集
-https://bfikuncdn.com/20221231/YIWCUNVL/index.m3u8
-#EXTINF:-1 tvg-id="第二十三集" tvg-name="第二十三集" tvg-logo="https://live.fanmingming.com/tv/第二十三集.png" group-title="🐯暮雨｜少年派②",第二十三集
-https://bfikuncdn.com/20221231/jpe24AIt/index.m3u8
-#EXTINF:-1 tvg-id="第二十四集" tvg-name="第二十四集" tvg-logo="https://live.fanmingming.com/tv/第二十四集.png" group-title="🐯暮雨｜少年派②",第二十四集
-https://bfikuncdn.com/20221231/mYp88DaK/index.m3u8
-#EXTINF:-1 tvg-id="第二十五集" tvg-name="第二十五集" tvg-logo="https://live.fanmingming.com/tv/第二十五集.png" group-title="🐯暮雨｜少年派②",第二十五集
-https://bfikuncdn.com/20221231/Z2bGGxqB/index.m3u8
-#EXTINF:-1 tvg-id="第二十六集" tvg-name="第二十六集" tvg-logo="https://live.fanmingming.com/tv/第二十六集.png" group-title="🐯暮雨｜少年派②",第二十六集
-https://bfikuncdn.com/20221231/O61sKqAI/index.m3u8
-#EXTINF:-1 tvg-id="第二十七集" tvg-name="第二十七集" tvg-logo="https://live.fanmingming.com/tv/第二十七集.png" group-title="🐯暮雨｜少年派②",第二十七集
-https://bfikuncdn.com/20221231/hc8UmqwB/index.m3u8
-#EXTINF:-1 tvg-id="第二十八集" tvg-name="第二十八集" tvg-logo="https://live.fanmingming.com/tv/第二十八集.png" group-title="🐯暮雨｜少年派②",第二十八集
-https://bfikuncdn.com/20221231/GAdnb0Pp/index.m3u8
-#EXTINF:-1 tvg-id="第二十九集" tvg-name="第二十九集" tvg-logo="https://live.fanmingming.com/tv/第二十九集.png" group-title="🐯暮雨｜少年派②",第二十九集
-https://bfikuncdn.com/20221231/ggtRLGfs/index.m3u8
-#EXTINF:-1 tvg-id="第三十集" tvg-name="第三十集" tvg-logo="https://live.fanmingming.com/tv/第三十集.png" group-title="🐯暮雨｜少年派②",第三十集
-https://bfikuncdn.com/20221231/H1sBGIlH/index.m3u8
-#EXTINF:-1 tvg-id="第三十一集" tvg-name="第三十一集" tvg-logo="https://live.fanmingming.com/tv/第三十一集.png" group-title="🐯暮雨｜少年派②",第三十一集
-https://bfikuncdn.com/20221231/6CPIXUMP/index.m3u8
-#EXTINF:-1 tvg-id="第三十二集" tvg-name="第三十二集" tvg-logo="https://live.fanmingming.com/tv/第三十二集.png" group-title="🐯暮雨｜少年派②",第三十二集
-https://bfikuncdn.com/20221231/q69mfjGP/index.m3u8
-#EXTINF:-1 tvg-id="第三十三集" tvg-name="第三十三集" tvg-logo="https://live.fanmingming.com/tv/第三十三集.png" group-title="🐯暮雨｜少年派②",第三十三集
-https://bfikuncdn.com/20221231/gXUK7PAa/index.m3u8
-#EXTINF:-1 tvg-id="第三十四集" tvg-name="第三十四集" tvg-logo="https://live.fanmingming.com/tv/第三十四集.png" group-title="🐯暮雨｜少年派②",第三十四集
-https://bfikuncdn.com/20221231/mP8KC2F5/index.m3u8
-#EXTINF:-1 tvg-id="第三十五集" tvg-name="第三十五集" tvg-logo="https://live.fanmingming.com/tv/第三十五集.png" group-title="🐯暮雨｜少年派②",第三十五集
-https://bfikuncdn.com/20221231/KLYShcT8/index.m3u8
-#EXTINF:-1 tvg-id="第三十六集" tvg-name="第三十六集" tvg-logo="https://live.fanmingming.com/tv/第三十六集.png" group-title="🐯暮雨｜少年派②",第三十六集
-https://bfikuncdn.com/20221231/loUtDbCB/index.m3u8
-#EXTINF:-1 tvg-id="第三十七集" tvg-name="第三十七集" tvg-logo="https://live.fanmingming.com/tv/第三十七集.png" group-title="🐯暮雨｜少年派②",第三十七集
-https://bfikuncdn.com/20221231/AKyCUskC/index.m3u8
-#EXTINF:-1 tvg-id="第三十八集" tvg-name="第三十八集" tvg-logo="https://live.fanmingming.com/tv/第三十八集.png" group-title="🐯暮雨｜少年派②",第三十八集
-https://bfikuncdn.com/20221231/70trtidl/index.m3u8
-#EXTINF:-1 tvg-id="第三十九集" tvg-name="第三十九集" tvg-logo="https://live.fanmingming.com/tv/第三十九集.png" group-title="🐯暮雨｜少年派②",第三十九集
-https://bfikuncdn.com/20221231/pJhBNwil/index.m3u8
-#EXTINF:-1 tvg-id="第四十集" tvg-name="第四十集" tvg-logo="https://live.fanmingming.com/tv/第四十集.png" group-title="🐯暮雨｜少年派②",第四十集
-https://bfikuncdn.com/20221231/5MG5lLhe/index.m3u8
-#EXTINF:-1 tvg-id="第一集" tvg-name="第一集" tvg-logo="https://live.fanmingming.com/tv/第一集.png" group-title="🐯时光与他｜恰是正好",第一集
-https://svipsvip.ffzyread1.com/20221225/5535_bb8d7b89/index.m3u8
-#EXTINF:-1 tvg-id="第二集" tvg-name="第二集" tvg-logo="https://live.fanmingming.com/tv/第二集.png" group-title="🐯时光与他｜恰是正好",第二集
-https://bfikuncdn.com/20221225/ZhSZtaQk/index.m3u8
-#EXTINF:-1 tvg-id="第三集" tvg-name="第三集" tvg-logo="https://live.fanmingming.com/tv/第三集.png" group-title="🐯时光与他｜恰是正好",第三集
-https://bfikuncdn.com/20221225/BDBYNfTh/index.m3u8
-#EXTINF:-1 tvg-id="第四集" tvg-name="第四集" tvg-logo="https://live.fanmingming.com/tv/第四集.png" group-title="🐯时光与他｜恰是正好",第四集
-https://bfikuncdn.com/20221225/ec7Ad8BT/index.m3u8
-#EXTINF:-1 tvg-id="第五集" tvg-name="第五集" tvg-logo="https://live.fanmingming.com/tv/第五集.png" group-title="🐯时光与他｜恰是正好",第五集
-https://bfikuncdn.com/20221225/AqGACYAC/index.m3u8
-#EXTINF:-1 tvg-id="第六集" tvg-name="第六集" tvg-logo="https://live.fanmingming.com/tv/第六集.png" group-title="🐯时光与他｜恰是正好",第六集
-https://bfikuncdn.com/20221225/9HucfaYK/index.m3u8
-#EXTINF:-1 tvg-id="第七集" tvg-name="第七集" tvg-logo="https://live.fanmingming.com/tv/第七集.png" group-title="🐯时光与他｜恰是正好",第七集
-https://bfikuncdn.com/20221226/HoNtPKyA/index.m3u8
-#EXTINF:-1 tvg-id="第八集" tvg-name="第八集" tvg-logo="https://live.fanmingming.com/tv/第八集.png" group-title="🐯时光与他｜恰是正好",第八集
-https://bfikuncdn.com/20221226/jYDXUO21/index.m3u8
-#EXTINF:-1 tvg-id="第九集" tvg-name="第九集" tvg-logo="https://live.fanmingming.com/tv/第九集.png" group-title="🐯时光与他｜恰是正好",第九集
-https://bfikuncdn.com/20221227/87KKhuHe/index.m3u8
-#EXTINF:-1 tvg-id="第十集" tvg-name="第十集" tvg-logo="https://live.fanmingming.com/tv/第十集.png" group-title="🐯时光与他｜恰是正好",第十集
-https://bfikuncdn.com/20221227/pGLpnrvM/index.m3u8
-#EXTINF:-1 tvg-id="第十一集" tvg-name="第十一集" tvg-logo="https://live.fanmingming.com/tv/第十一集.png" group-title="🐯时光与他｜恰是正好",第十一集
-https://bfikuncdn.com/20221228/RdTZ5ZcV/index.m3u8
-#EXTINF:-1 tvg-id="第十二集" tvg-name="第十二集" tvg-logo="https://live.fanmingming.com/tv/第十二集.png" group-title="🐯时光与他｜恰是正好",第十二集
-https://bfikuncdn.com/20221228/8IqQCofw/index.m3u8
-#EXTINF:-1 tvg-id="第十三集" tvg-name="第十三集" tvg-logo="https://live.fanmingming.com/tv/第十三集.png" group-title="🐯时光与他｜恰是正好",第十三集
-https://bfikuncdn.com/20230101/gTEAz47T/index.m3u8
-#EXTINF:-1 tvg-id="第十四集" tvg-name="第十四集" tvg-logo="https://live.fanmingming.com/tv/第十四集.png" group-title="🐯时光与他｜恰是正好",第十四集
-https://bfikuncdn.com/20230101/UVVhTJSr/index.m3u8
-#EXTINF:-1 tvg-id="第十五集" tvg-name="第十五集" tvg-logo="https://live.fanmingming.com/tv/第十五集.png" group-title="🐯时光与他｜恰是正好",第十五集
-https://bfikuncdn.com/20230102/OyqVR1Mt/index.m3u8
-#EXTINF:-1 tvg-id="第十六集" tvg-name="第十六集" tvg-logo="https://live.fanmingming.com/tv/第十六集.png" group-title="🐯时光与他｜恰是正好",第十六集
-https://bfikuncdn.com/20230102/QR7ACLfp/index.m3u8
-#EXTINF:-1 tvg-id="第十七集" tvg-name="第十七集" tvg-logo="https://live.fanmingming.com/tv/第十七集.png" group-title="🐯时光与他｜恰是正好",第十七集
-https://bfikuncdn.com/20230103/hNBIF8gj/index.m3u8
-#EXTINF:-1 tvg-id="第十八集" tvg-name="第十八集" tvg-logo="https://live.fanmingming.com/tv/第十八集.png" group-title="🐯时光与他｜恰是正好",第十八集
-https://bfikuncdn.com/20230103/XGhyVhFI/index.m3u8
-#EXTINF:-1 tvg-id="第十九集" tvg-name="第十九集" tvg-logo="https://live.fanmingming.com/tv/第十九集.png" group-title="🐯时光与他｜恰是正好",第十九集
-https://bfikuncdn.com/20230108/G9dWOdFB/index.m3u8
-#EXTINF:-1 tvg-id="第二十集" tvg-name="第二十集" tvg-logo="https://live.fanmingming.com/tv/第二十集.png" group-title="🐯时光与他｜恰是正好",第二十集
-https://bfikuncdn.com/20230108/n3upQyHG/index.m3u8
-#EXTINF:-1 tvg-id="第二十一集" tvg-name="第二十一集" tvg-logo="https://live.fanmingming.com/tv/第二十一集.png" group-title="🐯时光与他｜恰是正好",第二十一集
-https://bfikuncdn.com/20230109/zGHploGL/index.m3u8
-#EXTINF:-1 tvg-id="第二十二集" tvg-name="第二十二集" tvg-logo="https://live.fanmingming.com/tv/第二十二集.png" group-title="🐯时光与他｜恰是正好",第二十二集
-https://bfikuncdn.com/20230109/bXKduXqb/index.m3u8
-#EXTINF:-1 tvg-id="第二十三集" tvg-name="第二十三集" tvg-logo="https://live.fanmingming.com/tv/第二十三集.png" group-title="🐯时光与他｜恰是正好",第二十三集
-https://bfikuncdn.com/20230110/jZ23WnNs/index.m3u8
-#EXTINF:-1 tvg-id="第二十四集" tvg-name="第二十四集" tvg-logo="https://live.fanmingming.com/tv/第二十四集.png" group-title="🐯时光与他｜恰是正好",第二十四集
-https://bfikuncdn.com/20230110/ok7l1XHZ/index.m3u8
-#EXTINF:-1 tvg-id="第二十五集" tvg-name="第二十五集" tvg-logo="https://live.fanmingming.com/tv/第二十五集.png" group-title="🐯时光与他｜恰是正好",第二十五集
-https://bfikuncdn.com/20230111/briM7MD1/index.m3u8
-#EXTINF:-1 tvg-id="第一集" tvg-name="第一集" tvg-logo="https://live.fanmingming.com/tv/第一集.png" group-title="🐯你比星光｜美丽",第一集
-https://bfikuncdn.com/20240702/H6ISZJ00/index.m3u8
-#EXTINF:-1 tvg-id="第二集" tvg-name="第二集" tvg-logo="https://live.fanmingming.com/tv/第二集.png" group-title="🐯你比星光｜美丽",第二集
-https://bfikuncdn.com/20240702/RHPGIoSX/index.m3u8
-#EXTINF:-1 tvg-id="第三集" tvg-name="第三集" tvg-logo="https://live.fanmingming.com/tv/第三集.png" group-title="🐯你比星光｜美丽",第三集
-https://bfikuncdn.com/20240702/xLNMdveh/index.m3u8
-#EXTINF:-1 tvg-id="第四集" tvg-name="第四集" tvg-logo="https://live.fanmingming.com/tv/第四集.png" group-title="🐯你比星光｜美丽",第四集
-https://bfikuncdn.com/20240702/Vedn5qZw/index.m3u8
-#EXTINF:-1 tvg-id="第五集" tvg-name="第五集" tvg-logo="https://live.fanmingming.com/tv/第五集.png" group-title="🐯你比星光｜美丽",第五集
-https://bfikuncdn.com/20240703/rLw2D99p/index.m3u8
-#EXTINF:-1 tvg-id="第六集" tvg-name="第六集" tvg-logo="https://live.fanmingming.com/tv/第六集.png" group-title="🐯你比星光｜美丽",第六集
-https://bfikuncdn.com/20240703/mO0nd6YX/index.m3u8
-#EXTINF:-1 tvg-id="第七集" tvg-name="第七集" tvg-logo="https://live.fanmingming.com/tv/第七集.png" group-title="🐯你比星光｜美丽",第七集
-https://bfikuncdn.com/20240704/5iJR1lCH/index.m3u8
-#EXTINF:-1 tvg-id="第八集" tvg-name="第八集" tvg-logo="https://live.fanmingming.com/tv/第八集.png" group-title="🐯你比星光｜美丽",第八集
-https://bfikuncdn.com/20240704/P93Jwxu5/index.m3u8
-#EXTINF:-1 tvg-id="第九集" tvg-name="第九集" tvg-logo="https://live.fanmingming.com/tv/第九集.png" group-title="🐯你比星光｜美丽",第九集
-https://bfikuncdn.com/20240705/j0605Jxt/index.m3u8
-#EXTINF:-1 tvg-id="第十集" tvg-name="第十集" tvg-logo="https://live.fanmingming.com/tv/第十集.png" group-title="🐯你比星光｜美丽",第十集
-https://bfikuncdn.com/20240706/LcKAfxkp/index.m3u8
-#EXTINF:-1 tvg-id="第十一集" tvg-name="第十一集" tvg-logo="https://live.fanmingming.com/tv/第十一集.png" group-title="🐯你比星光｜美丽",第十一集
-https://bfikuncdn.com/20240707/XbVDY762/index.m3u8
-#EXTINF:-1 tvg-id="第十二集" tvg-name="第十二集" tvg-logo="https://live.fanmingming.com/tv/第十二集.png" group-title="🐯你比星光｜美丽",第十二集
-https://bfikuncdn.com/20240708/SQDksG3r/index.m3u8
-#EXTINF:-1 tvg-id="第十三集" tvg-name="第十三集" tvg-logo="https://live.fanmingming.com/tv/第十三集.png" group-title="🐯你比星光｜美丽",第十三集
-https://bfikuncdn.com/20240708/hnjYOGM9/index.m3u8
-#EXTINF:-1 tvg-id="第十四集" tvg-name="第十四集" tvg-logo="https://live.fanmingming.com/tv/第十四集.png" group-title="🐯你比星光｜美丽",第十四集
-https://bfikuncdn.com/20240709/kpXUgC4F/index.m3u8
-#EXTINF:-1 tvg-id="第十五集" tvg-name="第十五集" tvg-logo="https://live.fanmingming.com/tv/第十五集.png" group-title="🐯你比星光｜美丽",第十五集
-https://bfikuncdn.com/20240709/f0Jhfr6Z/index.m3u8
-#EXTINF:-1 tvg-id="第十六集" tvg-name="第十六集" tvg-logo="https://live.fanmingming.com/tv/第十六集.png" group-title="🐯你比星光｜美丽",第十六集
-https://bfikuncdn.com/20240710/4FZ9Ld7G/index.m3u8
-#EXTINF:-1 tvg-id="第十七集" tvg-name="第十七集" tvg-logo="https://live.fanmingming.com/tv/第十七集.png" group-title="🐯你比星光｜美丽",第十七集
-https://bfikuncdn.com/20240710/TjnKyauO/index.m3u8
-#EXTINF:-1 tvg-id="第十八集" tvg-name="第十八集" tvg-logo="https://live.fanmingming.com/tv/第十八集.png" group-title="🐯你比星光｜美丽",第十八集
-https://bfikuncdn.com/20240711/uYpOpABO/index.m3u8
-#EXTINF:-1 tvg-id="第十九集" tvg-name="第十九集" tvg-logo="https://live.fanmingming.com/tv/第十九集.png" group-title="🐯你比星光｜美丽",第十九集
-https://bfikuncdn.com/20240711/Xrv2M2IY/index.m3u8
-#EXTINF:-1 tvg-id="第二十集" tvg-name="第二十集" tvg-logo="https://live.fanmingming.com/tv/第二十集.png" group-title="🐯你比星光｜美丽",第二十集
-https://bfikuncdn.com/20240712/pXhiPrSY/index.m3u8
-#EXTINF:-1 tvg-id="第二十一集" tvg-name="第二十一集" tvg-logo="https://live.fanmingming.com/tv/第二十一集.png" group-title="🐯你比星光｜美丽",第二十一集
-https://bfikuncdn.com/20240713/ZijKIsTT/index.m3u8
-#EXTINF:-1 tvg-id="第二十二集" tvg-name="第二十二集" tvg-logo="https://live.fanmingming.com/tv/第二十二集.png" group-title="🐯你比星光｜美丽",第二十二集
-https://bfikuncdn.com/20240714/rSsuc8f7/index.m3u8
-#EXTINF:-1 tvg-id="第二十三集" tvg-name="第二十三集" tvg-logo="https://live.fanmingming.com/tv/第二十三集.png" group-title="🐯你比星光｜美丽",第二十三集
-https://bfikuncdn.com/20240715/UHQ7tmth/index.m3u8
-#EXTINF:-1 tvg-id="第二十四集" tvg-name="第二十四集" tvg-logo="https://live.fanmingming.com/tv/第二十四集.png" group-title="🐯你比星光｜美丽",第二十四集
-https://bfikuncdn.com/20240715/6VTcXgjF/index.m3u8
-#EXTINF:-1 tvg-id="第二十五集" tvg-name="第二十五集" tvg-logo="https://live.fanmingming.com/tv/第二十五集.png" group-title="🐯你比星光｜美丽",第二十五集
-https://bfikuncdn.com/20240716/uv3wckHu/index.m3u8
-#EXTINF:-1 tvg-id="第二十六集" tvg-name="第二十六集" tvg-logo="https://live.fanmingming.com/tv/第二十六集.png" group-title="🐯你比星光｜美丽",第二十六集
-https://bfikuncdn.com/20240716/CvNhEnaG/index.m3u8
-#EXTINF:-1 tvg-id="第二十七集" tvg-name="第二十七集" tvg-logo="https://live.fanmingming.com/tv/第二十七集.png" group-title="🐯你比星光｜美丽",第二十七集
-https://bfikuncdn.com/20240717/LKYTB5ig/index.m3u8
-#EXTINF:-1 tvg-id="第二十八集" tvg-name="第二十八集" tvg-logo="https://live.fanmingming.com/tv/第二十八集.png" group-title="🐯你比星光｜美丽",第二十八集
-https://bfikuncdn.com/20240717/wv3I5K05/index.m3u8
-#EXTINF:-1 tvg-id="第二十九集" tvg-name="第二十九集" tvg-logo="https://live.fanmingming.com/tv/第二十九集.png" group-title="🐯你比星光｜美丽",第二十九集
-https://bfikuncdn.com/20240718/8FTFk3f9/index.m3u8
-#EXTINF:-1 tvg-id="第三十集" tvg-name="第三十集" tvg-logo="https://live.fanmingming.com/tv/第三十集.png" group-title="🐯你比星光｜美丽",第三十集
-https://bfikuncdn.com/20240718/MFYFpS0E/index.m3u8
-#EXTINF:-1 tvg-id="第三十一集" tvg-name="第三十一集" tvg-logo="https://live.fanmingming.com/tv/第三十一集.png" group-title="🐯你比星光｜美丽",第三十一集
-https://bfikuncdn.com/20240719/9XBrVzdX/index.m3u8
-#EXTINF:-1 tvg-id="第三十二集" tvg-name="第三十二集" tvg-logo="https://live.fanmingming.com/tv/第三十二集.png" group-title="🐯你比星光｜美丽",第三十二集
-https://bfikuncdn.com/20240720/liSatc9k/index.m3u8
-#EXTINF:-1 tvg-id="第三十三集" tvg-name="第三十三集" tvg-logo="https://live.fanmingming.com/tv/第三十三集.png" group-title="🐯你比星光｜美丽",第三十三集
-https://bfikuncdn.com/20240721/qkKAS6Gu/index.m3u8
-#EXTINF:-1 tvg-id="第三十四集" tvg-name="第三十四集" tvg-logo="https://live.fanmingming.com/tv/第三十四集.png" group-title="🐯你比星光｜美丽",第三十四集
-https://bfikuncdn.com/20240722/K2WHcxwf/index.m3u8
-#EXTINF:-1 tvg-id="第三十五集" tvg-name="第三十五集" tvg-logo="https://live.fanmingming.com/tv/第三十五集.png" group-title="🐯你比星光｜美丽",第三十五集
-https://bfikuncdn.com/20240723/VS0T8K8U/index.m3u8
-#EXTINF:-1 tvg-id="第三十六集" tvg-name="第三十六集" tvg-logo="https://live.fanmingming.com/tv/第三十六集.png" group-title="🐯你比星光｜美丽",第三十六集
-https://bfikuncdn.com/20240723/AVzkkIV5/index.m3u8
-#EXTINF:-1 tvg-id="第三十七集" tvg-name="第三十七集" tvg-logo="https://live.fanmingming.com/tv/第三十七集.png" group-title="🐯你比星光｜美丽",第三十七集
-https://bfikuncdn.com/20240723/dC01PLfx/index.m3u8
-#EXTINF:-1 tvg-id="第三十八集" tvg-name="第三十八集" tvg-logo="https://live.fanmingming.com/tv/第三十八集.png" group-title="🐯你比星光｜美丽",第三十八集
-https://bfikuncdn.com/20240723/W28fS357/index.m3u8
-#EXTINF:-1 tvg-id="第三十九集" tvg-name="第三十九集" tvg-logo="https://live.fanmingming.com/tv/第三十九集.png" group-title="🐯你比星光｜美丽",第三十九集
-https://bfikuncdn.com/20240723/kr6WwPlC/index.m3u8
-#EXTINF:-1 tvg-id="第四十集" tvg-name="第四十集" tvg-logo="https://live.fanmingming.com/tv/第四十集.png" group-title="🐯你比星光｜美丽",第四十集
-https://bfikuncdn.com/20240723/M9bExo7l/index.m3u8
 #EXTINF:-1 tvg-id="画皮情灭" tvg-name="画皮情灭" tvg-logo="https://live.fanmingming.com/tv/画皮情灭.png" group-title="🐯熊猫｜经典",画皮情灭
 https://bfikuncdn.com/20240425/6haBOLUM/index.m3u8
 #EXTINF:-1 tvg-id="金风玉露①" tvg-name="金风玉露①" tvg-logo="https://live.fanmingming.com/tv/金风玉露①.png" group-title="🐯熊猫｜经典",金风玉露①
@@ -488,11 +104,11 @@ https://ali.hlspull.yximgs.com/live/11077536.flv
 #EXTINF:-1 tvg-id="无线Popc台" tvg-name="无线Popc台" tvg-logo="https://live.fanmingming.com/tv/无线Popc台.png" group-title="🐯熊猫｜经典",无线Popc台
 P2p://generationnexxxt.com:19806/3ae0f859370b4f17baec42495be6f043
 #EXTINF:-1 tvg-id="香港功夫台" tvg-name="香港功夫台" tvg-logo="https://live.fanmingming.com/tv/香港功夫台.png" group-title="🐯熊猫｜经典",香港功夫台
-http://huanqiuzhibo.cn/manifest/douyu.php?id=9548850
+http://159.75.85.63/35455/douyu/9548850
 #EXTINF:-1 tvg-id="龙腾经典台" tvg-name="龙腾经典台" tvg-logo="https://live.fanmingming.com/tv/龙腾经典台.png" group-title="🐯熊猫｜经典",龙腾经典台
 https://ali.hlspull.yximgs.com/live/lgtv93858.flv
 #EXTINF:-1 tvg-id="邵氏影院" tvg-name="邵氏影院" tvg-logo="https://live.fanmingming.com/tv/邵氏影院.png" group-title="🐯熊猫｜经典",邵氏影院
-http://maomao.kandiantv.cn/douyu1.php?id=4246519
+http://159.75.85.63:35455/douyu/4246519
 #EXTINF:-1 tvg-id="1905电影(亚洲)" tvg-name="1905电影(亚洲)" tvg-logo="https://live.fanmingming.com/tv/1905电影(亚洲).png" group-title="🐯熊猫｜经典",1905电影(亚洲)
 http://xxw.me0.cn/1905dy.php?id=1905a#http://xxw.me0.cn/1905dy.php?id=1905a
 #EXTINF:-1 tvg-id="邵氏影院" tvg-name="邵氏影院" tvg-logo="https://live.fanmingming.com/tv/邵氏影院.png" group-title="🐯熊猫｜经典",邵氏影院
@@ -5077,126 +4693,112 @@ http://tw.ts138.top/4g/?id=litv-longturn19
 http://tw.ts138.top/4g/?id=4gtv-4gtv016
 #EXTINF:-1 tvg-id="TRACEU频道" tvg-name="TRACEU频道" tvg-logo="https://live.fanmingming.com/tv/TRACEU频道.png" group-title="🐯暮雨｜稳定",TRACEU频道
 http://tw.ts138.top/4g/?id=4gtv-4gtv082
-#EXTINF:-1 tvg-id="凤凰卫视频国" tvg-name="凤凰卫视频国" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视频国.png" group-title="🐯暮雨｜推流①",凤凰卫视频国
-http://154.9.232.236:80/mlTW22288.php?id=phoenixtv_hd
-#EXTINF:-1 tvg-id="凤凰资讯频国" tvg-name="凤凰资讯频国" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯频国.png" group-title="🐯暮雨｜推流①",凤凰资讯频国
-http://154.9.232.236:80/mlTW22288.php?id=phoenixinfo_hd
-#EXTINF:-1 tvg-id="凤凰香港频国" tvg-name="凤凰香港频国" tvg-logo="https://live.fanmingming.com/tv/凤凰香港频国.png" group-title="🐯暮雨｜推流①",凤凰香港频国
-http://154.9.232.236:80/mlTW22288.php?id=hkphoenix_twn
-#EXTINF:-1 tvg-id="中天新闻频国" tvg-name="中天新闻频国" tvg-logo="https://live.fanmingming.com/tv/中天新闻频国.png" group-title="🐯暮雨｜推流①",中天新闻频国
-http://154.9.232.236:80/mlTW22288.php?id=ctinews
-#EXTINF:-1 tvg-id="广东珠江频粤" tvg-name="广东珠江频粤" tvg-logo="https://live.fanmingming.com/tv/广东珠江频粤.png" group-title="🐯暮雨｜推流①",广东珠江频粤
-http://154.9.232.236:80/mlTW22288.php?id=zhujiang
-#EXTINF:-1 tvg-id="有线新闻频粤" tvg-name="有线新闻频粤" tvg-logo="https://live.fanmingming.com/tv/有线新闻频粤.png" group-title="🐯暮雨｜推流①",有线新闻频粤
-http://154.9.232.236:80/mlTW22288.php?id=hoycaijing_twn
-#EXTINF:-1 tvg-id="无线新闻频粤" tvg-name="无线新闻频粤" tvg-logo="https://live.fanmingming.com/tv/无线新闻频粤.png" group-title="🐯暮雨｜推流①",无线新闻频粤
-http://154.9.232.236:80/mlTW22288.php?id=inews_twn
-#EXTINF:-1 tvg-id="无线翡翠频粤" tvg-name="无线翡翠频粤" tvg-logo="https://live.fanmingming.com/tv/无线翡翠频粤.png" group-title="🐯暮雨｜推流①",无线翡翠频粤
-http://154.9.232.236:80/mlTW22288.php?id=jade_twn
-#EXTINF:-1 tvg-id="无线华丽频粤" tvg-name="无线华丽频粤" tvg-logo="https://live.fanmingming.com/tv/无线华丽频粤.png" group-title="🐯暮雨｜推流①",无线华丽频粤
-http://154.9.232.236:80/mlTW22288.php?id=Wlt
-#EXTINF:-1 tvg-id="无线华丽频国" tvg-name="无线华丽频国" tvg-logo="https://live.fanmingming.com/tv/无线华丽频国.png" group-title="🐯暮雨｜推流①",无线华丽频国
-http://154.9.232.236:80/mlTW22288.php?id=Tvbjade
-#EXTINF:-1 tvg-id="无线明珠频粤" tvg-name="无线明珠频粤" tvg-logo="https://live.fanmingming.com/tv/无线明珠频粤.png" group-title="🐯暮雨｜推流①",无线明珠频粤
-http://154.9.232.236:80/mlTW22288.php?id=pearl_twn
-#EXTINF:-1 tvg-id="无线娱乐频粤" tvg-name="无线娱乐频粤" tvg-logo="https://live.fanmingming.com/tv/无线娱乐频粤.png" group-title="🐯暮雨｜推流①",无线娱乐频粤
-http://154.9.232.236:80/mlTW22288.php?id=Tvbentertainment
-#EXTINF:-1 tvg-id="无线星河频粤" tvg-name="无线星河频粤" tvg-logo="https://live.fanmingming.com/tv/无线星河频粤.png" group-title="🐯暮雨｜推流①",无线星河频粤
-http://154.9.232.236:80/mlTW22288.php?id=Xinhe
-#EXTINF:-1 tvg-id="千禧经典频粤" tvg-name="千禧经典频粤" tvg-logo="https://live.fanmingming.com/tv/千禧经典频粤.png" group-title="🐯暮雨｜推流①",千禧经典频粤
-http://154.9.232.236:80/mlTW22288.php?id=Tvbclassic
-#EXTINF:-1 tvg-id="Plus无线频粤" tvg-name="Plus无线频粤" tvg-logo="https://live.fanmingming.com/tv/Plus无线频粤.png" group-title="🐯暮雨｜推流①",Plus无线频粤
-http://154.9.232.236:80/mlTW22288.php?id=j2_twn
-#EXTINF:-1 tvg-id="VIUTV粤频道" tvg-name="VIUTV粤频道" tvg-logo="https://live.fanmingming.com/tv/VIUTV粤频道.png" group-title="🐯暮雨｜推流①",VIUTV粤频道
-http://154.9.232.236:80/mlTW22288.php?id=viu1_twn
-#EXTINF:-1 tvg-id="VIUTV英频道" tvg-name="VIUTV英频道" tvg-logo="https://live.fanmingming.com/tv/VIUTV英频道.png" group-title="🐯暮雨｜推流①",VIUTV英频道
-http://154.9.232.236:80/mlTW22288.php?id=viusix_twn
-#EXTINF:-1 tvg-id="RTHK-31频粤" tvg-name="RTHK-31频粤" tvg-logo="https://live.fanmingming.com/tv/RTHK-31频粤.png" group-title="🐯暮雨｜推流①",RTHK-31频粤
-http://154.9.232.236:80/mlTW22288.php?id=rhk31_twn
-#EXTINF:-1 tvg-id="RTHK-32频粤" tvg-name="RTHK-32频粤" tvg-logo="https://live.fanmingming.com/tv/RTHK-32频粤.png" group-title="🐯暮雨｜推流①",RTHK-32频粤
-http://154.9.232.236:80/mlTW22288.php?id=rhk32_twn
-#EXTINF:-1 tvg-id="美亚电影频闽" tvg-name="美亚电影频闽" tvg-logo="https://live.fanmingming.com/tv/美亚电影频闽.png" group-title="🐯暮雨｜推流①",美亚电影频闽
-http://154.9.232.236:80/mlTW22288.php?id=meiyamovie_twn
-#EXTINF:-1 tvg-id="天映频道马国" tvg-name="天映频道马国" tvg-logo="https://live.fanmingming.com/tv/天映频道马国.png" group-title="🐯暮雨｜推流①",天映频道马国
-http://154.9.232.236:80/mlTW22288.php?id=Celestialindo
-#EXTINF:-1 tvg-id="天映频道闽国" tvg-name="天映频道闽国" tvg-logo="https://live.fanmingming.com/tv/天映频道闽国.png" group-title="🐯暮雨｜推流①",天映频道闽国
-http://154.9.232.236:80/mlTW22288.php?id=Celestial
-#EXTINF:-1 tvg-id="天映经典频国" tvg-name="天映经典频国" tvg-logo="https://live.fanmingming.com/tv/天映经典频国.png" group-title="🐯暮雨｜推流①",天映经典频国
-http://154.9.232.236:80/mlTW22288.php?id=Celestial2
-#EXTINF:-1 tvg-id="龙华电影频国" tvg-name="龙华电影频国" tvg-logo="https://live.fanmingming.com/tv/龙华电影频国.png" group-title="🐯暮雨｜推流①",龙华电影频国
-http://154.9.232.236:80/mlTW22288.php?id=xingwei_movie
-#EXTINF:-1 tvg-id="龙祥电影频国" tvg-name="龙祥电影频国" tvg-logo="https://live.fanmingming.com/tv/龙祥电影频国.png" group-title="🐯暮雨｜推流①",龙祥电影频国
-http://154.9.232.236:80/mlTW22288.php?id=lungxiangtime_twn
-#EXTINF:-1 tvg-id="纬来电影频国" tvg-name="纬来电影频国" tvg-logo="https://live.fanmingming.com/tv/纬来电影频国.png" group-title="🐯暮雨｜推流①",纬来电影频国
-http://154.9.232.236:80/mlTW22288.php?id=videolandmovie
-#EXTINF:-1 tvg-id="东森电影频国" tvg-name="东森电影频国" tvg-logo="https://live.fanmingming.com/tv/东森电影频国.png" group-title="🐯暮雨｜推流①",东森电影频国
-http://154.9.232.236:80/mlTW22288.php?id=ettvmovie
-#EXTINF:-1 tvg-id="Astr爱奇艺国" tvg-name="Astr爱奇艺国" tvg-logo="https://live.fanmingming.com/tv/Astr爱奇艺国.png" group-title="🐯暮雨｜推流①",Astr爱奇艺国
-http://154.9.232.236:80/mlTW22288.php?id=Qiyi
-#EXTINF:-1 tvg-id="AstrQJ频道国" tvg-name="AstrQJ频道国" tvg-logo="https://live.fanmingming.com/tv/AstrQJ频道国.png" group-title="🐯暮雨｜推流①",AstrQJ频道国
-http://154.9.232.236:80/mlTW22288.php?id=Quanjia
-#EXTINF:-1 tvg-id="Astr欢喜频国" tvg-name="Astr欢喜频国" tvg-logo="https://live.fanmingming.com/tv/Astr欢喜频国.png" group-title="🐯暮雨｜推流①",Astr欢喜频国
-http://154.9.232.236:80/mlTW22288.php?id=Huahee
-#EXTINF:-1 tvg-id="凤凰卫视频国" tvg-name="凤凰卫视频国" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视频国.png" group-title="🐯暮雨｜推流①",凤凰卫视频国
-http://23.224.239.148/mlTW5668.php?id=phoenixtv_hd
-#EXTINF:-1 tvg-id="凤凰资讯频国" tvg-name="凤凰资讯频国" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯频国.png" group-title="🐯暮雨｜推流①",凤凰资讯频国
-http://23.224.239.148/mlTW5668.php?id=phoenixinfo_hd
-#EXTINF:-1 tvg-id="凤凰香港频国" tvg-name="凤凰香港频国" tvg-logo="https://live.fanmingming.com/tv/凤凰香港频国.png" group-title="🐯暮雨｜推流①",凤凰香港频国
-http://23.224.239.148/mlTW5668.php?id=hkphoenix_twn
-#EXTINF:-1 tvg-id="中天新闻频国" tvg-name="中天新闻频国" tvg-logo="https://live.fanmingming.com/tv/中天新闻频国.png" group-title="🐯暮雨｜推流①",中天新闻频国
-http://23.224.239.148/mlTW5668.php?id=ctinews
-#EXTINF:-1 tvg-id="广东珠江频粤" tvg-name="广东珠江频粤" tvg-logo="https://live.fanmingming.com/tv/广东珠江频粤.png" group-title="🐯暮雨｜推流①",广东珠江频粤
-http://23.224.239.148/mlTW5668.php?id=zhujiang
-#EXTINF:-1 tvg-id="有线新闻频粤" tvg-name="有线新闻频粤" tvg-logo="https://live.fanmingming.com/tv/有线新闻频粤.png" group-title="🐯暮雨｜推流①",有线新闻频粤
-http://23.224.239.148/mlTW5668.php?id=hoycaijing_twn
-#EXTINF:-1 tvg-id="无线新闻频粤" tvg-name="无线新闻频粤" tvg-logo="https://live.fanmingming.com/tv/无线新闻频粤.png" group-title="🐯暮雨｜推流①",无线新闻频粤
-http://23.224.239.148/mlTW5668.php?id=inews_twn
-#EXTINF:-1 tvg-id="无线翡翠频粤" tvg-name="无线翡翠频粤" tvg-logo="https://live.fanmingming.com/tv/无线翡翠频粤.png" group-title="🐯暮雨｜推流①",无线翡翠频粤
-http://23.224.239.148/mlTW5668.php?id=jade_twn
-#EXTINF:-1 tvg-id="无线华丽频粤" tvg-name="无线华丽频粤" tvg-logo="https://live.fanmingming.com/tv/无线华丽频粤.png" group-title="🐯暮雨｜推流①",无线华丽频粤
-http://23.224.239.148/mlTW5668.php?id=Wlt
-#EXTINF:-1 tvg-id="无线华丽频国" tvg-name="无线华丽频国" tvg-logo="https://live.fanmingming.com/tv/无线华丽频国.png" group-title="🐯暮雨｜推流①",无线华丽频国
-http://23.224.239.148/mlTW5668.php?id=Tvbjade
-#EXTINF:-1 tvg-id="无线明珠频粤" tvg-name="无线明珠频粤" tvg-logo="https://live.fanmingming.com/tv/无线明珠频粤.png" group-title="🐯暮雨｜推流①",无线明珠频粤
-http://23.224.239.148/mlTW5668.php?id=pearl_twn
-#EXTINF:-1 tvg-id="无线娱乐频粤" tvg-name="无线娱乐频粤" tvg-logo="https://live.fanmingming.com/tv/无线娱乐频粤.png" group-title="🐯暮雨｜推流①",无线娱乐频粤
-http://23.224.239.148/mlTW5668.php?id=Tvbentertainment
-#EXTINF:-1 tvg-id="无线星河频粤" tvg-name="无线星河频粤" tvg-logo="https://live.fanmingming.com/tv/无线星河频粤.png" group-title="🐯暮雨｜推流①",无线星河频粤
-http://23.224.239.148/mlTW5668.php?id=Xinhe
-#EXTINF:-1 tvg-id="千禧经典频粤" tvg-name="千禧经典频粤" tvg-logo="https://live.fanmingming.com/tv/千禧经典频粤.png" group-title="🐯暮雨｜推流①",千禧经典频粤
-http://23.224.239.148/mlTW5668.php?id=Tvbclassic
-#EXTINF:-1 tvg-id="Plus无线频粤" tvg-name="Plus无线频粤" tvg-logo="https://live.fanmingming.com/tv/Plus无线频粤.png" group-title="🐯暮雨｜推流①",Plus无线频粤
-http://23.224.239.148/mlTW5668.php?id=j2_twn
-#EXTINF:-1 tvg-id="VIUTV粤频道" tvg-name="VIUTV粤频道" tvg-logo="https://live.fanmingming.com/tv/VIUTV粤频道.png" group-title="🐯暮雨｜推流①",VIUTV粤频道
-http://23.224.239.148/mlTW5668.php?id=viu1_twn
-#EXTINF:-1 tvg-id="VIUTV英频道" tvg-name="VIUTV英频道" tvg-logo="https://live.fanmingming.com/tv/VIUTV英频道.png" group-title="🐯暮雨｜推流①",VIUTV英频道
-http://23.224.239.148/mlTW5668.php?id=viusix_twn
-#EXTINF:-1 tvg-id="RTHK-31频粤" tvg-name="RTHK-31频粤" tvg-logo="https://live.fanmingming.com/tv/RTHK-31频粤.png" group-title="🐯暮雨｜推流①",RTHK-31频粤
-http://23.224.239.148/mlTW5668.php?id=rhk31_twn
-#EXTINF:-1 tvg-id="RTHK-32频粤" tvg-name="RTHK-32频粤" tvg-logo="https://live.fanmingming.com/tv/RTHK-32频粤.png" group-title="🐯暮雨｜推流①",RTHK-32频粤
-http://23.224.239.148/mlTW5668.php?id=rhk32_twn
-#EXTINF:-1 tvg-id="美亚电影频闽" tvg-name="美亚电影频闽" tvg-logo="https://live.fanmingming.com/tv/美亚电影频闽.png" group-title="🐯暮雨｜推流①",美亚电影频闽
-http://23.224.239.148/mlTW5668.php?id=meiyamovie_twn
-#EXTINF:-1 tvg-id="天映频道马国" tvg-name="天映频道马国" tvg-logo="https://live.fanmingming.com/tv/天映频道马国.png" group-title="🐯暮雨｜推流①",天映频道马国
-http://23.224.239.148/mlTW5668.php?id=Celestialindo
-#EXTINF:-1 tvg-id="天映频道闽国" tvg-name="天映频道闽国" tvg-logo="https://live.fanmingming.com/tv/天映频道闽国.png" group-title="🐯暮雨｜推流①",天映频道闽国
-http://23.224.239.148/mlTW5668.php?id=Celestial
-#EXTINF:-1 tvg-id="天映经典频国" tvg-name="天映经典频国" tvg-logo="https://live.fanmingming.com/tv/天映经典频国.png" group-title="🐯暮雨｜推流①",天映经典频国
-http://23.224.239.148/mlTW5668.php?id=Celestial2
-#EXTINF:-1 tvg-id="龙华电影频国" tvg-name="龙华电影频国" tvg-logo="https://live.fanmingming.com/tv/龙华电影频国.png" group-title="🐯暮雨｜推流①",龙华电影频国
-http://23.224.239.148/mlTW5668.php?id=xingwei_movie
-#EXTINF:-1 tvg-id="龙祥电影频国" tvg-name="龙祥电影频国" tvg-logo="https://live.fanmingming.com/tv/龙祥电影频国.png" group-title="🐯暮雨｜推流①",龙祥电影频国
-http://23.224.239.148/mlTW5668.php?id=lungxiangtime_twn
-#EXTINF:-1 tvg-id="纬来电影频国" tvg-name="纬来电影频国" tvg-logo="https://live.fanmingming.com/tv/纬来电影频国.png" group-title="🐯暮雨｜推流①",纬来电影频国
-http://23.224.239.148/mlTW5668.php?id=videolandmovie
-#EXTINF:-1 tvg-id="东森电影频国" tvg-name="东森电影频国" tvg-logo="https://live.fanmingming.com/tv/东森电影频国.png" group-title="🐯暮雨｜推流①",东森电影频国
-http://23.224.239.148/mlTW5668.php?id=ettvmovie
-#EXTINF:-1 tvg-id="Astr爱奇艺国" tvg-name="Astr爱奇艺国" tvg-logo="https://live.fanmingming.com/tv/Astr爱奇艺国.png" group-title="🐯暮雨｜推流①",Astr爱奇艺国
-http://23.224.239.148/mlTW5668.php?id=Qiyi
-#EXTINF:-1 tvg-id="AstrQJ频道国" tvg-name="AstrQJ频道国" tvg-logo="https://live.fanmingming.com/tv/AstrQJ频道国.png" group-title="🐯暮雨｜推流①",AstrQJ频道国
-http://23.224.239.148/mlTW5668.php?id=Quanjia
-#EXTINF:-1 tvg-id="Astr欢喜频国" tvg-name="Astr欢喜频国" tvg-logo="https://live.fanmingming.com/tv/Astr欢喜频国.png" group-title="🐯暮雨｜推流①",Astr欢喜频国
-http://23.224.239.148/mlTW5668.php?id=Huahee
+#EXTINF:-1 tvg-id="中天新闻频道" tvg-name="中天新闻频道" tvg-logo="https://live.fanmingming.com/tv/中天新闻频道.png" group-title="🐯暮雨｜推流①",中天新闻频道
+https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e669aa3
+#EXTINF:-1 tvg-id="东森新闻频道" tvg-name="东森新闻频道" tvg-logo="https://live.fanmingming.com/tv/东森新闻频道.png" group-title="🐯暮雨｜推流①",东森新闻频道
+https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e609ca2
+#EXTINF:-1 tvg-id="tvbs新闻频道" tvg-name="tvbs新闻频道" tvg-logo="https://live.fanmingming.com/tv/tvbs新闻频道.png" group-title="🐯暮雨｜推流①",tvbs新闻频道
+https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e6098a4
+#EXTINF:-1 tvg-id="寰宇新闻频道" tvg-name="寰宇新闻频道" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻频道.png" group-title="🐯暮雨｜推流①",寰宇新闻频道
+https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e629fa4
+#EXTINF:-1 tvg-id="三立新闻频道" tvg-name="三立新闻频道" tvg-logo="https://live.fanmingming.com/tv/三立新闻频道.png" group-title="🐯暮雨｜推流①",三立新闻频道
+https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e609ca0
+#EXTINF:-1 tvg-id="年代新闻频道" tvg-name="年代新闻频道" tvg-logo="https://live.fanmingming.com/tv/年代新闻频道.png" group-title="🐯暮雨｜推流①",年代新闻频道
+https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e6194a4
+#EXTINF:-1 tvg-id="闽壹新闻频道" tvg-name="闽壹新闻频道" tvg-logo="https://live.fanmingming.com/tv/闽壹新闻频道.png" group-title="🐯暮雨｜推流①",闽壹新闻频道
+https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e669aa0
+#EXTINF:-1 tvg-id="民视新闻频道" tvg-name="民视新闻频道" tvg-logo="https://live.fanmingming.com/tv/民视新闻频道.png" group-title="🐯暮雨｜推流①",民视新闻频道
+https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e629da2
+#EXTINF:-1 tvg-id="NHk新闻频道" tvg-name="NHk新闻频道" tvg-logo="https://live.fanmingming.com/tv/NHk新闻频道.png" group-title="🐯暮雨｜推流①",NHk新闻频道
+https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e609fa1
+#EXTINF:-1 tvg-id="tvbs闽南频道" tvg-name="tvbs闽南频道" tvg-logo="https://live.fanmingming.com/tv/tvbs闽南频道.png" group-title="🐯暮雨｜推流①",tvbs闽南频道
+https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e669bae
+#EXTINF:-1 tvg-id="tvbs欢乐频道" tvg-name="tvbs欢乐频道" tvg-logo="https://live.fanmingming.com/tv/tvbs欢乐频道.png" group-title="🐯暮雨｜推流①",tvbs欢乐频道
+https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e609cae
+#EXTINF:-1 tvg-id="三立闽南频道" tvg-name="三立闽南频道" tvg-logo="https://live.fanmingming.com/tv/三立闽南频道.png" group-title="🐯暮雨｜推流①",三立闽南频道
+https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e609fa7
+#EXTINF:-1 tvg-id="三立都会频道" tvg-name="三立都会频道" tvg-logo="https://live.fanmingming.com/tv/三立都会频道.png" group-title="🐯暮雨｜推流①",三立都会频道
+https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e609fa6
+#EXTINF:-1 tvg-id="中天综合频道" tvg-name="中天综合频道" tvg-logo="https://live.fanmingming.com/tv/中天综合频道.png" group-title="🐯暮雨｜推流①",中天综合频道
+https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e609fa4
+#EXTINF:-1 tvg-id="中天娱乐频道" tvg-name="中天娱乐频道" tvg-logo="https://live.fanmingming.com/tv/中天娱乐频道.png" group-title="🐯暮雨｜推流①",中天娱乐频道
+https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e609fa5
+#EXTINF:-1 tvg-id="东森财经频道" tvg-name="东森财经频道" tvg-logo="https://live.fanmingming.com/tv/东森财经频道.png" group-title="🐯暮雨｜推流①",东森财经频道
+https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e609ca1
+#EXTINF:-1 tvg-id="东森综合频道" tvg-name="东森综合频道" tvg-logo="https://live.fanmingming.com/tv/东森综合频道.png" group-title="🐯暮雨｜推流①",东森综合频道
+https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e6099a7
+#EXTINF:-1 tvg-id="东森戏剧频道" tvg-name="东森戏剧频道" tvg-logo="https://live.fanmingming.com/tv/东森戏剧频道.png" group-title="🐯暮雨｜推流①",东森戏剧频道
+https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e6099a4
+#EXTINF:-1 tvg-id="东森超视频道" tvg-name="东森超视频道" tvg-logo="https://live.fanmingming.com/tv/东森超视频道.png" group-title="🐯暮雨｜推流①",东森超视频道
+https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e6195a6
+#EXTINF:-1 tvg-id="东森幼幼频道" tvg-name="东森幼幼频道" tvg-logo="https://live.fanmingming.com/tv/东森幼幼频道.png" group-title="🐯暮雨｜推流①",东森幼幼频道
+https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e609dae
+#EXTINF:-1 tvg-id="龙华戏剧频道" tvg-name="龙华戏剧频道" tvg-logo="https://live.fanmingming.com/tv/龙华戏剧频道.png" group-title="🐯暮雨｜推流①",龙华戏剧频道
+https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e669aa7
+#EXTINF:-1 tvg-id="龙华日韩剧台" tvg-name="龙华日韩剧台" tvg-logo="https://live.fanmingming.com/tv/龙华日韩剧台.png" group-title="🐯暮雨｜推流①",龙华日韩剧台
+https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e669aa4
+#EXTINF:-1 tvg-id="龙华偶像剧台" tvg-name="龙华偶像剧台" tvg-logo="https://live.fanmingming.com/tv/龙华偶像剧台.png" group-title="🐯暮雨｜推流①",龙华偶像剧台
+https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e669aa5
+#EXTINF:-1 tvg-id="龙华卡通频道" tvg-name="龙华卡通频道" tvg-logo="https://live.fanmingming.com/tv/龙华卡通频道.png" group-title="🐯暮雨｜推流①",龙华卡通频道
+https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e669aa6
+#EXTINF:-1 tvg-id="龙华电影频道" tvg-name="龙华电影频道" tvg-logo="https://live.fanmingming.com/tv/龙华电影频道.png" group-title="🐯暮雨｜推流①",龙华电影频道
+https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e669aa1
+#EXTINF:-1 tvg-id="纬来电影频道" tvg-name="纬来电影频道" tvg-logo="https://live.fanmingming.com/tv/纬来电影频道.png" group-title="🐯暮雨｜推流①",纬来电影频道
+https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e6195a5
+#EXTINF:-1 tvg-id="纬来戏剧频道" tvg-name="纬来戏剧频道" tvg-logo="https://live.fanmingming.com/tv/纬来戏剧频道.png" group-title="🐯暮雨｜推流①",纬来戏剧频道
+https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e6195a0
+#EXTINF:-1 tvg-id="纬来日本频道" tvg-name="纬来日本频道" tvg-logo="https://live.fanmingming.com/tv/纬来日本频道.png" group-title="🐯暮雨｜推流①",纬来日本频道
+https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e609fa0
+#EXTINF:-1 tvg-id="纬来育乐频道" tvg-name="纬来育乐频道" tvg-logo="https://live.fanmingming.com/tv/纬来育乐频道.png" group-title="🐯暮雨｜推流①",纬来育乐频道
+https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e6099a3
+#EXTINF:-1 tvg-id="非凡商业频道" tvg-name="非凡商业频道" tvg-logo="https://live.fanmingming.com/tv/非凡商业频道.png" group-title="🐯暮雨｜推流①",非凡商业频道
+https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e609ca4
+#EXTINF:-1 tvg-id="韩国娱乐频道" tvg-name="韩国娱乐频道" tvg-logo="https://live.fanmingming.com/tv/韩国娱乐频道.png" group-title="🐯暮雨｜推流①",韩国娱乐频道
+https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e609fa2
+#EXTINF:-1 tvg-id="八大第一频道" tvg-name="八大第一频道" tvg-logo="https://live.fanmingming.com/tv/八大第一频道.png" group-title="🐯暮雨｜推流①",八大第一频道
+https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e6099a5
+#EXTINF:-1 tvg-id="八大戏剧频道" tvg-name="八大戏剧频道" tvg-logo="https://live.fanmingming.com/tv/八大戏剧频道.png" group-title="🐯暮雨｜推流①",八大戏剧频道
+https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e6098a1
+#EXTINF:-1 tvg-id="八大综合频道" tvg-name="八大综合频道" tvg-logo="https://live.fanmingming.com/tv/八大综合频道.png" group-title="🐯暮雨｜推流①",八大综合频道
+https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e609caf
+#EXTINF:-1 tvg-id="年代电影频道" tvg-name="年代电影频道" tvg-logo="https://live.fanmingming.com/tv/年代电影频道.png" group-title="🐯暮雨｜推流①",年代电影频道
+https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e6195af
+#EXTINF:-1 tvg-id="好莱坞电影闽" tvg-name="好莱坞电影闽" tvg-logo="https://live.fanmingming.com/tv/好莱坞电影闽.png" group-title="🐯暮雨｜推流①",好莱坞电影闽
+https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e609fa3
+#EXTINF:-1 tvg-id="Hbo电影频道" tvg-name="Hbo电影频道" tvg-logo="https://live.fanmingming.com/tv/Hbo电影频道.png" group-title="🐯暮雨｜推流①",Hbo电影频道
+https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e609faf
+#EXTINF:-1 tvg-id="AxN电影频道" tvg-name="AxN电影频道" tvg-logo="https://live.fanmingming.com/tv/AxN电影频道.png" group-title="🐯暮雨｜推流①",AxN电影频道
+https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e6098a2
+#EXTINF:-1 tvg-id="cinemax电影" tvg-name="cinemax电影" tvg-logo="https://live.fanmingming.com/tv/cinemax电影.png" group-title="🐯暮雨｜推流①",cinemax电影
+https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e609ea6
+#EXTINF:-1 tvg-id="Taiwan_频道" tvg-name="Taiwan_频道" tvg-logo="https://live.fanmingming.com/tv/Taiwan_频道.png" group-title="🐯暮雨｜推流①",Taiwan_频道
+https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e669aa2
+#EXTINF:-1 tvg-id="momo亲子闽" tvg-name="momo亲子闽" tvg-logo="https://live.fanmingming.com/tv/momo亲子闽.png" group-title="🐯暮雨｜推流①",momo亲子闽
+https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e609da1
+#EXTINF:-1 tvg-id="momo综合闽" tvg-name="momo综合闽" tvg-logo="https://live.fanmingming.com/tv/momo综合闽.png" group-title="🐯暮雨｜推流①",momo综合闽
+https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e629fa3
+#EXTINF:-1 tvg-id="东风卫视频道" tvg-name="东风卫视频道" tvg-logo="https://live.fanmingming.com/tv/东风卫视频道.png" group-title="🐯暮雨｜推流①",东风卫视频道
+https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e6194a3
+#EXTINF:-1 tvg-id="纬来体育频道" tvg-name="纬来体育频道" tvg-logo="https://live.fanmingming.com/tv/纬来体育频道.png" group-title="🐯暮雨｜推流①",纬来体育频道
+https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e609ca7
+#EXTINF:-1 tvg-id="博斯运动频道" tvg-name="博斯运动频道" tvg-logo="https://live.fanmingming.com/tv/博斯运动频道.png" group-title="🐯暮雨｜推流①",博斯运动频道
+https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e669aae
+#EXTINF:-1 tvg-id="TRAce体育台" tvg-name="TRAce体育台" tvg-logo="https://live.fanmingming.com/tv/TRAce体育台.png" group-title="🐯暮雨｜推流①",TRAce体育台
+https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e609da5
+#EXTINF:-1 tvg-id="DAZN体育壹" tvg-name="DAZN体育壹" tvg-logo="https://live.fanmingming.com/tv/DAZN体育壹.png" group-title="🐯暮雨｜推流①",DAZN体育壹
+https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e609baf
+#EXTINF:-1 tvg-id="DAZN体育贰" tvg-name="DAZN体育贰" tvg-logo="https://live.fanmingming.com/tv/DAZN体育贰.png" group-title="🐯暮雨｜推流①",DAZN体育贰
+https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e609aa4
+#EXTINF:-1 tvg-id="DiscoveRY台" tvg-name="DiscoveRY台" tvg-logo="https://live.fanmingming.com/tv/DiscoveRY台.png" group-title="🐯暮雨｜推流①",DiscoveRY台
+https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e609da4
+#EXTINF:-1 tvg-id="bloomberg台" tvg-name="bloomberg台" tvg-logo="https://live.fanmingming.com/tv/bloomberg台.png" group-title="🐯暮雨｜推流①",bloomberg台
+https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e609ba0
+#EXTINF:-1 tvg-id="亚洲旅游频道" tvg-name="亚洲旅游频道" tvg-logo="https://live.fanmingming.com/tv/亚洲旅游频道.png" group-title="🐯暮雨｜推流①",亚洲旅游频道
+https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e629caf
+#EXTINF:-1 tvg-id="旅游生活频道" tvg-name="旅游生活频道" tvg-logo="https://live.fanmingming.com/tv/旅游生活频道.png" group-title="🐯暮雨｜推流①",旅游生活频道
+https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e609da3
+#EXTINF:-1 tvg-id="动物星球频闽" tvg-name="动物星球频闽" tvg-logo="https://live.fanmingming.com/tv/动物星球频闽.png" group-title="🐯暮雨｜推流①",动物星球频闽
+https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e609da2
 #EXTINF:-1 tvg-id="凤凰资讯肆贰" tvg-name="凤凰资讯肆贰" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯肆贰.png" group-title="🐯暮雨｜推流②",凤凰资讯肆贰
 p2p://142.54.189.230:2215/64df4d94000505f2058d33745c142bdb.ts
 #EXTINF:-1 tvg-id="凤凰卫视肆贰" tvg-name="凤凰卫视肆贰" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视肆贰.png" group-title="🐯暮雨｜推流②",凤凰卫视肆贰
@@ -5621,6 +5223,18 @@ P2p://generationnexxxt.com:19806/e9f96143b31a4e869309a60c27c66bc4
 P2p://generationnexxxt.com:19806/bb6082c57bae466b9e6c64ba43f2c1e1
 #EXTINF:-1 tvg-id="年代新闻(B)" tvg-name="年代新闻(B)" tvg-logo="https://live.fanmingming.com/tv/年代新闻(B).png" group-title="🐯暮雨｜新闻",年代新闻(B)
 P2p://generationnexxxt.com:19806/cd32e0feca2244288f8a878d7aacf0fc
+#EXTINF:-1 tvg-id="MV轮播" tvg-name="MV轮播" tvg-logo="https://live.fanmingming.com/tv/MV轮播.png" group-title="🐯虎牙｜轮播",MV轮播
+http://zblu.exvugx.cn/bilibili/1773507853id
+#EXTINF:-1 tvg-id="演唱会" tvg-name="演唱会" tvg-logo="https://live.fanmingming.com/tv/演唱会.png" group-title="🐯虎牙｜轮播",演唱会
+http://zblu.exvugx.cn/douyu/11880223
+#EXTINF:-1 tvg-id="金典歌曲轮播" tvg-name="金典歌曲轮播" tvg-logo="https://live.fanmingming.com/tv/金典歌曲轮播.png" group-title="🐯虎牙｜轮播",金典歌曲轮播
+http://157.148.134.6/live-bvc/682702/live_1749710516_4875726_2500/index.m3u8
+#EXTINF:-1 tvg-id="周杰伦无损音乐" tvg-name="周杰伦无损音乐" tvg-logo="https://live.fanmingming.com/tv/周杰伦无损音乐.png" group-title="🐯虎牙｜轮播",周杰伦无损音乐
+http://61.240.206.17/live-bvc/664465/live_642804459_23717540_2500/index.m3u8
+#EXTINF:-1 tvg-id="24小时宫崎骏" tvg-name="24小时宫崎骏" tvg-logo="https://live.fanmingming.com/tv/24小时宫崎骏.png" group-title="🐯虎牙｜轮播",24小时宫崎骏
+http://221.15.71.3/live-bvc/664465/live_8452447_9815264/index.m3u8
+#EXTINF:-1 tvg-id="24小时轻音乐" tvg-name="24小时轻音乐" tvg-logo="https://live.fanmingming.com/tv/24小时轻音乐.png" group-title="🐯虎牙｜轮播",24小时轻音乐
+http://61.240.206.3/live-bvc/276764/live_2565439_9900945/index.m3u8
 #EXTINF:-1 tvg-id="电影_星爷" tvg-name="电影_星爷" tvg-logo="https://live.fanmingming.com/tv/电影_星爷.png" group-title="🐯虎牙｜轮播",电影_星爷
 https://www.goodiptv.club/huya/11342412
 #EXTINF:-1 tvg-id="电影_英叔" tvg-name="电影_英叔" tvg-logo="https://live.fanmingming.com/tv/电影_英叔.png" group-title="🐯虎牙｜轮播",电影_英叔
@@ -8275,6 +7889,58 @@ https://vip.ffzy-play7.com/20221128/7570_1dca45cc/2000k/hls/mixed.m3u8
 https://vip.lz-cdn3.com/20221114/15887_b3b2f329/1200k/hls/mixed.m3u8
 #EXTINF:-1 tvg-id="特务迷城" tvg-name="特务迷城" tvg-logo="https://live.fanmingming.com/tv/特务迷城.png" group-title="🐯暮雨｜成龙",特务迷城
 https://vip.lz-cdn1.com/20220411/1661_39b86486/1200k/hls/mixed.m3u8
+#EXTINF:-1 tvg-id="滨州新闻综合频道" tvg-name="滨州新闻综合频道" tvg-logo="https://live.fanmingming.com/tv/滨州新闻综合频道.png" group-title="🐯齐鲁｜大地",滨州新闻综合频道
+http://pullhls23ee9d41.live.126.net/live/14581ba42b9543139e940d7bd24797a8/playlist.m3u8
+#EXTINF:-1 tvg-id="滨州公共频道" tvg-name="滨州公共频道" tvg-logo="https://live.fanmingming.com/tv/滨州公共频道.png" group-title="🐯齐鲁｜大地",滨州公共频道
+http://pullhls23ee9d41.live.126.net/live/c493e16c720c4bc2b46129e594ee027a/playlist.m3u8
+#EXTINF:-1 tvg-id="泰安经济生活" tvg-name="泰安经济生活" tvg-logo="https://live.fanmingming.com/tv/泰安经济生活.png" group-title="🐯齐鲁｜大地",泰安经济生活
+http://zzbb.1545ts.com:8068/live/tatv222.m3u8
+#EXTINF:-1 tvg-id="泰安综合频道" tvg-name="泰安综合频道" tvg-logo="https://live.fanmingming.com/tv/泰安综合频道.png" group-title="🐯齐鲁｜大地",泰安综合频道
+http://zzbb.1545ts.com:8068/live/tatv0111.m3u8
+#EXTINF:-1 tvg-id="枣庄经济生活" tvg-name="枣庄经济生活" tvg-logo="https://live.fanmingming.com/tv/枣庄经济生活.png" group-title="🐯齐鲁｜大地",枣庄经济生活
+http://stream.zztvzd.com/2/sd/live.m3u8
+#EXTINF:-1 tvg-id="枣庄新闻综合频道" tvg-name="枣庄新闻综合频道" tvg-logo="https://live.fanmingming.com/tv/枣庄新闻综合频道.png" group-title="🐯齐鲁｜大地",枣庄新闻综合频道
+http://stream.zztvzd.com/1/sd/live.m3u8?shandd#http://stream.zztvzd.com/1/sd/live.m3u8
+#EXTINF:-1 tvg-id="枣庄公共频道" tvg-name="枣庄公共频道" tvg-logo="https://live.fanmingming.com/tv/枣庄公共频道.png" group-title="🐯齐鲁｜大地",枣庄公共频道
+http://stream.zztvzd.com/3/sd/live.m3u8?shandd#http://stream.zztvzd.com/3/sd/live.m3u8
+#EXTINF:-1 tvg-id="枣庄教育频道" tvg-name="枣庄教育频道" tvg-logo="https://live.fanmingming.com/tv/枣庄教育频道.png" group-title="🐯齐鲁｜大地",枣庄教育频道
+http://stream.zztvzd.com/2/sd/live.m3u8?shandd
+#EXTINF:-1 tvg-id="菏泽新闻综合频道" tvg-name="菏泽新闻综合频道" tvg-logo="https://live.fanmingming.com/tv/菏泽新闻综合频道.png" group-title="🐯齐鲁｜大地",菏泽新闻综合频道
+http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8?shandd#http://live.hznet.tv:1935/live/live1/500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="菏泽影视频道" tvg-name="菏泽影视频道" tvg-logo="https://live.fanmingming.com/tv/菏泽影视频道.png" group-title="🐯齐鲁｜大地",菏泽影视频道
+http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8?shandd#http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="菏泽经济生活频道" tvg-name="菏泽经济生活频道" tvg-logo="https://live.fanmingming.com/tv/菏泽经济生活频道.png" group-title="🐯齐鲁｜大地",菏泽经济生活频道
+http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8?shandd#http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="临沂综合频道" tvg-name="临沂综合频道" tvg-logo="https://live.fanmingming.com/tv/临沂综合频道.png" group-title="🐯齐鲁｜大地",临沂综合频道
+https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8
+#EXTINF:-1 tvg-id="临沂公共频道" tvg-name="临沂公共频道" tvg-logo="https://live.fanmingming.com/tv/临沂公共频道.png" group-title="🐯齐鲁｜大地",临沂公共频道
+https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
+#EXTINF:-1 tvg-id="临沂农科频道" tvg-name="临沂农科频道" tvg-logo="https://live.fanmingming.com/tv/临沂农科频道.png" group-title="🐯齐鲁｜大地",临沂农科频道
+https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
+#EXTINF:-1 tvg-id="济宁公共频道" tvg-name="济宁公共频道" tvg-logo="https://live.fanmingming.com/tv/济宁公共频道.png" group-title="🐯齐鲁｜大地",济宁公共频道
+http://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8?shandd#http://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8
+#EXTINF:-1 tvg-id="济宁新闻综合频道" tvg-name="济宁新闻综合频道" tvg-logo="https://live.fanmingming.com/tv/济宁新闻综合频道.png" group-title="🐯齐鲁｜大地",济宁新闻综合频道
+http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8?shandd#http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8
+#EXTINF:-1 tvg-id="潍坊康养频道" tvg-name="潍坊康养频道" tvg-logo="https://live.fanmingming.com/tv/潍坊康养频道.png" group-title="🐯齐鲁｜大地",潍坊康养频道
+https://wfrtv-live-tz.wfcmw.cn:82/live/35-hypd-wfkypd.m3u8
+#EXTINF:-1 tvg-id="烟台新闻综合频道" tvg-name="烟台新闻综合频道" tvg-logo="https://live.fanmingming.com/tv/烟台新闻综合频道.png" group-title="🐯齐鲁｜大地",烟台新闻综合频道
+http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8?shandd#http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8
+#EXTINF:-1 tvg-id="烟台公共频道" tvg-name="烟台公共频道" tvg-logo="https://live.fanmingming.com/tv/烟台公共频道.png" group-title="🐯齐鲁｜大地",烟台公共频道
+http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8?shandd#http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8
+#EXTINF:-1 tvg-id="烟台影视频道" tvg-name="烟台影视频道" tvg-logo="https://live.fanmingming.com/tv/烟台影视频道.png" group-title="🐯齐鲁｜大地",烟台影视频道
+http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
+#EXTINF:-1 tvg-id="青岛新闻综合频道" tvg-name="青岛新闻综合频道" tvg-logo="https://live.fanmingming.com/tv/青岛新闻综合频道.png" group-title="🐯齐鲁｜大地",青岛新闻综合频道
+http://hlspull.qtv.com.cn/gwepn2sr/channel/969b06fca3f82c40de59171b3eb9428c/index.m3u8
+#EXTINF:-1 tvg-id="青州文化旅游" tvg-name="青州文化旅游" tvg-logo="https://live.fanmingming.com/tv/青州文化旅游.png" group-title="🐯齐鲁｜大地",青州文化旅游
+http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8?shandd#http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8#rtmp://sdqz.chinashadt.com:2036/live/stream:3.stream#http://sdqz.chinashadt.com:2036/live/stream:2.stream/playlist.m3u8?shandd
+#EXTINF:-1 tvg-id="烟台经济科技" tvg-name="烟台经济科技" tvg-logo="https://live.fanmingming.com/tv/烟台经济科技.png" group-title="🐯齐鲁｜大地",烟台经济科技
+http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261-1.m3u8?shandd#http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261-1.m3u8
+#EXTINF:-1 tvg-id="教育卫视" tvg-name="教育卫视" tvg-logo="https://live.fanmingming.com/tv/教育卫视.png" group-title="🐯齐鲁｜大地",教育卫视
+http://livewai.sdetv.com.cn/live/da4ebbb91ee8468db5a9d230a535391f_transios/playlist.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
+#EXTINF:-1 tvg-id="青州综合" tvg-name="青州综合" tvg-logo="https://live.fanmingming.com/tv/青州综合.png" group-title="🐯齐鲁｜大地",青州综合
+http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8?shandd#http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8#rtmp://sdqz.chinashadt.com:2036/live/stream:1.stream
+#EXTINF:-1 tvg-id="青州生活" tvg-name="青州生活" tvg-logo="https://live.fanmingming.com/tv/青州生活.png" group-title="🐯齐鲁｜大地",青州生活
+http://sdqz.chinashadt.com:2036/live/stream:2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="平度" tvg-name="平度" tvg-logo="https://live.fanmingming.com/tv/平度.png" group-title="🐯齐鲁｜大地",平度
 http://112.226.139.185:9999/udp/239.253.254.248:8000
 #EXTINF:-1 tvg-id="青岛李沧" tvg-name="青岛李沧" tvg-logo="https://live.fanmingming.com/tv/青岛李沧.png" group-title="🐯齐鲁｜大地",青岛李沧
@@ -8561,6 +8227,396 @@ http://xkmspyxn.live.sxmty.com/live/hls/65072fcc05414062bf02088d2a2a77b2/9da9776
 http://xkmspyxn.live.sxmty.com/live/hls/65072fcc05414062bf02088d2a2a77b2/9da977614b044ef59d11779e997a12f8-1.m3u8?zshanxd
 #EXTINF:-1 tvg-id="古县综合" tvg-name="古县综合" tvg-logo="https://live.fanmingming.com/tv/古县综合.png" group-title="🐯齐鲁｜大地",古县综合
 https://l2fpdktp.live.sxmty.com/live/hls/e4c3b363cc4549788e2d983f403e07db/d99ce1eb686e41b9afc888110bd95aa7.m3u8?zshanxd
+#EXTINF:-1 tvg-id="第一集" tvg-name="第一集" tvg-logo="https://live.fanmingming.com/tv/第一集.png" group-title="🐯暮雨｜上甘岭",第一集
+https://bfikuncdn.com/20241014/Mp2vYbhp/index.m3u8
+#EXTINF:-1 tvg-id="第二集" tvg-name="第二集" tvg-logo="https://live.fanmingming.com/tv/第二集.png" group-title="🐯暮雨｜上甘岭",第二集
+https://bfikuncdn.com/20241015/7tOPyPur/index.m3u8
+#EXTINF:-1 tvg-id="第三集" tvg-name="第三集" tvg-logo="https://live.fanmingming.com/tv/第三集.png" group-title="🐯暮雨｜上甘岭",第三集
+https://bfikuncdn.com/20241015/4a7AC6su/index.m3u8
+#EXTINF:-1 tvg-id="第四集" tvg-name="第四集" tvg-logo="https://live.fanmingming.com/tv/第四集.png" group-title="🐯暮雨｜上甘岭",第四集
+https://bfikuncdn.com/20241016/MupfX0BX/index.m3u8
+#EXTINF:-1 tvg-id="第五集" tvg-name="第五集" tvg-logo="https://live.fanmingming.com/tv/第五集.png" group-title="🐯暮雨｜上甘岭",第五集
+https://bfikuncdn.com/20241016/PrHwr9l7/index.m3u8
+#EXTINF:-1 tvg-id="第六集" tvg-name="第六集" tvg-logo="https://live.fanmingming.com/tv/第六集.png" group-title="🐯暮雨｜上甘岭",第六集
+https://bfikuncdn.com/20241017/ZaM8kYuv/index.m3u8
+#EXTINF:-1 tvg-id="第七集" tvg-name="第七集" tvg-logo="https://live.fanmingming.com/tv/第七集.png" group-title="🐯暮雨｜上甘岭",第七集
+https://bfikuncdn.com/20241017/heFkAlXU/index.m3u8
+#EXTINF:-1 tvg-id="第八集" tvg-name="第八集" tvg-logo="https://live.fanmingming.com/tv/第八集.png" group-title="🐯暮雨｜上甘岭",第八集
+https://bfikuncdn.com/20241018/r1gxxG4r/index.m3u8
+#EXTINF:-1 tvg-id="第九集" tvg-name="第九集" tvg-logo="https://live.fanmingming.com/tv/第九集.png" group-title="🐯暮雨｜上甘岭",第九集
+https://bfikuncdn.com/20241018/BDeq5S6S/index.m3u8
+#EXTINF:-1 tvg-id="第十集" tvg-name="第十集" tvg-logo="https://live.fanmingming.com/tv/第十集.png" group-title="🐯暮雨｜上甘岭",第十集
+https://bfikuncdn.com/20241019/1DkdmuwQ/index.m3u8
+#EXTINF:-1 tvg-id="第十一集" tvg-name="第十一集" tvg-logo="https://live.fanmingming.com/tv/第十一集.png" group-title="🐯暮雨｜上甘岭",第十一集
+https://bfikuncdn.com/20241019/n8Bg5r5m/index.m3u8
+#EXTINF:-1 tvg-id="第一集" tvg-name="第一集" tvg-logo="https://live.fanmingming.com/tv/第一集.png" group-title="🐯跨过｜鸭绿江",第一集
+https://vip.ffzy-play9.com/20221213/21156_8638ec1a/index.m3u8
+#EXTINF:-1 tvg-id="第二集" tvg-name="第二集" tvg-logo="https://live.fanmingming.com/tv/第二集.png" group-title="🐯跨过｜鸭绿江",第二集
+https://vip.ffzy-play9.com/20221213/21158_fbc7de00/index.m3u8
+#EXTINF:-1 tvg-id="第三集" tvg-name="第三集" tvg-logo="https://live.fanmingming.com/tv/第三集.png" group-title="🐯跨过｜鸭绿江",第三集
+https://vip.ffzy-play9.com/20221213/21157_0c1107b1/index.m3u8
+#EXTINF:-1 tvg-id="第四集" tvg-name="第四集" tvg-logo="https://live.fanmingming.com/tv/第四集.png" group-title="🐯跨过｜鸭绿江",第四集
+https://vip.ffzy-play9.com/20221213/21160_7be23c3b/index.m3u8
+#EXTINF:-1 tvg-id="第五集" tvg-name="第五集" tvg-logo="https://live.fanmingming.com/tv/第五集.png" group-title="🐯跨过｜鸭绿江",第五集
+https://vip.ffzy-play9.com/20221213/21159_570a4657/index.m3u8
+#EXTINF:-1 tvg-id="第六集" tvg-name="第六集" tvg-logo="https://live.fanmingming.com/tv/第六集.png" group-title="🐯跨过｜鸭绿江",第六集
+https://vip.ffzy-play9.com/20221213/21161_98740e77/index.m3u8
+#EXTINF:-1 tvg-id="第七集" tvg-name="第七集" tvg-logo="https://live.fanmingming.com/tv/第七集.png" group-title="🐯跨过｜鸭绿江",第七集
+https://vip.ffzy-play9.com/20221213/21162_c2abd315/index.m3u8
+#EXTINF:-1 tvg-id="第八集" tvg-name="第八集" tvg-logo="https://live.fanmingming.com/tv/第八集.png" group-title="🐯跨过｜鸭绿江",第八集
+https://vip.ffzy-play9.com/20221213/21164_9349dae2/index.m3u8
+#EXTINF:-1 tvg-id="第九集" tvg-name="第九集" tvg-logo="https://live.fanmingming.com/tv/第九集.png" group-title="🐯跨过｜鸭绿江",第九集
+https://vip.ffzy-play9.com/20221213/21163_67c48c4c/index.m3u8
+#EXTINF:-1 tvg-id="第十集" tvg-name="第十集" tvg-logo="https://live.fanmingming.com/tv/第十集.png" group-title="🐯跨过｜鸭绿江",第十集
+https://vip.ffzy-play9.com/20221213/21165_d8fd72bd/index.m3u8
+#EXTINF:-1 tvg-id="第十一集" tvg-name="第十一集" tvg-logo="https://live.fanmingming.com/tv/第十一集.png" group-title="🐯跨过｜鸭绿江",第十一集
+https://vip.ffzy-play9.com/20221213/21166_4f64a8c7/index.m3u8
+#EXTINF:-1 tvg-id="第十二集" tvg-name="第十二集" tvg-logo="https://live.fanmingming.com/tv/第十二集.png" group-title="🐯跨过｜鸭绿江",第十二集
+https://vip.ffzy-play9.com/20221213/21167_5d945741/index.m3u8
+#EXTINF:-1 tvg-id="第十三集" tvg-name="第十三集" tvg-logo="https://live.fanmingming.com/tv/第十三集.png" group-title="🐯跨过｜鸭绿江",第十三集
+https://vip.ffzy-play9.com/20221213/21168_8eab49ff/index.m3u8
+#EXTINF:-1 tvg-id="第十四集" tvg-name="第十四集" tvg-logo="https://live.fanmingming.com/tv/第十四集.png" group-title="🐯跨过｜鸭绿江",第十四集
+https://vip.ffzy-play9.com/20221213/21169_be3c94a6/index.m3u8
+#EXTINF:-1 tvg-id="第十五集" tvg-name="第十五集" tvg-logo="https://live.fanmingming.com/tv/第十五集.png" group-title="🐯跨过｜鸭绿江",第十五集
+https://vip.ffzy-play9.com/20221213/21170_d09a3c73/index.m3u8
+#EXTINF:-1 tvg-id="第十六集" tvg-name="第十六集" tvg-logo="https://live.fanmingming.com/tv/第十六集.png" group-title="🐯跨过｜鸭绿江",第十六集
+https://vip.ffzy-play9.com/20221213/21171_2e17b0d9/index.m3u8
+#EXTINF:-1 tvg-id="第十七集" tvg-name="第十七集" tvg-logo="https://live.fanmingming.com/tv/第十七集.png" group-title="🐯跨过｜鸭绿江",第十七集
+https://vip.ffzy-play9.com/20221213/21172_910b7a14/index.m3u8
+#EXTINF:-1 tvg-id="第十八集" tvg-name="第十八集" tvg-logo="https://live.fanmingming.com/tv/第十八集.png" group-title="🐯跨过｜鸭绿江",第十八集
+https://vip.ffzy-play9.com/20221213/21173_f539e912/index.m3u8
+#EXTINF:-1 tvg-id="第十九集" tvg-name="第十九集" tvg-logo="https://live.fanmingming.com/tv/第十九集.png" group-title="🐯跨过｜鸭绿江",第十九集
+https://vip.ffzy-play9.com/20221213/21174_2ad2598d/index.m3u8
+#EXTINF:-1 tvg-id="第二十集" tvg-name="第二十集" tvg-logo="https://live.fanmingming.com/tv/第二十集.png" group-title="🐯跨过｜鸭绿江",第二十集
+https://vip.ffzy-play9.com/20221213/21175_f3829982/index.m3u8
+#EXTINF:-1 tvg-id="第二十一集" tvg-name="第二十一集" tvg-logo="https://live.fanmingming.com/tv/第二十一集.png" group-title="🐯跨过｜鸭绿江",第二十一集
+https://vip.ffzy-play9.com/20221213/21177_68857335/index.m3u8
+#EXTINF:-1 tvg-id="第二十二集" tvg-name="第二十二集" tvg-logo="https://live.fanmingming.com/tv/第二十二集.png" group-title="🐯跨过｜鸭绿江",第二十二集
+https://vip.ffzy-play9.com/20221213/21176_cb636593/index.m3u8
+#EXTINF:-1 tvg-id="第二十三集" tvg-name="第二十三集" tvg-logo="https://live.fanmingming.com/tv/第二十三集.png" group-title="🐯跨过｜鸭绿江",第二十三集
+https://vip.ffzy-play9.com/20221213/21178_63ea9b50/index.m3u8
+#EXTINF:-1 tvg-id="第二十四集" tvg-name="第二十四集" tvg-logo="https://live.fanmingming.com/tv/第二十四集.png" group-title="🐯跨过｜鸭绿江",第二十四集
+https://vip.ffzy-play9.com/20221213/21180_fcdeb8e7/index.m3u8
+#EXTINF:-1 tvg-id="第二十五集" tvg-name="第二十五集" tvg-logo="https://live.fanmingming.com/tv/第二十五集.png" group-title="🐯跨过｜鸭绿江",第二十五集
+https://vip.ffzy-play9.com/20221213/21179_9b4be79f/index.m3u8
+#EXTINF:-1 tvg-id="第二十六集" tvg-name="第二十六集" tvg-logo="https://live.fanmingming.com/tv/第二十六集.png" group-title="🐯跨过｜鸭绿江",第二十六集
+https://vip.ffzy-play9.com/20221213/21181_00f5fa78/index.m3u8
+#EXTINF:-1 tvg-id="第二十七集" tvg-name="第二十七集" tvg-logo="https://live.fanmingming.com/tv/第二十七集.png" group-title="🐯跨过｜鸭绿江",第二十七集
+https://vip.ffzy-play9.com/20221213/21182_952ae6b2/index.m3u8
+#EXTINF:-1 tvg-id="第二十八集" tvg-name="第二十八集" tvg-logo="https://live.fanmingming.com/tv/第二十八集.png" group-title="🐯跨过｜鸭绿江",第二十八集
+https://vip.ffzy-play9.com/20221213/21183_c38e9d0d/index.m3u8
+#EXTINF:-1 tvg-id="第二十九集" tvg-name="第二十九集" tvg-logo="https://live.fanmingming.com/tv/第二十九集.png" group-title="🐯跨过｜鸭绿江",第二十九集
+https://vip.ffzy-play9.com/20221213/21184_26b24bff/index.m3u8
+#EXTINF:-1 tvg-id="第三十集" tvg-name="第三十集" tvg-logo="https://live.fanmingming.com/tv/第三十集.png" group-title="🐯跨过｜鸭绿江",第三十集
+https://vip.ffzy-play9.com/20221213/21185_6ebe612f/index.m3u8
+#EXTINF:-1 tvg-id="第三十一集" tvg-name="第三十一集" tvg-logo="https://live.fanmingming.com/tv/第三十一集.png" group-title="🐯跨过｜鸭绿江",第三十一集
+https://vip.ffzy-play9.com/20221213/21186_6e18dda0/index.m3u8
+#EXTINF:-1 tvg-id="第三十二集" tvg-name="第三十二集" tvg-logo="https://live.fanmingming.com/tv/第三十二集.png" group-title="🐯跨过｜鸭绿江",第三十二集
+https://vip.ffzy-play9.com/20221213/21187_46919d30/index.m3u8
+#EXTINF:-1 tvg-id="第三十三集" tvg-name="第三十三集" tvg-logo="https://live.fanmingming.com/tv/第三十三集.png" group-title="🐯跨过｜鸭绿江",第三十三集
+https://vip.ffzy-play9.com/20221213/21188_1c8dcd5d/index.m3u8
+#EXTINF:-1 tvg-id="第三十四集" tvg-name="第三十四集" tvg-logo="https://live.fanmingming.com/tv/第三十四集.png" group-title="🐯跨过｜鸭绿江",第三十四集
+https://vip.ffzy-play9.com/20221213/21189_5da1560f/index.m3u8
+#EXTINF:-1 tvg-id="第三十五集" tvg-name="第三十五集" tvg-logo="https://live.fanmingming.com/tv/第三十五集.png" group-title="🐯跨过｜鸭绿江",第三十五集
+https://vip.ffzy-play9.com/20221213/21190_c9b7a406/index.m3u8
+#EXTINF:-1 tvg-id="第三十六集" tvg-name="第三十六集" tvg-logo="https://live.fanmingming.com/tv/第三十六集.png" group-title="🐯跨过｜鸭绿江",第三十六集
+https://vip.ffzy-play9.com/20221213/21191_750b48dc/index.m3u8
+#EXTINF:-1 tvg-id="第三十七集" tvg-name="第三十七集" tvg-logo="https://live.fanmingming.com/tv/第三十七集.png" group-title="🐯跨过｜鸭绿江",第三十七集
+https://vip.ffzy-play9.com/20221213/21192_8ab761cd/index.m3u8
+#EXTINF:-1 tvg-id="第三十八集" tvg-name="第三十八集" tvg-logo="https://live.fanmingming.com/tv/第三十八集.png" group-title="🐯跨过｜鸭绿江",第三十八集
+https://vip.ffzy-play9.com/20221213/21193_41912b57/index.m3u8
+#EXTINF:-1 tvg-id="第三十九集" tvg-name="第三十九集" tvg-logo="https://live.fanmingming.com/tv/第三十九集.png" group-title="🐯跨过｜鸭绿江",第三十九集
+https://vip.ffzy-play9.com/20221213/21194_1de2ea69/index.m3u8
+#EXTINF:-1 tvg-id="第四十集" tvg-name="第四十集" tvg-logo="https://live.fanmingming.com/tv/第四十集.png" group-title="🐯跨过｜鸭绿江",第四十集
+https://vip.ffzy-play9.com/20221213/21195_15966a18/index.m3u8
+#EXTINF:-1 tvg-id="第一集" tvg-name="第一集" tvg-logo="https://live.fanmingming.com/tv/第一集.png" group-title="🐯暮雨｜少年派①",第一集
+https://bfikuncdn.com/20221120/QjgdHGv7/index.m3u8
+#EXTINF:-1 tvg-id="第二集" tvg-name="第二集" tvg-logo="https://live.fanmingming.com/tv/第二集.png" group-title="🐯暮雨｜少年派①",第二集
+https://bfikuncdn.com/20221120/YtWjAhAr/index.m3u8
+#EXTINF:-1 tvg-id="第三集" tvg-name="第三集" tvg-logo="https://live.fanmingming.com/tv/第三集.png" group-title="🐯暮雨｜少年派①",第三集
+https://bfikuncdn.com/20221120/BPWJHliD/index.m3u8
+#EXTINF:-1 tvg-id="第四集" tvg-name="第四集" tvg-logo="https://live.fanmingming.com/tv/第四集.png" group-title="🐯暮雨｜少年派①",第四集
+https://bfikuncdn.com/20221120/ImzYNv8r/index.m3u8
+#EXTINF:-1 tvg-id="第五集" tvg-name="第五集" tvg-logo="https://live.fanmingming.com/tv/第五集.png" group-title="🐯暮雨｜少年派①",第五集
+https://bfikuncdn.com/20221120/u1FdEoUU/index.m3u8
+#EXTINF:-1 tvg-id="第六集" tvg-name="第六集" tvg-logo="https://live.fanmingming.com/tv/第六集.png" group-title="🐯暮雨｜少年派①",第六集
+https://bfikuncdn.com/20221120/pgWwE4tt/index.m3u8
+#EXTINF:-1 tvg-id="第七集" tvg-name="第七集" tvg-logo="https://live.fanmingming.com/tv/第七集.png" group-title="🐯暮雨｜少年派①",第七集
+https://bfikuncdn.com/20221120/j21stafY/index.m3u8
+#EXTINF:-1 tvg-id="第八集" tvg-name="第八集" tvg-logo="https://live.fanmingming.com/tv/第八集.png" group-title="🐯暮雨｜少年派①",第八集
+https://bfikuncdn.com/20221120/E19hXEsX/index.m3u8
+#EXTINF:-1 tvg-id="第九集" tvg-name="第九集" tvg-logo="https://live.fanmingming.com/tv/第九集.png" group-title="🐯暮雨｜少年派①",第九集
+https://bfikuncdn.com/20221120/x267CTjh/index.m3u8
+#EXTINF:-1 tvg-id="第十集" tvg-name="第十集" tvg-logo="https://live.fanmingming.com/tv/第十集.png" group-title="🐯暮雨｜少年派①",第十集
+https://bfikuncdn.com/20221120/R2K953sS/index.m3u8
+#EXTINF:-1 tvg-id="第十一集" tvg-name="第十一集" tvg-logo="https://live.fanmingming.com/tv/第十一集.png" group-title="🐯暮雨｜少年派①",第十一集
+https://bfikuncdn.com/20221120/H2XREUes/index.m3u8
+#EXTINF:-1 tvg-id="第十二集" tvg-name="第十二集" tvg-logo="https://live.fanmingming.com/tv/第十二集.png" group-title="🐯暮雨｜少年派①",第十二集
+https://bfikuncdn.com/20221120/Ctl7Gi4K/index.m3u8
+#EXTINF:-1 tvg-id="第十三集" tvg-name="第十三集" tvg-logo="https://live.fanmingming.com/tv/第十三集.png" group-title="🐯暮雨｜少年派①",第十三集
+https://bfikuncdn.com/20221120/frvHPQNy/index.m3u8
+#EXTINF:-1 tvg-id="第十四集" tvg-name="第十四集" tvg-logo="https://live.fanmingming.com/tv/第十四集.png" group-title="🐯暮雨｜少年派①",第十四集
+https://bfikuncdn.com/20221120/3enkH0Uk/index.m3u8
+#EXTINF:-1 tvg-id="第十五集" tvg-name="第十五集" tvg-logo="https://live.fanmingming.com/tv/第十五集.png" group-title="🐯暮雨｜少年派①",第十五集
+https://bfikuncdn.com/20221120/cPfSl1dO/index.m3u8
+#EXTINF:-1 tvg-id="第十六集" tvg-name="第十六集" tvg-logo="https://live.fanmingming.com/tv/第十六集.png" group-title="🐯暮雨｜少年派①",第十六集
+https://bfikuncdn.com/20221120/iIg4Nxos/index.m3u8
+#EXTINF:-1 tvg-id="第十七集" tvg-name="第十七集" tvg-logo="https://live.fanmingming.com/tv/第十七集.png" group-title="🐯暮雨｜少年派①",第十七集
+https://bfikuncdn.com/20221120/ycVMBrwe/index.m3u8
+#EXTINF:-1 tvg-id="第十八集" tvg-name="第十八集" tvg-logo="https://live.fanmingming.com/tv/第十八集.png" group-title="🐯暮雨｜少年派①",第十八集
+https://bfikuncdn.com/20221120/CmlOT5NO/index.m3u8
+#EXTINF:-1 tvg-id="第十九集" tvg-name="第十九集" tvg-logo="https://live.fanmingming.com/tv/第十九集.png" group-title="🐯暮雨｜少年派①",第十九集
+https://bfikuncdn.com/20221120/SsuXOBbC/index.m3u8
+#EXTINF:-1 tvg-id="第二十集" tvg-name="第二十集" tvg-logo="https://live.fanmingming.com/tv/第二十集.png" group-title="🐯暮雨｜少年派①",第二十集
+https://bfikuncdn.com/20221120/4fnqndwf/index.m3u8
+#EXTINF:-1 tvg-id="第二十一集" tvg-name="第二十一集" tvg-logo="https://live.fanmingming.com/tv/第二十一集.png" group-title="🐯暮雨｜少年派①",第二十一集
+https://bfikuncdn.com/20221120/MpIXHNlF/index.m3u8
+#EXTINF:-1 tvg-id="第二十二集" tvg-name="第二十二集" tvg-logo="https://live.fanmingming.com/tv/第二十二集.png" group-title="🐯暮雨｜少年派①",第二十二集
+https://bfikuncdn.com/20221120/EeDoJSRp/index.m3u8
+#EXTINF:-1 tvg-id="第二十三集" tvg-name="第二十三集" tvg-logo="https://live.fanmingming.com/tv/第二十三集.png" group-title="🐯暮雨｜少年派①",第二十三集
+https://bfikuncdn.com/20221120/DdXIir6F/index.m3u8
+#EXTINF:-1 tvg-id="第二十四集" tvg-name="第二十四集" tvg-logo="https://live.fanmingming.com/tv/第二十四集.png" group-title="🐯暮雨｜少年派①",第二十四集
+https://bfikuncdn.com/20221120/ZflwJUy9/index.m3u8
+#EXTINF:-1 tvg-id="第二十五集" tvg-name="第二十五集" tvg-logo="https://live.fanmingming.com/tv/第二十五集.png" group-title="🐯暮雨｜少年派①",第二十五集
+https://bfikuncdn.com/20221120/hPL59kNu/index.m3u8
+#EXTINF:-1 tvg-id="第二十六集" tvg-name="第二十六集" tvg-logo="https://live.fanmingming.com/tv/第二十六集.png" group-title="🐯暮雨｜少年派①",第二十六集
+https://bfikuncdn.com/20221120/y9iUeZ94/index.m3u8
+#EXTINF:-1 tvg-id="第二十七集" tvg-name="第二十七集" tvg-logo="https://live.fanmingming.com/tv/第二十七集.png" group-title="🐯暮雨｜少年派①",第二十七集
+https://bfikuncdn.com/20221120/6l3xOZ8a/index.m3u8
+#EXTINF:-1 tvg-id="第二十八集" tvg-name="第二十八集" tvg-logo="https://live.fanmingming.com/tv/第二十八集.png" group-title="🐯暮雨｜少年派①",第二十八集
+https://bfikuncdn.com/20221120/qFo1kB1k/index.m3u8
+#EXTINF:-1 tvg-id="第二十九集" tvg-name="第二十九集" tvg-logo="https://live.fanmingming.com/tv/第二十九集.png" group-title="🐯暮雨｜少年派①",第二十九集
+https://bfikuncdn.com/20221120/aS6bUByG/index.m3u8
+#EXTINF:-1 tvg-id="第三十集" tvg-name="第三十集" tvg-logo="https://live.fanmingming.com/tv/第三十集.png" group-title="🐯暮雨｜少年派①",第三十集
+https://bfikuncdn.com/20221120/Z9nFgKzz/index.m3u8
+#EXTINF:-1 tvg-id="第三十一集" tvg-name="第三十一集" tvg-logo="https://live.fanmingming.com/tv/第三十一集.png" group-title="🐯暮雨｜少年派①",第三十一集
+https://bfikuncdn.com/20221120/x2sIsVSF/index.m3u8
+#EXTINF:-1 tvg-id="第三十二集" tvg-name="第三十二集" tvg-logo="https://live.fanmingming.com/tv/第三十二集.png" group-title="🐯暮雨｜少年派①",第三十二集
+https://bfikuncdn.com/20221120/qL4oes14/index.m3u8
+#EXTINF:-1 tvg-id="第三十三集" tvg-name="第三十三集" tvg-logo="https://live.fanmingming.com/tv/第三十三集.png" group-title="🐯暮雨｜少年派①",第三十三集
+https://bfikuncdn.com/20221120/FhpLyUPY/index.m3u8
+#EXTINF:-1 tvg-id="第三十四集" tvg-name="第三十四集" tvg-logo="https://live.fanmingming.com/tv/第三十四集.png" group-title="🐯暮雨｜少年派①",第三十四集
+https://bfikuncdn.com/20221120/3FzjVs99/index.m3u8
+#EXTINF:-1 tvg-id="第三十五集" tvg-name="第三十五集" tvg-logo="https://live.fanmingming.com/tv/第三十五集.png" group-title="🐯暮雨｜少年派①",第三十五集
+https://bfikuncdn.com/20221120/VeUdmEtp/index.m3u8
+#EXTINF:-1 tvg-id="第三十六集" tvg-name="第三十六集" tvg-logo="https://live.fanmingming.com/tv/第三十六集.png" group-title="🐯暮雨｜少年派①",第三十六集
+https://bfikuncdn.com/20221120/QYmG4ifs/index.m3u8
+#EXTINF:-1 tvg-id="第三十七集" tvg-name="第三十七集" tvg-logo="https://live.fanmingming.com/tv/第三十七集.png" group-title="🐯暮雨｜少年派①",第三十七集
+https://bfikuncdn.com/20221120/Zrqmv5r0/index.m3u8
+#EXTINF:-1 tvg-id="第三十八集" tvg-name="第三十八集" tvg-logo="https://live.fanmingming.com/tv/第三十八集.png" group-title="🐯暮雨｜少年派①",第三十八集
+https://bfikuncdn.com/20221120/FJxqmgVz/index.m3u8
+#EXTINF:-1 tvg-id="第三十九集" tvg-name="第三十九集" tvg-logo="https://live.fanmingming.com/tv/第三十九集.png" group-title="🐯暮雨｜少年派①",第三十九集
+https://bfikuncdn.com/20221120/75HFlL61/index.m3u8
+#EXTINF:-1 tvg-id="第四十集" tvg-name="第四十集" tvg-logo="https://live.fanmingming.com/tv/第四十集.png" group-title="🐯暮雨｜少年派①",第四十集
+https://bfikuncdn.com/20221120/FH2rbSZ8/index.m3u8
+#EXTINF:-1 tvg-id="第一集" tvg-name="第一集" tvg-logo="https://live.fanmingming.com/tv/第一集.png" group-title="🐯暮雨｜少年派②",第一集
+https://bfikuncdn.com/20221231/xI7cc4JG/index.m3u8
+#EXTINF:-1 tvg-id="第二集" tvg-name="第二集" tvg-logo="https://live.fanmingming.com/tv/第二集.png" group-title="🐯暮雨｜少年派②",第二集
+https://bfikuncdn.com/20221231/a7Ld66p3/index.m3u8
+#EXTINF:-1 tvg-id="第三集" tvg-name="第三集" tvg-logo="https://live.fanmingming.com/tv/第三集.png" group-title="🐯暮雨｜少年派②",第三集
+https://bfikuncdn.com/20221231/8ZEiUng9/index.m3u8
+#EXTINF:-1 tvg-id="第四集" tvg-name="第四集" tvg-logo="https://live.fanmingming.com/tv/第四集.png" group-title="🐯暮雨｜少年派②",第四集
+https://bfikuncdn.com/20221231/6N9mr8oq/index.m3u8
+#EXTINF:-1 tvg-id="第五集" tvg-name="第五集" tvg-logo="https://live.fanmingming.com/tv/第五集.png" group-title="🐯暮雨｜少年派②",第五集
+https://bfikuncdn.com/20221231/1jZg2UFC/index.m3u8
+#EXTINF:-1 tvg-id="第六集" tvg-name="第六集" tvg-logo="https://live.fanmingming.com/tv/第六集.png" group-title="🐯暮雨｜少年派②",第六集
+https://bfikuncdn.com/20230105/f3eYHVTi/index.m3u8
+#EXTINF:-1 tvg-id="第七集" tvg-name="第七集" tvg-logo="https://live.fanmingming.com/tv/第七集.png" group-title="🐯暮雨｜少年派②",第七集
+https://bfikuncdn.com/20230105/bbm8sUs6/index.m3u8
+#EXTINF:-1 tvg-id="第八集" tvg-name="第八集" tvg-logo="https://live.fanmingming.com/tv/第八集.png" group-title="🐯暮雨｜少年派②",第八集
+https://bfikuncdn.com/20221231/rDFXct4x/index.m3u8
+#EXTINF:-1 tvg-id="第九集" tvg-name="第九集" tvg-logo="https://live.fanmingming.com/tv/第九集.png" group-title="🐯暮雨｜少年派②",第九集
+https://bfikuncdn.com/20221231/jRk0dxpM/index.m3u8
+#EXTINF:-1 tvg-id="第十集" tvg-name="第十集" tvg-logo="https://live.fanmingming.com/tv/第十集.png" group-title="🐯暮雨｜少年派②",第十集
+https://bfikuncdn.com/20221231/sqZgaXxY/indexm3u8
+#EXTINF:-1 tvg-id="第十二集" tvg-name="第十二集" tvg-logo="https://live.fanmingming.com/tv/第十二集.png" group-title="🐯暮雨｜少年派②",第十二集
+https://bfikuncdn.com/20221231/3hCf4ShY/index.m3u8
+#EXTINF:-1 tvg-id="第十三集" tvg-name="第十三集" tvg-logo="https://live.fanmingming.com/tv/第十三集.png" group-title="🐯暮雨｜少年派②",第十三集
+https://bfikuncdn.com/20221231/m6lVLWW0/index.m3u8
+#EXTINF:-1 tvg-id="第十四集" tvg-name="第十四集" tvg-logo="https://live.fanmingming.com/tv/第十四集.png" group-title="🐯暮雨｜少年派②",第十四集
+https://bfikuncdn.com/20230105/tey5PJI6/index.m3u8
+#EXTINF:-1 tvg-id="第十五集" tvg-name="第十五集" tvg-logo="https://live.fanmingming.com/tv/第十五集.png" group-title="🐯暮雨｜少年派②",第十五集
+https://bfikuncdn.com/20230105/i6pot8bu/index.m3u8
+#EXTINF:-1 tvg-id="第十六集" tvg-name="第十六集" tvg-logo="https://live.fanmingming.com/tv/第十六集.png" group-title="🐯暮雨｜少年派②",第十六集
+https://bfikuncdn.com/20230105/o38YcqW8/index.m3u8
+#EXTINF:-1 tvg-id="第十七集" tvg-name="第十七集" tvg-logo="https://live.fanmingming.com/tv/第十七集.png" group-title="🐯暮雨｜少年派②",第十七集
+https://bfikuncdn.com/20230105/1yKb2rU6/index.m3u8
+#EXTINF:-1 tvg-id="第十八集" tvg-name="第十八集" tvg-logo="https://live.fanmingming.com/tv/第十八集.png" group-title="🐯暮雨｜少年派②",第十八集
+https://bfikuncdn.com/20230105/fZJAnuVo/index.m3u8
+#EXTINF:-1 tvg-id="第十九集" tvg-name="第十九集" tvg-logo="https://live.fanmingming.com/tv/第十九集.png" group-title="🐯暮雨｜少年派②",第十九集
+https://bfikuncdn.com/20230105/r5q9jsrp/index.m3u8
+#EXTINF:-1 tvg-id="第二十集" tvg-name="第二十集" tvg-logo="https://live.fanmingming.com/tv/第二十集.png" group-title="🐯暮雨｜少年派②",第二十集
+https://bfikuncdn.com/20230105/7ocimc7Z/index.m3u8
+#EXTINF:-1 tvg-id="第二十一集" tvg-name="第二十一集" tvg-logo="https://live.fanmingming.com/tv/第二十一集.png" group-title="🐯暮雨｜少年派②",第二十一集
+https://bfikuncdn.com/20221231/UuGYFQwO/index.m3u8
+#EXTINF:-1 tvg-id="第二十二集" tvg-name="第二十二集" tvg-logo="https://live.fanmingming.com/tv/第二十二集.png" group-title="🐯暮雨｜少年派②",第二十二集
+https://bfikuncdn.com/20221231/YIWCUNVL/index.m3u8
+#EXTINF:-1 tvg-id="第二十三集" tvg-name="第二十三集" tvg-logo="https://live.fanmingming.com/tv/第二十三集.png" group-title="🐯暮雨｜少年派②",第二十三集
+https://bfikuncdn.com/20221231/jpe24AIt/index.m3u8
+#EXTINF:-1 tvg-id="第二十四集" tvg-name="第二十四集" tvg-logo="https://live.fanmingming.com/tv/第二十四集.png" group-title="🐯暮雨｜少年派②",第二十四集
+https://bfikuncdn.com/20221231/mYp88DaK/index.m3u8
+#EXTINF:-1 tvg-id="第二十五集" tvg-name="第二十五集" tvg-logo="https://live.fanmingming.com/tv/第二十五集.png" group-title="🐯暮雨｜少年派②",第二十五集
+https://bfikuncdn.com/20221231/Z2bGGxqB/index.m3u8
+#EXTINF:-1 tvg-id="第二十六集" tvg-name="第二十六集" tvg-logo="https://live.fanmingming.com/tv/第二十六集.png" group-title="🐯暮雨｜少年派②",第二十六集
+https://bfikuncdn.com/20221231/O61sKqAI/index.m3u8
+#EXTINF:-1 tvg-id="第二十七集" tvg-name="第二十七集" tvg-logo="https://live.fanmingming.com/tv/第二十七集.png" group-title="🐯暮雨｜少年派②",第二十七集
+https://bfikuncdn.com/20221231/hc8UmqwB/index.m3u8
+#EXTINF:-1 tvg-id="第二十八集" tvg-name="第二十八集" tvg-logo="https://live.fanmingming.com/tv/第二十八集.png" group-title="🐯暮雨｜少年派②",第二十八集
+https://bfikuncdn.com/20221231/GAdnb0Pp/index.m3u8
+#EXTINF:-1 tvg-id="第二十九集" tvg-name="第二十九集" tvg-logo="https://live.fanmingming.com/tv/第二十九集.png" group-title="🐯暮雨｜少年派②",第二十九集
+https://bfikuncdn.com/20221231/ggtRLGfs/index.m3u8
+#EXTINF:-1 tvg-id="第三十集" tvg-name="第三十集" tvg-logo="https://live.fanmingming.com/tv/第三十集.png" group-title="🐯暮雨｜少年派②",第三十集
+https://bfikuncdn.com/20221231/H1sBGIlH/index.m3u8
+#EXTINF:-1 tvg-id="第三十一集" tvg-name="第三十一集" tvg-logo="https://live.fanmingming.com/tv/第三十一集.png" group-title="🐯暮雨｜少年派②",第三十一集
+https://bfikuncdn.com/20221231/6CPIXUMP/index.m3u8
+#EXTINF:-1 tvg-id="第三十二集" tvg-name="第三十二集" tvg-logo="https://live.fanmingming.com/tv/第三十二集.png" group-title="🐯暮雨｜少年派②",第三十二集
+https://bfikuncdn.com/20221231/q69mfjGP/index.m3u8
+#EXTINF:-1 tvg-id="第三十三集" tvg-name="第三十三集" tvg-logo="https://live.fanmingming.com/tv/第三十三集.png" group-title="🐯暮雨｜少年派②",第三十三集
+https://bfikuncdn.com/20221231/gXUK7PAa/index.m3u8
+#EXTINF:-1 tvg-id="第三十四集" tvg-name="第三十四集" tvg-logo="https://live.fanmingming.com/tv/第三十四集.png" group-title="🐯暮雨｜少年派②",第三十四集
+https://bfikuncdn.com/20221231/mP8KC2F5/index.m3u8
+#EXTINF:-1 tvg-id="第三十五集" tvg-name="第三十五集" tvg-logo="https://live.fanmingming.com/tv/第三十五集.png" group-title="🐯暮雨｜少年派②",第三十五集
+https://bfikuncdn.com/20221231/KLYShcT8/index.m3u8
+#EXTINF:-1 tvg-id="第三十六集" tvg-name="第三十六集" tvg-logo="https://live.fanmingming.com/tv/第三十六集.png" group-title="🐯暮雨｜少年派②",第三十六集
+https://bfikuncdn.com/20221231/loUtDbCB/index.m3u8
+#EXTINF:-1 tvg-id="第三十七集" tvg-name="第三十七集" tvg-logo="https://live.fanmingming.com/tv/第三十七集.png" group-title="🐯暮雨｜少年派②",第三十七集
+https://bfikuncdn.com/20221231/AKyCUskC/index.m3u8
+#EXTINF:-1 tvg-id="第三十八集" tvg-name="第三十八集" tvg-logo="https://live.fanmingming.com/tv/第三十八集.png" group-title="🐯暮雨｜少年派②",第三十八集
+https://bfikuncdn.com/20221231/70trtidl/index.m3u8
+#EXTINF:-1 tvg-id="第三十九集" tvg-name="第三十九集" tvg-logo="https://live.fanmingming.com/tv/第三十九集.png" group-title="🐯暮雨｜少年派②",第三十九集
+https://bfikuncdn.com/20221231/pJhBNwil/index.m3u8
+#EXTINF:-1 tvg-id="第四十集" tvg-name="第四十集" tvg-logo="https://live.fanmingming.com/tv/第四十集.png" group-title="🐯暮雨｜少年派②",第四十集
+https://bfikuncdn.com/20221231/5MG5lLhe/index.m3u8
+#EXTINF:-1 tvg-id="第一集" tvg-name="第一集" tvg-logo="https://live.fanmingming.com/tv/第一集.png" group-title="🐯时光与他｜恰是正好",第一集
+https://svipsvip.ffzyread1.com/20221225/5535_bb8d7b89/index.m3u8
+#EXTINF:-1 tvg-id="第二集" tvg-name="第二集" tvg-logo="https://live.fanmingming.com/tv/第二集.png" group-title="🐯时光与他｜恰是正好",第二集
+https://bfikuncdn.com/20221225/ZhSZtaQk/index.m3u8
+#EXTINF:-1 tvg-id="第三集" tvg-name="第三集" tvg-logo="https://live.fanmingming.com/tv/第三集.png" group-title="🐯时光与他｜恰是正好",第三集
+https://bfikuncdn.com/20221225/BDBYNfTh/index.m3u8
+#EXTINF:-1 tvg-id="第四集" tvg-name="第四集" tvg-logo="https://live.fanmingming.com/tv/第四集.png" group-title="🐯时光与他｜恰是正好",第四集
+https://bfikuncdn.com/20221225/ec7Ad8BT/index.m3u8
+#EXTINF:-1 tvg-id="第五集" tvg-name="第五集" tvg-logo="https://live.fanmingming.com/tv/第五集.png" group-title="🐯时光与他｜恰是正好",第五集
+https://bfikuncdn.com/20221225/AqGACYAC/index.m3u8
+#EXTINF:-1 tvg-id="第六集" tvg-name="第六集" tvg-logo="https://live.fanmingming.com/tv/第六集.png" group-title="🐯时光与他｜恰是正好",第六集
+https://bfikuncdn.com/20221225/9HucfaYK/index.m3u8
+#EXTINF:-1 tvg-id="第七集" tvg-name="第七集" tvg-logo="https://live.fanmingming.com/tv/第七集.png" group-title="🐯时光与他｜恰是正好",第七集
+https://bfikuncdn.com/20221226/HoNtPKyA/index.m3u8
+#EXTINF:-1 tvg-id="第八集" tvg-name="第八集" tvg-logo="https://live.fanmingming.com/tv/第八集.png" group-title="🐯时光与他｜恰是正好",第八集
+https://bfikuncdn.com/20221226/jYDXUO21/index.m3u8
+#EXTINF:-1 tvg-id="第九集" tvg-name="第九集" tvg-logo="https://live.fanmingming.com/tv/第九集.png" group-title="🐯时光与他｜恰是正好",第九集
+https://bfikuncdn.com/20221227/87KKhuHe/index.m3u8
+#EXTINF:-1 tvg-id="第十集" tvg-name="第十集" tvg-logo="https://live.fanmingming.com/tv/第十集.png" group-title="🐯时光与他｜恰是正好",第十集
+https://bfikuncdn.com/20221227/pGLpnrvM/index.m3u8
+#EXTINF:-1 tvg-id="第十一集" tvg-name="第十一集" tvg-logo="https://live.fanmingming.com/tv/第十一集.png" group-title="🐯时光与他｜恰是正好",第十一集
+https://bfikuncdn.com/20221228/RdTZ5ZcV/index.m3u8
+#EXTINF:-1 tvg-id="第十二集" tvg-name="第十二集" tvg-logo="https://live.fanmingming.com/tv/第十二集.png" group-title="🐯时光与他｜恰是正好",第十二集
+https://bfikuncdn.com/20221228/8IqQCofw/index.m3u8
+#EXTINF:-1 tvg-id="第十三集" tvg-name="第十三集" tvg-logo="https://live.fanmingming.com/tv/第十三集.png" group-title="🐯时光与他｜恰是正好",第十三集
+https://bfikuncdn.com/20230101/gTEAz47T/index.m3u8
+#EXTINF:-1 tvg-id="第十四集" tvg-name="第十四集" tvg-logo="https://live.fanmingming.com/tv/第十四集.png" group-title="🐯时光与他｜恰是正好",第十四集
+https://bfikuncdn.com/20230101/UVVhTJSr/index.m3u8
+#EXTINF:-1 tvg-id="第十五集" tvg-name="第十五集" tvg-logo="https://live.fanmingming.com/tv/第十五集.png" group-title="🐯时光与他｜恰是正好",第十五集
+https://bfikuncdn.com/20230102/OyqVR1Mt/index.m3u8
+#EXTINF:-1 tvg-id="第十六集" tvg-name="第十六集" tvg-logo="https://live.fanmingming.com/tv/第十六集.png" group-title="🐯时光与他｜恰是正好",第十六集
+https://bfikuncdn.com/20230102/QR7ACLfp/index.m3u8
+#EXTINF:-1 tvg-id="第十七集" tvg-name="第十七集" tvg-logo="https://live.fanmingming.com/tv/第十七集.png" group-title="🐯时光与他｜恰是正好",第十七集
+https://bfikuncdn.com/20230103/hNBIF8gj/index.m3u8
+#EXTINF:-1 tvg-id="第十八集" tvg-name="第十八集" tvg-logo="https://live.fanmingming.com/tv/第十八集.png" group-title="🐯时光与他｜恰是正好",第十八集
+https://bfikuncdn.com/20230103/XGhyVhFI/index.m3u8
+#EXTINF:-1 tvg-id="第十九集" tvg-name="第十九集" tvg-logo="https://live.fanmingming.com/tv/第十九集.png" group-title="🐯时光与他｜恰是正好",第十九集
+https://bfikuncdn.com/20230108/G9dWOdFB/index.m3u8
+#EXTINF:-1 tvg-id="第二十集" tvg-name="第二十集" tvg-logo="https://live.fanmingming.com/tv/第二十集.png" group-title="🐯时光与他｜恰是正好",第二十集
+https://bfikuncdn.com/20230108/n3upQyHG/index.m3u8
+#EXTINF:-1 tvg-id="第二十一集" tvg-name="第二十一集" tvg-logo="https://live.fanmingming.com/tv/第二十一集.png" group-title="🐯时光与他｜恰是正好",第二十一集
+https://bfikuncdn.com/20230109/zGHploGL/index.m3u8
+#EXTINF:-1 tvg-id="第二十二集" tvg-name="第二十二集" tvg-logo="https://live.fanmingming.com/tv/第二十二集.png" group-title="🐯时光与他｜恰是正好",第二十二集
+https://bfikuncdn.com/20230109/bXKduXqb/index.m3u8
+#EXTINF:-1 tvg-id="第二十三集" tvg-name="第二十三集" tvg-logo="https://live.fanmingming.com/tv/第二十三集.png" group-title="🐯时光与他｜恰是正好",第二十三集
+https://bfikuncdn.com/20230110/jZ23WnNs/index.m3u8
+#EXTINF:-1 tvg-id="第二十四集" tvg-name="第二十四集" tvg-logo="https://live.fanmingming.com/tv/第二十四集.png" group-title="🐯时光与他｜恰是正好",第二十四集
+https://bfikuncdn.com/20230110/ok7l1XHZ/index.m3u8
+#EXTINF:-1 tvg-id="第二十五集" tvg-name="第二十五集" tvg-logo="https://live.fanmingming.com/tv/第二十五集.png" group-title="🐯时光与他｜恰是正好",第二十五集
+https://bfikuncdn.com/20230111/briM7MD1/index.m3u8
+#EXTINF:-1 tvg-id="第一集" tvg-name="第一集" tvg-logo="https://live.fanmingming.com/tv/第一集.png" group-title="🐯你比星光｜美丽",第一集
+https://bfikuncdn.com/20240702/H6ISZJ00/index.m3u8
+#EXTINF:-1 tvg-id="第二集" tvg-name="第二集" tvg-logo="https://live.fanmingming.com/tv/第二集.png" group-title="🐯你比星光｜美丽",第二集
+https://bfikuncdn.com/20240702/RHPGIoSX/index.m3u8
+#EXTINF:-1 tvg-id="第三集" tvg-name="第三集" tvg-logo="https://live.fanmingming.com/tv/第三集.png" group-title="🐯你比星光｜美丽",第三集
+https://bfikuncdn.com/20240702/xLNMdveh/index.m3u8
+#EXTINF:-1 tvg-id="第四集" tvg-name="第四集" tvg-logo="https://live.fanmingming.com/tv/第四集.png" group-title="🐯你比星光｜美丽",第四集
+https://bfikuncdn.com/20240702/Vedn5qZw/index.m3u8
+#EXTINF:-1 tvg-id="第五集" tvg-name="第五集" tvg-logo="https://live.fanmingming.com/tv/第五集.png" group-title="🐯你比星光｜美丽",第五集
+https://bfikuncdn.com/20240703/rLw2D99p/index.m3u8
+#EXTINF:-1 tvg-id="第六集" tvg-name="第六集" tvg-logo="https://live.fanmingming.com/tv/第六集.png" group-title="🐯你比星光｜美丽",第六集
+https://bfikuncdn.com/20240703/mO0nd6YX/index.m3u8
+#EXTINF:-1 tvg-id="第七集" tvg-name="第七集" tvg-logo="https://live.fanmingming.com/tv/第七集.png" group-title="🐯你比星光｜美丽",第七集
+https://bfikuncdn.com/20240704/5iJR1lCH/index.m3u8
+#EXTINF:-1 tvg-id="第八集" tvg-name="第八集" tvg-logo="https://live.fanmingming.com/tv/第八集.png" group-title="🐯你比星光｜美丽",第八集
+https://bfikuncdn.com/20240704/P93Jwxu5/index.m3u8
+#EXTINF:-1 tvg-id="第九集" tvg-name="第九集" tvg-logo="https://live.fanmingming.com/tv/第九集.png" group-title="🐯你比星光｜美丽",第九集
+https://bfikuncdn.com/20240705/j0605Jxt/index.m3u8
+#EXTINF:-1 tvg-id="第十集" tvg-name="第十集" tvg-logo="https://live.fanmingming.com/tv/第十集.png" group-title="🐯你比星光｜美丽",第十集
+https://bfikuncdn.com/20240706/LcKAfxkp/index.m3u8
+#EXTINF:-1 tvg-id="第十一集" tvg-name="第十一集" tvg-logo="https://live.fanmingming.com/tv/第十一集.png" group-title="🐯你比星光｜美丽",第十一集
+https://bfikuncdn.com/20240707/XbVDY762/index.m3u8
+#EXTINF:-1 tvg-id="第十二集" tvg-name="第十二集" tvg-logo="https://live.fanmingming.com/tv/第十二集.png" group-title="🐯你比星光｜美丽",第十二集
+https://bfikuncdn.com/20240708/SQDksG3r/index.m3u8
+#EXTINF:-1 tvg-id="第十三集" tvg-name="第十三集" tvg-logo="https://live.fanmingming.com/tv/第十三集.png" group-title="🐯你比星光｜美丽",第十三集
+https://bfikuncdn.com/20240708/hnjYOGM9/index.m3u8
+#EXTINF:-1 tvg-id="第十四集" tvg-name="第十四集" tvg-logo="https://live.fanmingming.com/tv/第十四集.png" group-title="🐯你比星光｜美丽",第十四集
+https://bfikuncdn.com/20240709/kpXUgC4F/index.m3u8
+#EXTINF:-1 tvg-id="第十五集" tvg-name="第十五集" tvg-logo="https://live.fanmingming.com/tv/第十五集.png" group-title="🐯你比星光｜美丽",第十五集
+https://bfikuncdn.com/20240709/f0Jhfr6Z/index.m3u8
+#EXTINF:-1 tvg-id="第十六集" tvg-name="第十六集" tvg-logo="https://live.fanmingming.com/tv/第十六集.png" group-title="🐯你比星光｜美丽",第十六集
+https://bfikuncdn.com/20240710/4FZ9Ld7G/index.m3u8
+#EXTINF:-1 tvg-id="第十七集" tvg-name="第十七集" tvg-logo="https://live.fanmingming.com/tv/第十七集.png" group-title="🐯你比星光｜美丽",第十七集
+https://bfikuncdn.com/20240710/TjnKyauO/index.m3u8
+#EXTINF:-1 tvg-id="第十八集" tvg-name="第十八集" tvg-logo="https://live.fanmingming.com/tv/第十八集.png" group-title="🐯你比星光｜美丽",第十八集
+https://bfikuncdn.com/20240711/uYpOpABO/index.m3u8
+#EXTINF:-1 tvg-id="第十九集" tvg-name="第十九集" tvg-logo="https://live.fanmingming.com/tv/第十九集.png" group-title="🐯你比星光｜美丽",第十九集
+https://bfikuncdn.com/20240711/Xrv2M2IY/index.m3u8
+#EXTINF:-1 tvg-id="第二十集" tvg-name="第二十集" tvg-logo="https://live.fanmingming.com/tv/第二十集.png" group-title="🐯你比星光｜美丽",第二十集
+https://bfikuncdn.com/20240712/pXhiPrSY/index.m3u8
+#EXTINF:-1 tvg-id="第二十一集" tvg-name="第二十一集" tvg-logo="https://live.fanmingming.com/tv/第二十一集.png" group-title="🐯你比星光｜美丽",第二十一集
+https://bfikuncdn.com/20240713/ZijKIsTT/index.m3u8
+#EXTINF:-1 tvg-id="第二十二集" tvg-name="第二十二集" tvg-logo="https://live.fanmingming.com/tv/第二十二集.png" group-title="🐯你比星光｜美丽",第二十二集
+https://bfikuncdn.com/20240714/rSsuc8f7/index.m3u8
+#EXTINF:-1 tvg-id="第二十三集" tvg-name="第二十三集" tvg-logo="https://live.fanmingming.com/tv/第二十三集.png" group-title="🐯你比星光｜美丽",第二十三集
+https://bfikuncdn.com/20240715/UHQ7tmth/index.m3u8
+#EXTINF:-1 tvg-id="第二十四集" tvg-name="第二十四集" tvg-logo="https://live.fanmingming.com/tv/第二十四集.png" group-title="🐯你比星光｜美丽",第二十四集
+https://bfikuncdn.com/20240715/6VTcXgjF/index.m3u8
+#EXTINF:-1 tvg-id="第二十五集" tvg-name="第二十五集" tvg-logo="https://live.fanmingming.com/tv/第二十五集.png" group-title="🐯你比星光｜美丽",第二十五集
+https://bfikuncdn.com/20240716/uv3wckHu/index.m3u8
+#EXTINF:-1 tvg-id="第二十六集" tvg-name="第二十六集" tvg-logo="https://live.fanmingming.com/tv/第二十六集.png" group-title="🐯你比星光｜美丽",第二十六集
+https://bfikuncdn.com/20240716/CvNhEnaG/index.m3u8
+#EXTINF:-1 tvg-id="第二十七集" tvg-name="第二十七集" tvg-logo="https://live.fanmingming.com/tv/第二十七集.png" group-title="🐯你比星光｜美丽",第二十七集
+https://bfikuncdn.com/20240717/LKYTB5ig/index.m3u8
+#EXTINF:-1 tvg-id="第二十八集" tvg-name="第二十八集" tvg-logo="https://live.fanmingming.com/tv/第二十八集.png" group-title="🐯你比星光｜美丽",第二十八集
+https://bfikuncdn.com/20240717/wv3I5K05/index.m3u8
+#EXTINF:-1 tvg-id="第二十九集" tvg-name="第二十九集" tvg-logo="https://live.fanmingming.com/tv/第二十九集.png" group-title="🐯你比星光｜美丽",第二十九集
+https://bfikuncdn.com/20240718/8FTFk3f9/index.m3u8
+#EXTINF:-1 tvg-id="第三十集" tvg-name="第三十集" tvg-logo="https://live.fanmingming.com/tv/第三十集.png" group-title="🐯你比星光｜美丽",第三十集
+https://bfikuncdn.com/20240718/MFYFpS0E/index.m3u8
+#EXTINF:-1 tvg-id="第三十一集" tvg-name="第三十一集" tvg-logo="https://live.fanmingming.com/tv/第三十一集.png" group-title="🐯你比星光｜美丽",第三十一集
+https://bfikuncdn.com/20240719/9XBrVzdX/index.m3u8
+#EXTINF:-1 tvg-id="第三十二集" tvg-name="第三十二集" tvg-logo="https://live.fanmingming.com/tv/第三十二集.png" group-title="🐯你比星光｜美丽",第三十二集
+https://bfikuncdn.com/20240720/liSatc9k/index.m3u8
+#EXTINF:-1 tvg-id="第三十三集" tvg-name="第三十三集" tvg-logo="https://live.fanmingming.com/tv/第三十三集.png" group-title="🐯你比星光｜美丽",第三十三集
+https://bfikuncdn.com/20240721/qkKAS6Gu/index.m3u8
+#EXTINF:-1 tvg-id="第三十四集" tvg-name="第三十四集" tvg-logo="https://live.fanmingming.com/tv/第三十四集.png" group-title="🐯你比星光｜美丽",第三十四集
+https://bfikuncdn.com/20240722/K2WHcxwf/index.m3u8
+#EXTINF:-1 tvg-id="第三十五集" tvg-name="第三十五集" tvg-logo="https://live.fanmingming.com/tv/第三十五集.png" group-title="🐯你比星光｜美丽",第三十五集
+https://bfikuncdn.com/20240723/VS0T8K8U/index.m3u8
+#EXTINF:-1 tvg-id="第三十六集" tvg-name="第三十六集" tvg-logo="https://live.fanmingming.com/tv/第三十六集.png" group-title="🐯你比星光｜美丽",第三十六集
+https://bfikuncdn.com/20240723/AVzkkIV5/index.m3u8
+#EXTINF:-1 tvg-id="第三十七集" tvg-name="第三十七集" tvg-logo="https://live.fanmingming.com/tv/第三十七集.png" group-title="🐯你比星光｜美丽",第三十七集
+https://bfikuncdn.com/20240723/dC01PLfx/index.m3u8
+#EXTINF:-1 tvg-id="第三十八集" tvg-name="第三十八集" tvg-logo="https://live.fanmingming.com/tv/第三十八集.png" group-title="🐯你比星光｜美丽",第三十八集
+https://bfikuncdn.com/20240723/W28fS357/index.m3u8
+#EXTINF:-1 tvg-id="第三十九集" tvg-name="第三十九集" tvg-logo="https://live.fanmingming.com/tv/第三十九集.png" group-title="🐯你比星光｜美丽",第三十九集
+https://bfikuncdn.com/20240723/kr6WwPlC/index.m3u8
+#EXTINF:-1 tvg-id="第四十集" tvg-name="第四十集" tvg-logo="https://live.fanmingming.com/tv/第四十集.png" group-title="🐯你比星光｜美丽",第四十集
+https://bfikuncdn.com/20240723/M9bExo7l/index.m3u8
 #EXTINF:-1 tvg-id="春晚1983年" tvg-name="春晚1983年" tvg-logo="https://live.fanmingming.com/tv/春晚1983年.png" group-title="🐯历年｜春晚",春晚1983年
 https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
 #EXTINF:-1 tvg-id="春晚1984年" tvg-name="春晚1984年" tvg-logo="https://live.fanmingming.com/tv/春晚1984年.png" group-title="🐯历年｜春晚",春晚1984年
